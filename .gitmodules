@@ -1,0 +1,15 @@
+[submodule "displaymode"]
+	path = displaymode
+	url = https://github.com/syl3r86/displaymode
+[submodule "entityorder"]
+	path = entityorder
+	url = https://github.com/kakaroto/fvtt-module-entityorder
+[submodule "popout"]
+	path = popout
+	url = https://github.com/kakaroto/fvtt-module-popout
+[submodule "journal-enhancer"]
+	path = journal-enhancer
+	url = https://gitlab.com/moerills-fvtt-modules/journal-enhancer
+[submodule "scaleGrid"]
+	path = scaleGrid
+	url = https://github.com/UberV/scaleGrid/
