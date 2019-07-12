@@ -1,4 +1,4 @@
-# Foundry VTT Modules (Universal)
+# Foundry VTT Module Repository
 
 **Description**: Foundry modules that work across all or most systems are noted here.  These may include reskins, general improvement mods, and more.
 
