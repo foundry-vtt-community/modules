@@ -22,7 +22,7 @@ git submodule update name-of-the-module
 
 Foundry modules that work across all or most systems are noted here. These may include reskins, general improvement mods, and more.
 
-## [Display mode](Foundry VTT Modules (Universal)/displaymode.md)
+## [Display mode](Foundry%20VTT%20Modules%20(Universal)/displaymode.md)
 This module makes it so that when you click the anvil in the top left of the screen, the sidebar in Foundry is hidden.
 
 ## [Entity Order](Foundry VTT Modules (Universal)/fvtt-module-entityorder.md)
