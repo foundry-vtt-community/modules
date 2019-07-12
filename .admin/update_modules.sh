@@ -41,7 +41,8 @@ for section in csplit-sections-* ; do
 					fi
 				fi
 				mv $module "${section_name}/${dir}.md"
-				echo "## [$name](${section_name}/${dir}.md)" >> modules.md
+				link=$(echo ${section_name}/${dir}.md | sed -e 's/ /%20/g')
+				echo "## [$name]($link)" >> modules.md
 				echo $description >> modules.md
 				echo "" >> modules.md
 			else
