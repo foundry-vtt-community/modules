@@ -1,5 +1,25 @@
 #!/bin/sh
 
+# From https://stackoverflow.com/questions/296536/how-to-urlencode-data-for-curl-command
+
+rawurlencode() {
+  local string="${1}"
+  local strlen=${#string}
+  local encoded=""
+  local pos c o
+
+  for (( pos=0 ; pos<strlen ; pos++ )); do
+     c=${string:$pos:1}
+     case "$c" in
+        [-_.~a-zA-Z0-9] ) o="${c}" ;;
+        * )               printf -v o '%%%02x' "'$c"
+     esac
+     encoded+="${o}"
+  done
+  echo "${encoded}"    # You can either set a return variable (FASTER)
+  REPLY="${encoded}"   #+or echo the result (EASIER)... or both... :p
+}
+
 # Clear modules file
 echo > modules.md
 topdir=$(pwd)
@@ -41,7 +61,7 @@ for section in csplit-sections-* ; do
 					fi
 				fi
 				mv $module "${section_name}/${dir}.md"
-				link=$(echo ${section_name}/${dir}.md | sed -e 's/ /%20/g')
+				link="$(rawurlencode "${section_name}")/$(rawurlencode "${dir}").md"
 				echo "## [$name]($link)" >> modules.md
 				echo $description >> modules.md
 				echo "" >> modules.md
