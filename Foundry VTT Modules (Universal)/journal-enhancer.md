@@ -1,6 +1,6 @@
 ## Journal Enhancer
 
-* **Author**: Moerill#7205 on Discord
+* **Author**: Moerill#7205 on Discord. He accepts donations at his [PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=FYZ294SP2JBGS&source=url).
 * **Version**: Version 0.2
 * **Foundry VTT Compatibility**: 0.2.10
 * **System Compatibility (If applicable)**: As of right now, it is universally applicable to all existing systems.
