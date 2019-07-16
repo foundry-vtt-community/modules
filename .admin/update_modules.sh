@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 # From https://stackoverflow.com/questions/296536/how-to-urlencode-data-for-curl-command
 
