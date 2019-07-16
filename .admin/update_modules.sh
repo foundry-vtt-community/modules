@@ -24,15 +24,17 @@ rawurlencode() {
 echo > modules.md
 topdir=$(pwd)
 
+# Remove any csplit files from a previously aborted job
+rm -f csplit-sections-*
+
 # Split the community modules by sections
 csplit ../wiki.wiki/Community-Modules.md '/^# /' '{*}' --prefix csplit-sections- > /dev/null
 
 for section in csplit-sections-* ; do
 	cd $topdir
 	# Get first line and Trim leading/trailing whitespace
-	section_name=$(head -n 1 $section | cut -d'#' -f 2 | sed -e 's/^[[:space:]]*//' -e 's/[[:space:]]*$//')
-	echo "Found $section section : $section_name"
-	if [[ "$section_name" != "" ]]; then
+	section_name=$(head -n 1 $section | cut -d' ' -f 2- | sed -e 's/^[[:space:]]*//' -e 's/[[:space:]]*$//')
+	if [[ "$section_name" != "" && "$section_name" != "Appendix" ]]; then
 		echo "Found section : $section_name"
 		# Split the section into modules
 		csplit $section '/^## /' '{*}' --prefix csplit-modules- > /dev/null
@@ -61,6 +63,7 @@ for section in csplit-sections-* ; do
 					fi
 				fi
 				mv $module "${section_name}/${dir}.md"
+				git add "${section_name}/${dir}.md"
 				link="$(rawurlencode "${section_name}")/$(rawurlencode "${dir}").md"
 				echo "## [$name]($link)" >> modules.md
 				echo $description >> modules.md
