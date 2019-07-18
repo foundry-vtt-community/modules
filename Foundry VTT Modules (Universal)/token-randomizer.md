@@ -11,4 +11,5 @@
 * [https://gitlab.com/moerills-fvtt-modules/token-randomizer](https://gitlab.com/moerills-fvtt-modules/token-randomizer) 
 
 ### Description
+Module adding options to randomise token properties on creation.
 
