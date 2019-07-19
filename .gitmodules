@@ -82,3 +82,6 @@
 [submodule "Foundry VTT Modules (Universal)/Spell-Browser"]
 	path = Foundry VTT Modules (Universal)/Spell-Browser
 	url = https://github.com/syl3r86/Spell-Browser
+[submodule "Foundry VTT Modules (Universal)/fvtt-module-zorder"]
+	path = Foundry VTT Modules (Universal)/fvtt-module-zorder
+	url = https://github.com/kakaroto/fvtt-module-zorder
