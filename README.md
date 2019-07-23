@@ -29,7 +29,9 @@ git submodule update name-of-the-module
       * [Infinite Folders](#infinite-folders)
       * [Journal Enhancer](#journal-enhancer)
       * [Layer Hotkeys](#layer-hotkeys)
+      * [Less Fog](#less-fog)
       * [Message Age Restriction](#message-age-restriction)
+      * [Patches by trdischat](#patches-by-trdischat)
       * [Permission Viewer](#permission-viewer)
       * [SVG Loader](#svg-loader)
       * [Token Randomizer](#token-randomizer)
@@ -42,6 +44,7 @@ git submodule update name-of-the-module
       * [Encumbrance Variant](#encumbrance-variant)
       * [Favourite Item Tab](#favourite-item-tab)
       * [FVTT-Party](#fvtt-party)
+      * [Group Roll](#group-roll)
       * [Item Sheet Buttons](#item-sheet-buttons)
       * [Loot Sheet NPC (5e)](#loot-sheet-npc-5e)
       * [NPC Browser](#npc-browser)
@@ -86,8 +89,14 @@ This module adds a search function for journal entries, includes a “jump to pi
 ## [Layer Hotkeys](Foundry%20VTT%20Modules%20%28Universal%29/layer-hotkeys.md)
 This module adds hotkeys for switching layers and the active tool in canvas.
 
+## [Less Fog](Foundry%20VTT%20Modules%20%28Universal%29/lessfog.md)
+Module to enhance visibility for the GM in Foundry VTT.
+
 ## [Message Age Restriction](Foundry%20VTT%20Modules%20%28Universal%29/messageagerestriction.md)
 A Foundry VTT Module to enable filtering chat-messages by their age. Each user can choose his own settings. It is possible to set the maximum age (in days) and to specify if the filter should be applied.
+
+## [Patches by trdischat](Foundry%20VTT%20Modules%20%28Universal%29/patches.md)
+Module to apply the following patches to Foundry VTT:
 
 ## [Permission Viewer](Foundry%20VTT%20Modules%20%28Universal%29/fvtt-module-permission-viewer.md)
 This Foundry VTT module displays colored diamonds/squares/circles to represent the players who have limited/observer/owner permissions on Entities (Actors, Journal entries, Items, etc..)
@@ -125,6 +134,9 @@ Adds a Favourite tab to display a customized list of items, feats and spells. Us
 
 ## [FVTT-Party](Foundry%20VTT%20Modules%20for%20DnD%205E/fvtt-party.md)
 This module adds a convenient button to the actor’s tab, which will track the HP, AC, and Passive Perception, Investigation, and Insight of tokens on the Canvas. Currently a WIP, and may exhibit some bugs.
+
+## [Group Roll](Foundry%20VTT%20Modules%20for%20DnD%205E/grouproll.md)
+Implements group ability and skill check rolls per Player's Handbook, page 175: "*If at least half the group succeeds, the whole group succeeds.*" Modules also includes patches to implement the Halfling Lucky trait, and a house rule to use the average of 2d20 for normal skill and ability check rolls. Both of these patches can be disabled in config.js. All patches rely on the included `patchClass` utility function.
 
 ## [Item Sheet Buttons](Foundry%20VTT%20Modules%20for%20DnD%205E/foundry-vtt---item-sheet-buttons.md)
 This module adds item card buttons into the description of items, so that the item cards do not need to be pinged in chat. It does have the side effect of making it harder to ping item descriptions within chat.

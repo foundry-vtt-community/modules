@@ -85,3 +85,6 @@
 [submodule "Foundry VTT Modules (Universal)/fvtt-module-zorder"]
 	path = Foundry VTT Modules (Universal)/fvtt-module-zorder
 	url = https://github.com/kakaroto/fvtt-module-zorder
+[submodule "Foundry VTT Modules (Universal)/lessfog"]
+	path = Foundry VTT Modules (Universal)/lessfog
+	url = https://github.com/trdischat/lessfog
