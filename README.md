@@ -25,6 +25,7 @@ git submodule update name-of-the-module
       * [Display mode](#display-mode)
       * [Entity Order](#entity-order)
       * [Popout!](#popout)
+      * [GM Roll Message](#gm-roll-message)
       * [Grid Scaler](#grid-scaler)
       * [Infinite Folders](#infinite-folders)
       * [Journal Enhancer](#journal-enhancer)
@@ -76,6 +77,9 @@ This Foundry VTT module allows you to re-order entities (Actors, Scenes, Items a
 
 ## [Popout!](Foundry%20VTT%20Modules%20%28Universal%29/fvtt-module-popout.md)
 This Foundry VTT module lets you pop out journal entries into their own windows. It is currently acting as a proof of concept.
+
+## [GM Roll Message](Foundry%20VTT%20Modules%20%28Universal%29/gmrollmessage.md)
+Sends an extra public message/hint when rolling a `gmroll` or `blindroll`.
 
 ## [Grid Scaler](Foundry%20VTT%20Modules%20%28Universal%29/scaleGrid.md)
 This mod allows you to resize a grid more easily within Foundry, allowing easier map setup when a grid is uneven or unclear within a background image.

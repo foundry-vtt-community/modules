@@ -88,3 +88,6 @@
 [submodule "Foundry VTT Modules (Universal)/lessfog"]
 	path = Foundry VTT Modules (Universal)/lessfog
 	url = https://github.com/trdischat/lessfog
+[submodule "Foundry VTT Modules (Universal)/gmrollmessage"]
+	path = Foundry VTT Modules (Universal)/gmrollmessage
+	url = https://github.com/Hydroxi/gmrollmessage
