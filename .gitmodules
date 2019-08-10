@@ -91,3 +91,6 @@
 [submodule "Foundry VTT Modules (Universal)/gmrollmessage"]
 	path = Foundry VTT Modules (Universal)/gmrollmessage
 	url = https://github.com/Hydroxi/gmrollmessage
+[submodule "Foundry VTT Modules (Universal)/pointer"]
+	path = Foundry VTT Modules (Universal)/pointer
+	url = https://gitlab.com/moerills-fvtt-modules/pointer

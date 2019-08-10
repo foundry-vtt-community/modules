@@ -109,6 +109,9 @@ Module to apply the following patches to Foundry VTT:
 ## [Permission Viewer](Foundry%20VTT%20Modules%20%28Universal%29/fvtt-module-permission-viewer.md)
 This Foundry VTT module displays colored diamonds/squares/circles to represent the players who have limited/observer/owner permissions on Entities (Actors, Journal entries, Items, etc..)
 
+## [Pointer](Foundry%20VTT%20Modules%20%28Universal%29/pointer.md)
+This module adds the ability for each user to show a cursor following his mouse as well as adding the option to ping a certain location.
+
 ## [SVG Loader](Foundry%20VTT%20Modules%20%28Universal%29/svg-loader.md)
 This module allows to load walls, lights and sources through .svg files, provided e.g. by DungeonFog.
 
