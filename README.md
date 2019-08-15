@@ -56,6 +56,8 @@ git submodule update name-of-the-module
       * [Roll20 NPC Importer, for 5e](#roll20-npc-importer-for-5e)
       * [Spell Browser](#spell-browser)
       * [SRD Bestiary Module](#srd-bestiary-module)
+   * [Foundry VTT Modules for WFRP 4E](#foundry-vtt-modules-for-wfrp-4e)
+      * [Arcane Marks &amp; Careers](#arcane-marks--careers)
    * [Foundry VTT Modules (Defunct)](#foundry-vtt-modules-defunct)
       * [aDnD5e](#adnd5e)
    * [Appendix](#appendix)
@@ -173,6 +175,13 @@ This module adds a search interface for spells. This enables more comfortable br
 
 ## [SRD Bestiary Module](Foundry%20VTT%20Modules%20for%20DnD%205E/SRD%20Bestiary%20Module.md)
 This module includes each SRD NPC in 5th edition, imported into Foundry VTT. This includes all of their features, immunities/resistances/vulnerabilities, actions, and much, much more. Other than lacking token images (token images do not appear to be part of the SRD), each NPC is built and ready for use in Foundry Virtual Tabletop. Included in the module is a folder containing each individual NPC json, in case you wish to experiment with importing them, or future updates break the NPCs in this module. These can be imported individually using the Roll20 NPC Importer, for 5e module.
+
+# Foundry VTT Modules for WFRP 4E
+
+Foundry modules that work within Warhammer Fantasy Roleplay 4th Edition are noted here. These may include NPC compendiums that may be legally shared, world saves, character sheet mods, changes to roll tables, etc.
+
+## [Arcane Marks & Careers](Foundry%20VTT%20Modules%20for%20WFRP%204E/.md)
+[This homebrew](https://drive.google.com/file/d/1uTy2r0EDMdcISFqqyxeIOSadtzz-OTAg/view) supplement I made adds Lore specific careers and marks for WFRP4e.
 
 # Foundry VTT Modules (Defunct)
 
