@@ -94,3 +94,6 @@
 [submodule "Foundry VTT Modules (Universal)/pointer"]
 	path = Foundry VTT Modules (Universal)/pointer
 	url = https://gitlab.com/moerills-fvtt-modules/pointer
+[submodule "Foundry VTT Modules (Universal)/foundry-vtt-dice-calculator"]
+	path = Foundry VTT Modules (Universal)/foundry-vtt-dice-calculator
+	url = https://gitlab.com/asacolips-projects/foundry-mods/foundry-vtt-dice-calculator
