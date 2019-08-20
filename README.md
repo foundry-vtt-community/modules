@@ -22,6 +22,7 @@ git submodule update name-of-the-module
 <!--ts-->
    * [Foundry VTT Modules (Universal)](#foundry-vtt-modules-universal)
       * [Chat Autoloader](#chat-autoloader)
+      * [Deselection](#deselection)
       * [Dice Calculator](#dice-calculator)
       * [Display mode](#display-mode)
       * [Entity Order](#entity-order)
@@ -73,6 +74,9 @@ Foundry modules that work across all or most systems are noted here. These may i
 
 ## [Chat Autoloader](Foundry%20VTT%20Modules%20%28Universal%29/chat-autoloader.md)
 This module improves loading times by only rendering the last few chat messages at page load. Older messages will automatically get rendered while scrolling to the top. (This behaviour is similar to e.g. scrolling in Discords chat)
+
+## [Deselection](Foundry%20VTT%20Modules%20%28Universal%29/deselection.md)
+This module lets the GM deselect a token or tokens by clicking anywhere on the map.
 
 ## [Dice Calculator](Foundry%20VTT%20Modules%20%28Universal%29/foundry-vtt-dice-calculator.md)
 This module turns the d20 icon near the chat prompt into a clickable link that opens up a new dice calculator dialog. The dice calculator includes buttons for dice, numbers, and simple math. [Screenshot of the calculator can be found here.](https://i.imgur.com/ar2hNYP.png)
