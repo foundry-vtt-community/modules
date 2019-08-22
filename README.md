@@ -96,6 +96,9 @@ Sends an extra public message/hint when rolling a `gmroll` or `blindroll`.
 ## [Grid Scaler](Foundry%20VTT%20Modules%20%28Universal%29/scaleGrid.md)
 This mod allows you to resize a grid more easily within Foundry, allowing easier map setup when a grid is uneven or unclear within a background image.
 
+## [Image Previewer](Foundry%20VTT%20Modules%20%28Universal%29/.md)
+A little app to preview images on hover in the file picker menu.
+
 ## [Infinite Folders](Foundry%20VTT%20Modules%20%28Universal%29/fvtt-module-infinite-folders.md)
 This Foundry VTT module allows you to create infinite depth of folders for Scenes, Actors, Items and Journals. No more limit to a depth of 2 folders (or none for Journal entries). This will also add a `New entity` button on folders so you can create it directly in the folder (does not work for Scenes though).
 
