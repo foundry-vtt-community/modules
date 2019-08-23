@@ -29,6 +29,7 @@ git submodule update name-of-the-module
       * [Popout!](#popout)
       * [GM Roll Message](#gm-roll-message)
       * [Grid Scaler](#grid-scaler)
+      * [Image Previewer](#image-previewer)
       * [Infinite Folders](#infinite-folders)
       * [Journal Enhancer](#journal-enhancer)
       * [Layer Hotkeys](#layer-hotkeys)
@@ -45,6 +46,7 @@ git submodule update name-of-the-module
       * [Better NPC Sheet 5e](#better-npc-sheet-5e)
       * [Beyond 20](#beyond-20)
       * [Chat Damage Buttons](#chat-damage-buttons)
+      * [DDB Popper](#ddb-popper)
       * [DnD Beyond Character Importer](#dnd-beyond-character-importer)
       * [Encumbrance Variant](#encumbrance-variant)
       * [Favourite Item Tab](#favourite-item-tab)
@@ -147,6 +149,9 @@ This module allows you to use and roll sheets in DnD Beyond, and have those resu
 
 ## [Chat Damage Buttons](Foundry%20VTT%20Modules%20for%20DnD%205E/foundry-vtt---chat-damage-buttons.md)
 This module replaces the right-click context menu with buttons on the dice-roll chat message. This allows for quicker application of damage/healing.
+
+## [DDB Popper](Foundry%20VTT%20Modules%20for%20DnD%205E/.md)
+Opens a D&D Beyond popup for a linked actor. More info here: https://github.com/eclarke12/fvtt-modules/tree/master/ddb-popper
 
 ## [DnD Beyond Character Importer](Foundry%20VTT%20Modules%20for%20DnD%205E/foundry-vtt-modules.md)
 This module allows you to import character data from DnD Beyond into Foundry Virtual Tabletop.
