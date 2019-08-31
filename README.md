@@ -48,7 +48,6 @@ git submodule update name-of-the-module
       * [Chat Damage Buttons](#chat-damage-buttons)
       * [DDB Popper](#ddb-popper)
       * [DnD Beyond Character Importer](#dnd-beyond-character-importer)
-      * [Encumbrance Variant](#encumbrance-variant)
       * [Favourite Item Tab](#favourite-item-tab)
       * [FVTT-Party](#fvtt-party)
       * [Group Roll](#group-roll)
@@ -64,6 +63,7 @@ git submodule update name-of-the-module
       * [Arcane Marks &amp; Careers](#arcane-marks--careers)
    * [Foundry VTT Modules (Defunct)](#foundry-vtt-modules-defunct)
       * [aDnD5e](#adnd5e)
+      * [Encumbrance Variant](#encumbrance-variant)
    * [Appendix](#appendix)
       * [Appendix A: Adding a Module](#appendix-a-adding-a-module)
       * [Appendix B: Best Editing Practices](#appendix-b-best-editing-practices)
@@ -156,9 +156,6 @@ Opens a D&D Beyond popup for a linked actor. More info here: https://github.com/
 ## [DnD Beyond Character Importer](Foundry%20VTT%20Modules%20for%20DnD%205E/foundry-vtt-modules.md)
 This module allows you to import character data from DnD Beyond into Foundry Virtual Tabletop.
 
-## [Encumbrance Variant](Foundry%20VTT%20Modules%20for%20DnD%205E/foundry-vtt---encumbrance-variant-5e.md)
-This module modifies how the encumbrance bar in the actor sheet is displayed to distinguish the different levels of encumbrance when using the variant rules in **PHB pg. 175**. It does not currently support the Powerful Build feature, as doing so would require extending the base Actor5eSheet class.
-
 ## [Favourite Item Tab](Foundry%20VTT%20Modules%20for%20DnD%205E/favtab.md)
 Adds a Favourite tab to display a customized list of items, feats and spells. Usable with the default dnd5e Character sheet. You can add any item from the inventory, spell book or feature section of the character sheet. This module also gives access to item charges. You can add these to any item on the favourite list or remove them by changing the maximum to 0. This uses the same data that is used by Moerill#7205's adnd5e module, since this data is not supported by default.
 
@@ -205,4 +202,7 @@ Foundry VTT modules that no longer work are noted here. Modules included here ha
 
 ## [aDnD5e](Foundry%20VTT%20Modules%20%28Defunct%29/adnd5e.md)
 This module expands upon the existing 5e system in Foundry VTT, adding alternative PC and NPC sheets, as well as changing the system of attacks and macros, and adds a compendium for all SRD monsters, set up for use with this module. The mod is effectively a massive expansion in the ability to edit sheets for the user’s purposes, and a revamp of how the 5E system works. It is backwards-compatible with the default sheet, and can be switched between the two as needed.
+
+## [Encumbrance Variant](Foundry%20VTT%20Modules%20%28Defunct%29/foundry-vtt---encumbrance-variant-5e.md)
+This module modifies how the encumbrance bar in the actor sheet is displayed to distinguish the different levels of encumbrance when using the variant rules in **PHB pg. 175**. It does not currently support the Powerful Build feature, as doing so would require extending the base Actor5eSheet class.
 

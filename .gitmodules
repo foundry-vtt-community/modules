@@ -97,3 +97,6 @@
 [submodule "Foundry VTT Modules (Universal)/foundry-vtt-dice-calculator"]
 	path = Foundry VTT Modules (Universal)/foundry-vtt-dice-calculator
 	url = https://gitlab.com/asacolips-projects/foundry-mods/foundry-vtt-dice-calculator
+[submodule "Foundry VTT Modules (Defunct)/foundry-vtt---encumbrance-variant-5e"]
+	path = Foundry VTT Modules (Defunct)/foundry-vtt---encumbrance-variant-5e
+	url = https://gitlab.com/hooking/foundry-vtt---encumbrance-variant-5e
