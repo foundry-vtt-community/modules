@@ -131,6 +131,9 @@ This module adds the ability for each user to show a cursor following his mouse 
 ## [SVG Loader](Foundry%20VTT%20Modules%20%28Universal%29/svg-loader.md)
 This module allows to load walls, lights and sources through .svg files, provided e.g. by DungeonFog.
 
+## [Tokenizer](Foundry%20VTT%20Modules%20%28Universal%29/Tokenizer.md)
+Tokenizer provides the user with:
+
 ## [Token Randomizer](Foundry%20VTT%20Modules%20%28Universal%29/token-randomizer.md)
 Module adding options to randomise token properties on creation.
 
