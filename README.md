@@ -41,6 +41,7 @@ git submodule update name-of-the-module
       * [Pointer](#pointer)
       * [SVG Loader](#svg-loader)
       * [Token Randomizer](#token-randomizer)
+      * [VTTA Tokenizer](#vtta-tokenizer)
       * [Z Order](#z-order)
    * [Foundry VTT Modules for DnD 5E](#foundry-vtt-modules-for-dnd-5e)
       * [Better NPC Sheet 5e](#better-npc-sheet-5e)
@@ -49,7 +50,6 @@ git submodule update name-of-the-module
       * [DDB Popper](#ddb-popper)
       * [DnD Beyond Character Importer](#dnd-beyond-character-importer)
       * [Favourite Item Tab](#favourite-item-tab)
-      * [FVTT-Party](#fvtt-party)
       * [Group Roll](#group-roll)
       * [Item Sheet Buttons](#item-sheet-buttons)
       * [Loot Sheet NPC (5e)](#loot-sheet-npc-5e)
@@ -59,6 +59,7 @@ git submodule update name-of-the-module
       * [Roll20 NPC Importer, for 5e](#roll20-npc-importer-for-5e)
       * [Spell Browser](#spell-browser)
       * [SRD Bestiary Module](#srd-bestiary-module)
+      * [VTTA Party](#vtta-party)
    * [Foundry VTT Modules for WFRP 4E](#foundry-vtt-modules-for-wfrp-4e)
       * [Arcane Marks &amp; Careers](#arcane-marks--careers)
    * [Foundry VTT Modules (Defunct)](#foundry-vtt-modules-defunct)
@@ -131,7 +132,7 @@ This module adds the ability for each user to show a cursor following his mouse 
 ## [SVG Loader](Foundry%20VTT%20Modules%20%28Universal%29/svg-loader.md)
 This module allows to load walls, lights and sources through .svg files, provided e.g. by DungeonFog.
 
-## [Tokenizer](Foundry%20VTT%20Modules%20%28Universal%29/Tokenizer.md)
+## [VTTA Tokenizer](Foundry%20VTT%20Modules%20%28Universal%29/VTTA%20Tokenizer.md)
 Tokenizer provides the user with:
 
 ## [Token Randomizer](Foundry%20VTT%20Modules%20%28Universal%29/token-randomizer.md)
@@ -162,9 +163,6 @@ This module allows you to import character data from DnD Beyond into Foundry Vir
 ## [Favourite Item Tab](Foundry%20VTT%20Modules%20for%20DnD%205E/favtab.md)
 Adds a Favourite tab to display a customized list of items, feats and spells. Usable with the default dnd5e Character sheet. You can add any item from the inventory, spell book or feature section of the character sheet. This module also gives access to item charges. You can add these to any item on the favourite list or remove them by changing the maximum to 0. This uses the same data that is used by Moerill#7205's adnd5e module, since this data is not supported by default.
 
-## [FVTT-Party](Foundry%20VTT%20Modules%20for%20DnD%205E/fvtt-party.md)
-This module adds a convenient button to the actor’s tab, which will track the HP, AC, and Passive Perception, Investigation, and Insight of tokens on the Canvas. Currently a WIP, and may exhibit some bugs.
-
 ## [Group Roll](Foundry%20VTT%20Modules%20for%20DnD%205E/grouproll.md)
 Implements group ability and skill check rolls per Player's Handbook, page 175: "*If at least half the group succeeds, the whole group succeeds.*" Modules also includes patches to implement the Halfling Lucky trait, and a house rule to use the average of 2d20 for normal skill and ability check rolls. Both of these patches can be disabled in config.js. All patches rely on the included `patchClass` utility function.
 
@@ -192,6 +190,9 @@ This module adds a search interface for spells. This enables more comfortable br
 ## [SRD Bestiary Module](Foundry%20VTT%20Modules%20for%20DnD%205E/SRD%20Bestiary%20Module.md)
 This module includes each SRD NPC in 5th edition, imported into Foundry VTT. This includes all of their features, immunities/resistances/vulnerabilities, actions, and much, much more. Other than lacking token images (token images do not appear to be part of the SRD), each NPC is built and ready for use in Foundry Virtual Tabletop. Included in the module is a folder containing each individual NPC json, in case you wish to experiment with importing them, or future updates break the NPCs in this module. These can be imported individually using the Roll20 NPC Importer, for 5e module.
 
+## [VTTA Party](Foundry%20VTT%20Modules%20for%20DnD%205E/VTTA%20Party.md)
+Successor to fvtt-party, which is discontinued as of now. Provides both an overview about the party in regards to AC, HP, and passive perception/investigation/insight and adds tooltips for the actors of the currently active scene.
+
 # Foundry VTT Modules for WFRP 4E
 
 Foundry modules that work within Warhammer Fantasy Roleplay 4th Edition are noted here. These may include NPC compendiums that may be legally shared, world saves, character sheet mods, changes to roll tables, etc.
@@ -208,4 +209,7 @@ This module expands upon the existing 5e system in Foundry VTT, adding alternati
 
 ## [Encumbrance Variant](Foundry%20VTT%20Modules%20%28Defunct%29/foundry-vtt---encumbrance-variant-5e.md)
 This module modifies how the encumbrance bar in the actor sheet is displayed to distinguish the different levels of encumbrance when using the variant rules in **PHB pg. 175**. It does not currently support the Powerful Build feature, as doing so would require extending the base Actor5eSheet class.
+
+## [FVTT-Party (Discontinued, see VTTA-Party for an successor)](Foundry%20VTT%20Modules%20%28Defunct%29/fvtt-party.md)
+This module adds a convenient button to the actor’s tab, which will track the HP, AC, and Passive Perception, Investigation, and Insight of tokens on the Canvas. Currently a WIP, and may exhibit some bugs.
 

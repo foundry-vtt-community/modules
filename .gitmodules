@@ -100,3 +100,6 @@
 [submodule "Foundry VTT Modules (Defunct)/foundry-vtt---encumbrance-variant-5e"]
 	path = Foundry VTT Modules (Defunct)/foundry-vtt---encumbrance-variant-5e
 	url = https://gitlab.com/hooking/foundry-vtt---encumbrance-variant-5e
+[submodule "Foundry VTT Modules (Defunct)/fvtt-party"]
+	path = Foundry VTT Modules (Defunct)/fvtt-party
+	url = https://github.com/shwill/fvtt-party
