@@ -21,6 +21,7 @@ git submodule update name-of-the-module
 <!--tl=2-->
 <!--ts-->
    * [Foundry VTT Modules (Universal)](#foundry-vtt-modules-universal)
+      * [Always Show Notes](#always-show-notes)
       * [Chat Autoloader](#chat-autoloader)
       * [Deselection](#deselection)
       * [Dice Calculator](#dice-calculator)
@@ -40,8 +41,9 @@ git submodule update name-of-the-module
       * [Permission Viewer](#permission-viewer)
       * [Pointer](#pointer)
       * [SVG Loader](#svg-loader)
-      * [Token Randomizer](#token-randomizer)
+      * [Tiles Browser](#tiles-browser)
       * [VTTA Tokenizer](#vtta-tokenizer)
+      * [Token Randomizer](#token-randomizer)
       * [Z Order](#z-order)
    * [Foundry VTT Modules for DnD 5E](#foundry-vtt-modules-for-dnd-5e)
       * [Better NPC Sheet 5e](#better-npc-sheet-5e)
@@ -65,6 +67,7 @@ git submodule update name-of-the-module
    * [Foundry VTT Modules (Defunct)](#foundry-vtt-modules-defunct)
       * [aDnD5e](#adnd5e)
       * [Encumbrance Variant](#encumbrance-variant)
+      * [FVTT-Party (Discontinued, see VTTA-Party for an successor)](#fvtt-party-discontinued-see-vtta-party-for-an-successor)
    * [Appendix](#appendix)
       * [Appendix A: Adding a Module](#appendix-a-adding-a-module)
       * [Appendix B: Best Editing Practices](#appendix-b-best-editing-practices)
@@ -74,6 +77,8 @@ git submodule update name-of-the-module
 
 Foundry modules that work across all or most systems are noted here. These may include reskins, general improvement mods, and more.
 
+## [Always Show Notes](Foundry%20VTT%20Modules%20%28Universal%29/.md)
+Sets the Display Notes toggle to true by default
 
 ## [Chat Autoloader](Foundry%20VTT%20Modules%20%28Universal%29/chat-autoloader.md)
 This module improves loading times by only rendering the last few chat messages at page load. Older messages will automatically get rendered while scrolling to the top. (This behaviour is similar to e.g. scrolling in Discords chat)
@@ -132,11 +137,14 @@ This module adds the ability for each user to show a cursor following his mouse 
 ## [SVG Loader](Foundry%20VTT%20Modules%20%28Universal%29/svg-loader.md)
 This module allows to load walls, lights and sources through .svg files, provided e.g. by DungeonFog.
 
+## [Tiles Browser](Foundry%20VTT%20Modules%20%28Universal%29/.md)
+Adds a browser to the tiles layer to conveniently preview and then drag and drop tiles onto the scene. Providing additional features to manipulate tile rotation and size while dragging.
+
 ## [VTTA Tokenizer](Foundry%20VTT%20Modules%20%28Universal%29/VTTA%20Tokenizer.md)
 Tokenizer provides the user with:
 
-## [Token Randomizer](Foundry%20VTT%20Modules%20%28Universal%29/token-randomizer.md)
-Module adding options to randomise token properties on creation.
+## [Token Mold](Foundry%20VTT%20Modules%20%28Universal%29/token-mold.md)
+What is a foundry without its molds? This module provides you with a customizable mold for your Tokens.
 
 ## [Z Order](Foundry%20VTT%20Modules%20%28Universal%29/fvtt-module-zorder.md)
 This Foundry VTT module lets you send tiles to the front or the back of the scene.

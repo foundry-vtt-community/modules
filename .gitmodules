@@ -103,3 +103,6 @@
 [submodule "Foundry VTT Modules (Defunct)/fvtt-party"]
 	path = Foundry VTT Modules (Defunct)/fvtt-party
 	url = https://github.com/shwill/fvtt-party
+[submodule "Foundry VTT Modules (Universal)/token-mold"]
+	path = Foundry VTT Modules (Universal)/token-mold
+	url = https://gitlab.com/moerills-fvtt-modules/token-mold
