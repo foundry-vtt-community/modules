@@ -95,8 +95,8 @@ This module makes it so that when you click the anvil in the top left of the scr
 ## [Entity Order](Foundry%20VTT%20Modules%20%28Universal%29/fvtt-module-entityorder.md)
 This Foundry VTT module allows you to re-order entities (Actors, Scenes, Items and Journal entries).
 
-## [Popout!](Foundry%20VTT%20Modules%20%28Universal%29/fvtt-module-popout.md)
-This Foundry VTT module lets you pop out journal entries into their own windows. It is currently acting as a proof of concept.
+## [Furnace](Foundry%20VTT%20Modules%20%28Universal%29/fvtt-module-furnace.md)
+The Furnace is an essential part of every Foundry. This module adds Quality of Life improvements to Foundry VTT, such as advanced Drawing Tools.
 
 ## [GM Roll Message](Foundry%20VTT%20Modules%20%28Universal%29/gmrollmessage.md)
 Sends an extra public message/hint when rolling a `gmroll` or `blindroll`.
@@ -106,9 +106,6 @@ This mod allows you to resize a grid more easily within Foundry, allowing easier
 
 ## [Image Previewer](Foundry%20VTT%20Modules%20%28Universal%29/.md)
 A little app to preview images on hover in the file picker menu.
-
-## [Infinite Folders](Foundry%20VTT%20Modules%20%28Universal%29/fvtt-module-infinite-folders.md)
-This Foundry VTT module allows you to create infinite depth of folders for Scenes, Actors, Items and Journals. No more limit to a depth of 2 folders (or none for Journal entries). This will also add a `New entity` button on folders so you can create it directly in the folder (does not work for Scenes though).
 
 ## [Journal Enhancer](Foundry%20VTT%20Modules%20%28Universal%29/journal-enhancer.md)
 This module adds a search function for journal entries, includes a “jump to pin” button for moving the camera to a pinned journal entry, adds a zoom function for image handouts, and hides the name of a handout to users without permissions set. Moerill includes a video showing off the mod’s utility here: [https://youtu.be/5O4yA8Kr6bs](https://youtu.be/5O4yA8Kr6bs)
@@ -133,6 +130,9 @@ This Foundry VTT module displays colored diamonds/squares/circles to represent t
 
 ## [Pointer](Foundry%20VTT%20Modules%20%28Universal%29/pointer.md)
 This module adds the ability for each user to show a cursor following his mouse as well as adding the option to ping a certain location.
+
+## [Popout!](Foundry%20VTT%20Modules%20%28Universal%29/fvtt-module-popout.md)
+This Foundry VTT module lets you pop out journal entries into their own windows. It is currently acting as a proof of concept.
 
 ## [SVG Loader](Foundry%20VTT%20Modules%20%28Universal%29/svg-loader.md)
 This module allows to load walls, lights and sources through .svg files, provided e.g. by DungeonFog.

@@ -106,3 +106,6 @@
 [submodule "Foundry VTT Modules (Universal)/token-mold"]
 	path = Foundry VTT Modules (Universal)/token-mold
 	url = https://gitlab.com/moerills-fvtt-modules/token-mold
+[submodule "Foundry VTT Modules (Universal)/fvtt-module-furnace"]
+	path = Foundry VTT Modules (Universal)/fvtt-module-furnace
+	url = https://github.com/kakaroto/fvtt-module-furnace
