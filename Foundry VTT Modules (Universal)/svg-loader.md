@@ -13,5 +13,5 @@
 ### Description
 This module allows to load walls, lights and sources through .svg files, provided e.g. by DungeonFog.
 
-***
+---
 

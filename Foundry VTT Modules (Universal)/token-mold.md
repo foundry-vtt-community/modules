@@ -19,5 +19,5 @@ On creation each unlinked Token will fit snuggly into the pattern of your mold.
 - Overriding default token template config
 - Providing a customizable overlay to quickly  check some stats on Token hover
 
-***
+---
 

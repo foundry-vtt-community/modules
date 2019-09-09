@@ -109,3 +109,12 @@
 [submodule "Foundry VTT Modules (Universal)/fvtt-module-furnace"]
 	path = Foundry VTT Modules (Universal)/fvtt-module-furnace
 	url = https://github.com/kakaroto/fvtt-module-furnace
+[submodule "Foundry VTT Modules (Universal)/alwaysshownotes"]
+	path = Foundry VTT Modules (Universal)/alwaysshownotes
+	url = https://github.com/Pingar5/alwaysshownotes
+[submodule "image-previewer.zip"]
+	path = image-previewer.zip
+	url = https://github.com/syl3r86/image-previewer
+[submodule "Foundry VTT Modules (Universal)/tiles-browser"]
+	path = Foundry VTT Modules (Universal)/tiles-browser
+	url = https://gitlab.com/moerills-fvtt-modules/tiles-browser/

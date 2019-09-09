@@ -15,5 +15,5 @@ The module is available under the 'FVTT-module' directory.
 ### Description
 This module allows you to use and roll sheets in DnD Beyond, and have those results displayed in Foundry VTT. For more details, see Kakaroto’s module page and readme files.
 
-***
+---
 

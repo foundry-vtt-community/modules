@@ -13,5 +13,5 @@
 ### Description
 This module adds an additional NPC sheet which can be used for loot containers such as chests. It also allows spells to be automatically converted into spell scrolls by dragging them onto this sheet.
 
-***
+---
 

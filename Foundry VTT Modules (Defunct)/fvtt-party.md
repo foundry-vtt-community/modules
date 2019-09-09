@@ -15,3 +15,5 @@ This module adds a convenient button to the actor’s tab, which will track the 
 
 To install the module, download the zip file included in the Github module directory. Extract the zip file to `/public/modules`. Restart Foundry Virtual Tabletop.
 
+---
+

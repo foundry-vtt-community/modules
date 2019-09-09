@@ -13,5 +13,5 @@
 ### Description
 Sends an extra public message/hint when rolling a `gmroll` or `blindroll`.
 
-***
+---
 

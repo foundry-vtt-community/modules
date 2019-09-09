@@ -13,5 +13,5 @@
 ### Description
 This module adds a search interface for spells. This enables more comfortable browsing and searching via predefined filters like spell level, class or damage type.
 
-***
+---
 

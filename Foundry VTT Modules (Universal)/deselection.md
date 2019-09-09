@@ -13,5 +13,5 @@
 ### Description
 This module lets the GM deselect a token or tokens by clicking anywhere on the map.
 
-***
+---
 

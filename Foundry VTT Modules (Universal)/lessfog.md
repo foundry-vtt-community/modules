@@ -13,5 +13,5 @@
 ### Description
 Module to enhance visibility for the GM in Foundry VTT.
 
-***
+---
 

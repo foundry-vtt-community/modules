@@ -13,5 +13,5 @@
 ### Description
 This module allows for the importing of NPCs from Roll20, through use of JSONs exported via [VTT Enhancement Suite](https://ssstormy.github.io/roll20-enhancement-suite/). This import currently only supports NPCs created in the Roll20 OGL or Shaped version sheets. This module supports the Better NPC Sheet 5e, as well as the aDnD5e sheet in tagging actor items according to abilities, reactions, legendary actions, etc.  To install, first download the module, unzip it into `/public/modules`, and then restart Foundry while it is running.
 
-***
+---
 

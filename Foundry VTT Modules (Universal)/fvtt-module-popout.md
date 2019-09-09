@@ -12,5 +12,6 @@
 
 ### Description
 This Foundry VTT module lets you pop out journal entries into their own windows. It is currently acting as a proof of concept.
->>>>>>> upstream/master
+
+---
 

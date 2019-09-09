@@ -27,8 +27,8 @@ git submodule update name-of-the-module
       * [Dice Calculator](#dice-calculator)
       * [Display mode](#display-mode)
       * [Entity Order](#entity-order)
+      * [The Furnace](#the-furnace)
       * [Popout!](#popout)
-      * [Furnace](#furnace)
       * [GM Roll Message](#gm-roll-message)
       * [Grid Scaler](#grid-scaler)
       * [Image Previewer](#image-previewer)
@@ -41,7 +41,6 @@ git submodule update name-of-the-module
       * [Patches by trdischat](#patches-by-trdischat)
       * [Permission Viewer](#permission-viewer)
       * [Pointer](#pointer)
-      * [Popout!](#popout-1)
       * [SVG Loader](#svg-loader)
       * [Tiles Browser](#tiles-browser)
       * [VTTA Tokenizer](#vtta-tokenizer)
@@ -79,7 +78,7 @@ git submodule update name-of-the-module
 
 Foundry modules that work across all or most systems are noted here. These may include reskins, general improvement mods, and more.
 
-## [Always Show Notes](Foundry%20VTT%20Modules%20%28Universal%29/.md)
+## [Always Show Notes](Foundry%20VTT%20Modules%20%28Universal%29/alwaysshownotes.md)
 Sets the Display Notes toggle to true by default
 
 ## [Chat Autoloader](Foundry%20VTT%20Modules%20%28Universal%29/chat-autoloader.md)
@@ -97,8 +96,11 @@ This module makes it so that when you click the anvil in the top left of the scr
 ## [Entity Order](Foundry%20VTT%20Modules%20%28Universal%29/fvtt-module-entityorder.md)
 This Foundry VTT module allows you to re-order entities (Actors, Scenes, Items and Journal entries).
 
-## [Furnace](Foundry%20VTT%20Modules%20%28Universal%29/fvtt-module-furnace.md)
-The Furnace is an essential part of every Foundry. This module adds Quality of Life improvements to Foundry VTT, such as advanced Drawing Tools.
+## [The Furnace](Foundry%20VTT%20Modules%20%28Universal%29/fvtt-module-furnace.md)
+The Furnace is an essential part of every Foundry.
+
+## [Popout!](Foundry%20VTT%20Modules%20%28Universal%29/fvtt-module-popout.md)
+This Foundry VTT module lets you pop out journal entries into their own windows. It is currently acting as a proof of concept.
 
 ## [GM Roll Message](Foundry%20VTT%20Modules%20%28Universal%29/gmrollmessage.md)
 Sends an extra public message/hint when rolling a `gmroll` or `blindroll`.
@@ -106,7 +108,7 @@ Sends an extra public message/hint when rolling a `gmroll` or `blindroll`.
 ## [Grid Scaler](Foundry%20VTT%20Modules%20%28Universal%29/scaleGrid.md)
 This mod allows you to resize a grid more easily within Foundry, allowing easier map setup when a grid is uneven or unclear within a background image.
 
-## [Image Previewer](Foundry%20VTT%20Modules%20%28Universal%29/.md)
+## [Image Previewer](Foundry%20VTT%20Modules%20%28Universal%29/image-previewer.md)
 A little app to preview images on hover in the file picker menu.
 
 ## [Infinite Folders](Foundry%20VTT%20Modules%20%28Universal%29/fvtt-module-infinite-folders.md)
@@ -136,13 +138,10 @@ This Foundry VTT module displays colored diamonds/squares/circles to represent t
 ## [Pointer](Foundry%20VTT%20Modules%20%28Universal%29/pointer.md)
 This module adds the ability for each user to show a cursor following his mouse as well as adding the option to ping a certain location.
 
-## [Popout!](Foundry%20VTT%20Modules%20%28Universal%29/fvtt-module-popout.md)
-This Foundry VTT module lets you pop out journal entries into their own windows. It is currently acting as a proof of concept.
-
 ## [SVG Loader](Foundry%20VTT%20Modules%20%28Universal%29/svg-loader.md)
 This module allows to load walls, lights and sources through .svg files, provided e.g. by DungeonFog.
 
-## [Tiles Browser](Foundry%20VTT%20Modules%20%28Universal%29/.md)
+## [Tiles Browser](Foundry%20VTT%20Modules%20%28Universal%29/tiles-browser.md)
 Adds a browser to the tiles layer to conveniently preview and then drag and drop tiles onto the scene. Providing additional features to manipulate tile rotation and size while dragging.
 
 ## [VTTA Tokenizer](Foundry%20VTT%20Modules%20%28Universal%29/VTTA%20Tokenizer.md)
