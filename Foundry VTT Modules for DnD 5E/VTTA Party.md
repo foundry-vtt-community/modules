@@ -14,4 +14,3 @@
 Successor to fvtt-party, which is discontinued as of now. Provides both an overview about the party in regards to AC, HP, and passive perception/investigation/insight and adds tooltips for the actors of the currently active scene.
 Configurable options for granting players access to both features, or to use it for GMs only.
 
-

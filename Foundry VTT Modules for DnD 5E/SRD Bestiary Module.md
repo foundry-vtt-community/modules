@@ -17,3 +17,5 @@ Future updates will include edits to the imports to bring them in line with “g
 
 To install, simply extract the zip file into `/public/modules`, enable the module in Foundry, and then do a full restart in order to display the compendium.
 
+***
+

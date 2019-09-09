@@ -13,3 +13,6 @@
 ### Description
 This Foundry VTT module allows you to re-order entities (Actors, Scenes, Items and Journal entries).
 
+<<<<<<< HEAD
+***
+

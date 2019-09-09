@@ -13,3 +13,7 @@
 ### Description
 This Foundry VTT module allows you to create infinite depth of folders for Scenes, Actors, Items and Journals. No more limit to a depth of 2 folders (or none for Journal entries). This will also add a `New entity` button on folders so you can create it directly in the folder (does not work for Scenes though).
 
+***
+
+=======
+>>>>>>> upstream/master

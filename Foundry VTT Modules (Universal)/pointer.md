@@ -13,3 +13,6 @@
 ### Description
 This module adds the ability for each user to show a cursor following his mouse as well as adding the option to ping a certain location.
 
+<<<<<<< HEAD
+***
+=======

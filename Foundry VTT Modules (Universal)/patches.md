@@ -18,3 +18,5 @@ Module to apply the following patches to Foundry VTT:
 
 All patches rely on the `patchClass` utility function.
 
+***
+

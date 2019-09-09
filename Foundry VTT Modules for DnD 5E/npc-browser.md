@@ -13,3 +13,5 @@
 ### Description
 This module adds a search interface for actors. This enables more comfortable browsing and searching via predefined filters like challenge rating, type or ability score.
 
+***
+

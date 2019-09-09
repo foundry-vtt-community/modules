@@ -28,6 +28,7 @@ git submodule update name-of-the-module
       * [Display mode](#display-mode)
       * [Entity Order](#entity-order)
       * [Popout!](#popout)
+      * [Furnace](#furnace)
       * [GM Roll Message](#gm-roll-message)
       * [Grid Scaler](#grid-scaler)
       * [Image Previewer](#image-previewer)
@@ -40,6 +41,7 @@ git submodule update name-of-the-module
       * [Patches by trdischat](#patches-by-trdischat)
       * [Permission Viewer](#permission-viewer)
       * [Pointer](#pointer)
+      * [Popout!](#popout-1)
       * [SVG Loader](#svg-loader)
       * [Tiles Browser](#tiles-browser)
       * [VTTA Tokenizer](#vtta-tokenizer)
@@ -106,6 +108,9 @@ This mod allows you to resize a grid more easily within Foundry, allowing easier
 
 ## [Image Previewer](Foundry%20VTT%20Modules%20%28Universal%29/.md)
 A little app to preview images on hover in the file picker menu.
+
+## [Infinite Folders](Foundry%20VTT%20Modules%20%28Universal%29/fvtt-module-infinite-folders.md)
+This Foundry VTT module allows you to create infinite depth of folders for Scenes, Actors, Items and Journals. No more limit to a depth of 2 folders (or none for Journal entries). This will also add a `New entity` button on folders so you can create it directly in the folder (does not work for Scenes though).
 
 ## [Journal Enhancer](Foundry%20VTT%20Modules%20%28Universal%29/journal-enhancer.md)
 This module adds a search function for journal entries, includes a “jump to pin” button for moving the camera to a pinned journal entry, adds a zoom function for image handouts, and hides the name of a handout to users without permissions set. Moerill includes a video showing off the mod’s utility here: [https://youtu.be/5O4yA8Kr6bs](https://youtu.be/5O4yA8Kr6bs)

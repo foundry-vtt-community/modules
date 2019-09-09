@@ -13,3 +13,5 @@
 ### Description
 This module makes it so that when you click the anvil in the top left of the screen, the sidebar in Foundry is hidden.
 
+***
+

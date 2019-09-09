@@ -13,3 +13,5 @@
 ### Description
 This Foundry VTT module displays colored diamonds/squares/circles to represent the players who have limited/observer/owner permissions on Entities (Actors, Journal entries, Items, etc..)
 
+***
+

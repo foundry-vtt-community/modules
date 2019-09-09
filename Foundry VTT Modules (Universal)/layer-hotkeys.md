@@ -28,3 +28,5 @@ The Hotkeys can be seen by hovering over the button as well.
 
 **Quick note**: To see the changed wall-type reflected you need to move the mouse a bit after switching the tool to trigger a color update.
 
+***
+

@@ -9,3 +9,5 @@
 ### Description
 Adds an option to the settings dialog to disable token movement animations. Tokens will drop immediately instead of sliding when dragged and dropped around the map with this setting enabled.
 
+***
+

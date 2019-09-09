@@ -17,3 +17,5 @@ This module allows you to import character data from DnD Beyond into Foundry Vir
 
 The module has not been updated recently by its creator, but the community has produced a fix for this issue.  The fix is not included in the zip file for the module, but is instead contained within the Github repository, and must be retrieved there. Replace the file in the module folder with the fixed version.
 
+***
+

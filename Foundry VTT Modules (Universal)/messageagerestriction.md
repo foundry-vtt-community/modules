@@ -13,3 +13,5 @@
 ### Description
 A Foundry VTT Module to enable filtering chat-messages by their age. Each user can choose his own settings. It is possible to set the maximum age (in days) and to specify if the filter should be applied.
 
+***
+

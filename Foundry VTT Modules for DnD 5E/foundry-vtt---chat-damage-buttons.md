@@ -15,3 +15,5 @@ This module replaces the right-click context menu with buttons on the dice-roll 
 
 To install the module, download the zip file included in the Github module directory. Extract the zip file to `/public/modules`. Restart Foundry Virtual Tabletop.
 
+***
+
