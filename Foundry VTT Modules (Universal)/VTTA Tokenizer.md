@@ -13,7 +13,7 @@
 ### Description
 Tokenizer provides the user with:
 - ability to define a custom token size, defaulting to 400x400 pixels
-- the ability to create multiple layers consting of individual loaded image
+- the ability to create multiple layers consisting of individual loaded image
 - the ability to load images from a) local disk b) a web URL c) the Foundry VTT server
 - the ability to scale and translate each layer individually
 - automatic generation of a mask using the marching squares algorithm

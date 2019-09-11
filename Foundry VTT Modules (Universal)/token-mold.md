@@ -11,7 +11,7 @@
 
 ### Description
 What is a foundry without its molds? This module provides you with a customizable mold for your Tokens.  
-On creation each unlinked Token will fit snuggly into the pattern of your mold.  
+On creation each unlinked Token will fit snugly into the pattern of your mold.  
 **Features**
 - Automatic indexing
 - Random adjective prefixes (e.g. angry, calm, bloodthirsty, ...)

@@ -118,3 +118,6 @@
 [submodule "Foundry VTT Modules (Universal)/tiles-browser"]
 	path = Foundry VTT Modules (Universal)/tiles-browser
 	url = https://gitlab.com/moerills-fvtt-modules/tiles-browser/
+[submodule "Foundry VTT Modules (Universal)/FFG-Roller"]
+	path = Foundry VTT Modules (Universal)/FFG-Roller
+	url = https://github.com/petepeg/FFG-Roller

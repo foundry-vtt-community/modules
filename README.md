@@ -27,6 +27,7 @@ git submodule update name-of-the-module
       * [Dice Calculator](#dice-calculator)
       * [Display mode](#display-mode)
       * [Entity Order](#entity-order)
+      * [FFG Roller](#ffg-roller)
       * [The Furnace](#the-furnace)
       * [Popout!](#popout)
       * [GM Roll Message](#gm-roll-message)
@@ -95,6 +96,9 @@ This module makes it so that when you click the anvil in the top left of the scr
 
 ## [Entity Order](Foundry%20VTT%20Modules%20%28Universal%29/fvtt-module-entityorder.md)
 This Foundry VTT module allows you to re-order entities (Actors, Scenes, Items and Journal entries).
+
+## [FFG Roller](Foundry%20VTT%20Modules%20%28Universal%29/FFG-Roller.md)
+This adds a simple dice rolling window for the special dice used in Fantasy Flight Games Star Wars RPG and Genesys.
 
 ## [The Furnace](Foundry%20VTT%20Modules%20%28Universal%29/fvtt-module-furnace.md)
 The Furnace is an essential part of every Foundry.
