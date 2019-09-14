@@ -101,7 +101,7 @@ This Foundry VTT module allows you to re-order entities (Actors, Scenes, Items a
 This adds a simple dice rolling window for the special dice used in Fantasy Flight Games Star Wars RPG and Genesys.
 
 ## [The Furnace](Foundry%20VTT%20Modules%20%28Universal%29/fvtt-module-furnace.md)
-The Furnace is an essential part of every Foundry.
+The Furnace is an essential part of every Foundry. This Foundry VTT module brings Quality of Life Improvements to the VTT.
 
 ## [Popout!](Foundry%20VTT%20Modules%20%28Universal%29/fvtt-module-popout.md)
 This Foundry VTT module lets you pop out journal entries into their own windows. It is currently acting as a proof of concept.
