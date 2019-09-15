@@ -23,6 +23,7 @@ git submodule update name-of-the-module
    * [Foundry VTT Modules (Universal)](#foundry-vtt-modules-universal)
       * [Always Show Notes](#always-show-notes)
       * [Chat Autoloader](#chat-autoloader)
+      * [CombatReady](#combat-ready)
       * [Deselection](#deselection)
       * [Dice Calculator](#dice-calculator)
       * [Display mode](#display-mode)
@@ -84,6 +85,9 @@ Sets the Display Notes toggle to true by default
 
 ## [Chat Autoloader](Foundry%20VTT%20Modules%20%28Universal%29/chat-autoloader.md)
 This module improves loading times by only rendering the last few chat messages at page load. Older messages will automatically get rendered while scrolling to the top. (This behaviour is similar to e.g. scrolling in Discords chat)
+
+## [Combat Ready](Foundry%20VTT%20Modules%20%28Universal%29/combatready.md)
+Shows a graphic + sound for players a round just before a player's turn (Next Up) and
 
 ## [Deselection](Foundry%20VTT%20Modules%20%28Universal%29/deselection.md)
 This module lets the GM deselect a token or tokens by clicking anywhere on the map.
@@ -169,6 +173,9 @@ This module allows you to use and roll sheets in DnD Beyond, and have those resu
 
 ## [Chat Damage Buttons](Foundry%20VTT%20Modules%20for%20DnD%205E/foundry-vtt---chat-damage-buttons.md)
 This module replaces the right-click context menu with buttons on the dice-roll chat message. This allows for quicker application of damage/healing.
+
+## [Chat Damage Buttons - Better Rolls Edition](Foundry%20VTT%20Modules%20for%20DnD%205E/.md)
+A small module to add "Apply Damage" buttons to Red Reigns Better Rolls 5e Module, based on hookings Chat Damage Buttons.
 
 ## [DDB Popper](Foundry%20VTT%20Modules%20for%20DnD%205E/.md)
 Opens a D&D Beyond popup for a linked actor. More info here: https://github.com/eclarke12/fvtt-modules/tree/master/ddb-popper

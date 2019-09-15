@@ -121,3 +121,6 @@
 [submodule "Foundry VTT Modules (Universal)/FFG-Roller"]
 	path = Foundry VTT Modules (Universal)/FFG-Roller
 	url = https://github.com/petepeg/FFG-Roller
+[submodule "Foundry VTT Modules (Universal)/combatready"]
+	path = Foundry VTT Modules (Universal)/combatready
+	url = https://gitlab.com/Ayanzo/combatready
