@@ -6,6 +6,7 @@
 * **System Compatibility (If applicable)**: Dungeons and Dragons 5th Edition
 * **Module Requirement(s)**: None in Foundry, though module requires a campaign exported from Roll20 using KakaRoTo’s export tool.
 * **Module Conflicts**: None known.
+* **Translation Support**: EN (full)
 
 ### Link(s) to Module
 * The module is paywalled, and requires subscribing to KaKaRoTo’s Patreon.

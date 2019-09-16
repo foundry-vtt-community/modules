@@ -4,6 +4,7 @@
 * **Version**: 0.1
 * **Foundry VTT Compatibility**: At least v0.3.2+, propably earlier versions as well.
 * **Module Conflicts**: Possible conflicts with *Message Age Restriction* by Felix@6196.
+* **Translation Support**: EN (full)
 
 ### Link(s) to Module
 * [https://gitlab.com/moerills-fvtt-modules/chat-autoloader](https://gitlab.com/moerills-fvtt-modules/chat-autoloader)

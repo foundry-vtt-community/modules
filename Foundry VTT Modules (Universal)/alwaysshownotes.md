@@ -6,6 +6,7 @@
 * **System Compatibility (If applicable)**: Universal
 * **Module Requirement(s)**: N/A
 * **Module Conflicts**: No known conflicts
+* **Translation Support**: EN (full)
 
 ### Link(s) to Module
 * [https://github.com/Pingar5/alwaysshownotes](https://github.com/Pingar5/alwaysshownotes)

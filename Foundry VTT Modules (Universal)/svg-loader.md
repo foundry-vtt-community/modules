@@ -6,6 +6,7 @@
 * **System Compatibility (If applicable)**: 
 * **Module Requirement(s)**: 
 * **Module Conflicts**: 
+* **Translation Support**: EN (full)
 
 ### Link(s) to Module
 * [https://gitlab.com/moerills-fvtt-modules/svg-loader](https://gitlab.com/moerills-fvtt-modules/svg-loader) 

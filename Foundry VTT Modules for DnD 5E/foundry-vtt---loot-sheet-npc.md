@@ -6,6 +6,7 @@
 * **System Compatibility (If applicable)**: Dungeons and Dragons 5th Edition
 * **Module Requirement(s)**: None
 * **Module Conflicts**: None
+* **Translation Support**: EN (full)
 
 ### Link(s) to Module
 * [https://gitlab.com/hooking/foundry-vtt---loot-sheet-npc](https://gitlab.com/hooking/foundry-vtt---loot-sheet-npc) 

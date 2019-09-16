@@ -6,6 +6,7 @@
 * **System Compatibility (If applicable)**: Dungeons and Dragons 5th Edition.
 * **Module Requirement(s)**: None
 * **Module Conflicts**: This module currently disables Better NPC Sheet 5e’s function in allowing NPC abilities and actions to be previewed within the sheet.
+* **Translation Support**: EN (full)
 
 ### Link(s) to Module
 * [https://gitlab.com/moerills-fvtt-modules/adnd5e](https://gitlab.com/moerills-fvtt-modules/adnd5e) 

@@ -3,6 +3,7 @@
 * **Author**: Moerill#7205 on Discord. He accepts donations at his [PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=FYZ294SP2JBGS&source=url).
 * **Version**: 0.2
 * **Foundry VTT Compatibility**: 0.3.5
+* **Translation Support**: EN (full)
 
 ### Link(s) to Module
 * [https://gitlab.com/moerills-fvtt-modules/tiles-browser/](https://gitlab.com/moerills-fvtt-modules/tiles-browser/)

@@ -6,6 +6,7 @@
 * **System Compatibility**: Universal
 * **Module Requirement(s)**: None
 * **Module Conflicts**: None
+* **Translation Support**: EN (full)
 
 ### Link(s) to Module
 * [https://github.com/Sky-Captain-13/foundry/tree/master/deselection](https://github.com/Sky-Captain-13/foundry/tree/master/deselection)

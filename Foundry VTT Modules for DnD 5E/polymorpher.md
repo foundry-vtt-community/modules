@@ -6,6 +6,7 @@
 * **System Compatibility (If applicable)**: Dungeons and Dragons 5th edition.
 * **Module Requirement(s)**: None.
 * **Module Conflicts**: Previous version of the module deleted actors, do not use v0.1.
+* **Translation Support**: EN (full)
 
 ### Link(s) to Module
 * [https://github.com/syl3r86/polymorpher](https://github.com/syl3r86/polymorpher) 

@@ -6,6 +6,7 @@
 * **System Compatibility (If applicable)**: universal
 * **Module Requirement(s)**: none
 * **Module Conflicts**: none
+* **Translation Support**: EN (full)
 
 ### Link(s) to Module
 * [https://github.com/syl3r86/image-previewer](https://github.com/syl3r86/image-previewer)

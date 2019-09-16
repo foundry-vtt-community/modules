@@ -6,6 +6,7 @@
 * **System Compatibility (If applicable)**: Dungeons and Dragons 5th Edition.
 * **Module Requirement(s)**: None
 * **Module Conflicts**: None known, although module is a WIP.
+* **Translation Support**: EN (full)
 
 ### Link(s) to Module
 * [https://github.com/shwill/fvtt-party](https://github.com/shwill/fvtt-party) 

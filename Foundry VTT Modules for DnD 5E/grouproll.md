@@ -6,6 +6,7 @@
 * **System Compatibility (If applicable)**: Dungeons and Dragons 5th Edition.
 * **Module Requirement(s)**: None
 * **Module Conflicts**: None
+* **Translation Support**: EN (full)
 
 ### Link(s) to Module
 * [https://github.com/trdischat/fvtt/tree/master/grouproll](https://github.com/trdischat/fvtt/tree/master/grouproll) 

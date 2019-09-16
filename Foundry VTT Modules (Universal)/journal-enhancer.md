@@ -6,6 +6,7 @@
 * **System Compatibility (If applicable)**: As of right now, it is universally applicable to all existing systems.
 * **Module Requirement(s)**: None
 * **Module Conflicts**: None currently known
+* **Translation Support**: EN (full)
 
 ### Link(s) to Module
 * [https://gitlab.com/moerills-fvtt-modules/journal-enhancer](https://gitlab.com/moerills-fvtt-modules/journal-enhancer) 

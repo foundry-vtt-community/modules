@@ -6,6 +6,7 @@
 * **System Compatibility (If applicable)**: Dungeons and Dragons 5th Edition
 * **Module Requirement(s): None.
 * **Module Conflicts**: Module appears to be incompatible with the aDnD5e module.
+* **Translation Support**: EN (full)
 
 ### Link(s) to Module
 * [https://gitlab.com/hooking/foundry-vtt---chat-damage-buttons](https://gitlab.com/hooking/foundry-vtt---chat-damage-buttons) 

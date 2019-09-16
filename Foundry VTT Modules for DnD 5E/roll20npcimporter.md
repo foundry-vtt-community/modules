@@ -6,6 +6,7 @@
 * **System Compatibility (If applicable)**: Dungeons and Dragons 5th Edition
 * **Module Requirement(s)**: None.
 * **Module Conflicts**: None known.
+* **Translation Support**: EN (full)
 
 ### Link(s) to Module
 * [https://github.com/syl3r86/roll20npcimporter](https://github.com/syl3r86/roll20npcimporter) 

@@ -6,6 +6,7 @@
 * **System Compatibility (If applicable)**:
 * **Module Requirement(s)**: Requires the player permission "Trusted Player"
 * **Module Conflicts**:
+* **Translation Support**: EN (full)
 
 ### Link(s) to Module
 * [https://www.vttassets.com/asset/vtta-tokenizer](https://www.vttassets.com/asset/vtta-tokenizer)

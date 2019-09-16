@@ -6,6 +6,7 @@
 * **System Compatibility (If applicable)**:
 * **Module Requirement(s)**: None
 * **Module Conflicts**:
+* **Translation Support**: EN (full)
 
 ### Link(s) to Module
 * [https://www.vttassets.com/asset/vtta-party](https://www.vttassets.com/asset/vtta-party)

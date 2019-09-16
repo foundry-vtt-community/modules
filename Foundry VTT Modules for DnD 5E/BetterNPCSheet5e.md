@@ -6,6 +6,7 @@
 * **System Compatibility (If applicable)**: Dungeons and Dragons 5th Edition.
 * **Module Requirement(s)**: None
 * **Module Conflicts**: If used alongside Moerill’s “adnd5e” module, item descriptions are unable to be expanded in the sheet. This can be fixed by disabling Moerill’s module.
+* **Translation Support**: EN (full)
 
 ### Link(s) to Module
 * [https://github.com/syl3r86/BetterNPCSheet5e](https://github.com/syl3r86/BetterNPCSheet5e) 

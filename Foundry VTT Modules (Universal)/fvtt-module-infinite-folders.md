@@ -6,6 +6,7 @@
 * **System Compatibility (If applicable)**: Universal
 * **Module Requirement(s)**: None
 * **Module Conflicts**: This module creates folders and allows you to create data where it shouldn't be. If a future FVTT update enforces the 2-depth limit on the server side, then all of the deeper folders and their content may be lost.
+* **Translation Support**: EN (full)
 
 ### Link(s) to Module
 * [https://github.com/kakaroto/fvtt-module-infinite-folders](https://github.com/kakaroto/fvtt-module-infinite-folders) 

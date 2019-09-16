@@ -6,6 +6,7 @@
 * **System Compatibility (If applicable)**: Dungeons and Dragons 5th Edition
 * **Module Requirement(s)**: This module requires a concurrent browser plugin in either Firefox or Google Chrome.
 * **Module Conflicts**: None known
+* **Translation Support**: EN (full)
 
 ### Link(s) to Module
 * [https://github.com/kakaroto/Beyond20/](https://github.com/kakaroto/Beyond20/) 

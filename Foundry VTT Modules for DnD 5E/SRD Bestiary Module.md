@@ -6,6 +6,7 @@
 * **System Compatibility (If applicable)**: Dungeons and Dragons 5th Edition
 * **Module Requirement(s)**: None, though it is compatible and has optional sorting tags for the Better NPC Sheet 5E module, as well as the aDnD5e module.  
 * **Module Conflicts**: None (currently).  
+* **Translation Support**: EN (full)
 
 ### Link(s) to Module
 * [https://drive.google.com/file/d/1oHMQhKuV-Vpdg5ftWTMaGZg76MVngZqO/view?usp=sharing](https://drive.google.com/file/d/1oHMQhKuV-Vpdg5ftWTMaGZg76MVngZqO/view?usp=sharing) 

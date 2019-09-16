@@ -5,6 +5,7 @@
 * **Foundry VTT Compatibility**: 0.3.5
 * **System Compatibility (If applicable)**: All, though extra option to roll hp for DnD5e
 * **Module Conflicts**: This module replaces the *Token Randomizer*, hence it is not compatible with it.
+* **Translation Support**: EN (full)
 
 ### Link(s) to Module
 * [https://gitlab.com/moerills-fvtt-modules/token-mold](https://gitlab.com/moerills-fvtt-modules/token-mold) 

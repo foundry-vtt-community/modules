@@ -6,6 +6,7 @@
 * **System Compatibility (If applicable)**: Universal
 * **Module Requirement(s)**: None
 * **Module Conflicts**: None
+* **Translation Support**: EN (full)
 
 ### Link(s) to Module
 * [https://gitlab.com/moerills-fvtt-modules/layer-hotkeys](https://gitlab.com/moerills-fvtt-modules/layer-hotkeys) 

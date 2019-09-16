@@ -6,6 +6,7 @@
 * **System Compatibility (If applicable)**: Universal
 * **Module Requirement(s)**: None
 * **Module Conflicts**: None
+* **Translation Support**: EN (full)
 
 ### Link(s) to Module
 * [https://github.com/syl3r86/displaymode](https://github.com/syl3r86/displaymode) 
