@@ -65,6 +65,7 @@ git submodule update name-of-the-module
       * [Polymorpher](#polymorpher)
       * [R20 Converter](#r20-converter)
       * [Roll20 NPC Importer, for 5e](#roll20-npc-importer-for-5e)
+      * [Sky's 5e D&D Character Sheet](#skys-5th-edition-dungeons--dragons-sheet)
       * [Spell Browser](#spell-browser)
       * [SRD Bestiary Module](#srd-bestiary-module)
       * [VTTA Party](#vtta-party)
@@ -209,6 +210,9 @@ This module imports most facets of a campaign, including scenes, dynamic lightin
 
 ## [Roll20 NPC Importer, for 5e](Foundry%20VTT%20Modules%20for%20DnD%205E/roll20npcimporter.md)
 This module allows for the importing of NPCs from Roll20, through use of JSONs exported via [VTT Enhancement Suite](https://ssstormy.github.io/roll20-enhancement-suite/). This import currently only supports NPCs created in the Roll20 OGL or Shaped version sheets. This module supports the Better NPC Sheet 5e, as well as the aDnD5e sheet in tagging actor items according to abilities, reactions, legendary actions, etc. To install, first download the module, unzip it into `/public/modules`, and then restart Foundry while it is running.
+
+## [Sky's 5th Edition Dungeons & Dragons Sheet](Foundry%20VTT%20Modules%20for%20DnD%205E/.md)
+This module provides a variant layout of the Core 5e Character Sheet in Foundry as well as providing some upgrades to various sections of the sheet.
 
 ## [Spell Browser](Foundry%20VTT%20Modules%20for%20DnD%205E/Spell-Browser.md)
 This module adds a search interface for spells. This enables more comfortable browsing and searching via predefined filters like spell level, class or damage type.
