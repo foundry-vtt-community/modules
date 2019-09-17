@@ -65,7 +65,7 @@ git submodule update name-of-the-module
       * [Polymorpher](#polymorpher)
       * [R20 Converter](#r20-converter)
       * [Roll20 NPC Importer, for 5e](#roll20-npc-importer-for-5e)
-      * [Sky's 5e D&D Character Sheet](#skys-5th-edition-dungeons--dragons-sheet)
+      * [Sky's 5th Edition Dungeons &amp; Dragons Sheet](#skys-5th-edition-dungeons--dragons-sheet)
       * [Spell Browser](#spell-browser)
       * [SRD Bestiary Module](#srd-bestiary-module)
       * [VTTA Party](#vtta-party)
