@@ -10,6 +10,7 @@
 
 ### Link(s) to Module
 * [https://github.com/Pingar5/alwaysshownotes](https://github.com/Pingar5/alwaysshownotes)
+* [https://github.com/Pingar5/alwaysshownotes/blob/master/alwaysshownotes/module.json](https://github.com/Pingar5/alwaysshownotes/blob/master/alwaysshownotes/module.json)
 
 ### Description
 Sets the Display Notes toggle to true by default

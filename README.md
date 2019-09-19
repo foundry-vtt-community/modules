@@ -60,6 +60,7 @@ git submodule update name-of-the-module
       * [Favourite Item Tab](#favourite-item-tab)
       * [Group Roll](#group-roll)
       * [Item Sheet Buttons](#item-sheet-buttons)
+      * [Minor QOL Improvements](#minor-qol-improvements)
       * [Loot Sheet NPC (5e)](#loot-sheet-npc-5e)
       * [NPC Browser](#npc-browser)
       * [Polymorpher](#polymorpher)
@@ -195,6 +196,9 @@ Implements group ability and skill check rolls per Player's Handbook, page 175: 
 
 ## [Item Sheet Buttons](Foundry%20VTT%20Modules%20for%20DnD%205E/foundry-vtt---item-sheet-buttons.md)
 This module adds item card buttons into the description of items, so that the item cards do not need to be pinged in chat. It does have the side effect of making it harder to ping item descriptions within chat.
+
+## [Minor QOL Improvements](Foundry%20VTT%20Modules%20for%20DnD%205E/.md)
+Add item deletion confirmation, accelerated dice rolls with attack and damage in one click and item info hiding. All features can be enabled/disabled from the in-game module settings. If enabling/disabling speed-item-rolls should should reload the browser window.
 
 ## [Loot Sheet NPC (5e)](Foundry%20VTT%20Modules%20for%20DnD%205E/foundry-vtt---loot-sheet-npc.md)
 This module adds an additional NPC sheet which can be used for loot containers such as chests. It also allows spells to be automatically converted into spell scrolls by dragging them onto this sheet.
