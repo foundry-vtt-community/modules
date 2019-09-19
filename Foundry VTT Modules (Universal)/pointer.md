@@ -10,6 +10,7 @@
 
 ### Link(s) to Module
 * [https://gitlab.com/moerills-fvtt-modules/pointer](https://gitlab.com/moerills-fvtt-modules/pointer)
+* [https://gitlab.com/moerills-fvtt-modules/pointer/raw/master/pointer/module.json](https://gitlab.com/moerills-fvtt-modules/pointer/raw/master/pointer/module.json)
 
 ### Description
 This module adds the ability for each user to show a cursor following his mouse as well as adding the option to ping a certain location.

@@ -7,6 +7,7 @@
 
 ### Link(s) to Module
 * [https://gitlab.com/moerills-fvtt-modules/tiles-browser/](https://gitlab.com/moerills-fvtt-modules/tiles-browser/)
+* [https://gitlab.com/moerills-fvtt-modules/tiles-browser/raw/master/module.json](https://gitlab.com/moerills-fvtt-modules/tiles-browser/raw/master/module.json)
 
 ### Description
 Adds a browser to the tiles layer to conveniently preview and then drag and drop tiles onto the scene. Providing additional features to manipulate tile rotation and size while dragging.

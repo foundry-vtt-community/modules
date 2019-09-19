@@ -9,7 +9,8 @@
 * **Translation Support**: EN (full)
 
 ### Link(s) to Module
-* [https://gitlab.com/moerills-fvtt-modules/adnd5e](https://gitlab.com/moerills-fvtt-modules/adnd5e) 
+* [https://gitlab.com/moerills-fvtt-modules/adnd5e](https://gitlab.com/moerills-fvtt-modules/adnd5e)
+* [https://gitlab.com/moerills-fvtt-modules/adnd5e/blob/master/adnd5e/module.json](https://gitlab.com/moerills-fvtt-modules/adnd5e/blob/master/adnd5e/module.json)
 
 ### Description
 This module expands upon the existing 5e system in Foundry VTT, adding alternative PC and NPC sheets, as well as changing the system of attacks and macros, and adds a compendium for all SRD monsters, set up for use with this module. The mod is effectively a massive expansion in the ability to edit sheets for the user’s purposes, and a revamp of how the 5E system works. It is backwards-compatible with the default sheet, and can be switched between the two as needed.

@@ -9,7 +9,8 @@
 * **Translation Support**: EN (full)
 
 ### Link(s) to Module
-* [https://gitlab.com/hooking/foundry-vtt---chat-damage-buttons](https://gitlab.com/hooking/foundry-vtt---chat-damage-buttons) 
+* [https://gitlab.com/hooking/foundry-vtt---chat-damage-buttons](https://gitlab.com/hooking/foundry-vtt---chat-damage-buttons)
+* [https://gitlab.com/hooking/foundry-vtt---chat-damage-buttons/blob/master/module.json](https://gitlab.com/hooking/foundry-vtt---chat-damage-buttons/blob/master/module.json)
 
 ### Description
 This module replaces the right-click context menu with buttons on the dice-roll chat message. This allows for quicker application of damage/healing.

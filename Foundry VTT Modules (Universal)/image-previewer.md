@@ -10,6 +10,7 @@
 
 ### Link(s) to Module
 * [https://github.com/syl3r86/image-previewer](https://github.com/syl3r86/image-previewer)
+* [https://raw.githubusercontent.com/syl3r86/image-previewer/master/image-previewer/module.json](https://raw.githubusercontent.com/syl3r86/image-previewer/master/image-previewer/module.json)
 
 ### Description
 A little app to preview images on hover in the file picker menu.

@@ -8,6 +8,7 @@
 
 ### Link(s) to Module
 * [https://gitlab.com/moerills-fvtt-modules/chat-autoloader](https://gitlab.com/moerills-fvtt-modules/chat-autoloader)
+* [https://gitlab.com/moerills-fvtt-modules/chat-autoloader/raw/master/chat-autoloader/module.json](https://gitlab.com/moerills-fvtt-modules/chat-autoloader/raw/master/chat-autoloader/module.json)
 
 ### Description
 This module improves loading times by only rendering the last few chat messages at page load. Older messages will automatically get rendered while scrolling to the top. (This behaviour is similar to e.g. scrolling in Discords chat)

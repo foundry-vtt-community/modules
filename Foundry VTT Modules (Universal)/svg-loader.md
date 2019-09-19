@@ -9,7 +9,8 @@
 * **Translation Support**: EN (full)
 
 ### Link(s) to Module
-* [https://gitlab.com/moerills-fvtt-modules/svg-loader](https://gitlab.com/moerills-fvtt-modules/svg-loader) 
+* [https://gitlab.com/moerills-fvtt-modules/svg-loader](https://gitlab.com/moerills-fvtt-modules/svg-loader)
+* [https://gitlab.com/moerills-fvtt-modules/svg-loader/raw/master/module.json](https://gitlab.com/moerills-fvtt-modules/svg-loader/raw/master/module.json)
 
 ### Description
 This module allows to load walls, lights and sources through .svg files, provided e.g. by DungeonFog.

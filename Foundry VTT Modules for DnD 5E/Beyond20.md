@@ -9,7 +9,8 @@
 * **Translation Support**: EN (full)
 
 ### Link(s) to Module
-* [https://github.com/kakaroto/Beyond20/](https://github.com/kakaroto/Beyond20/) 
+* [https://github.com/kakaroto/Beyond20/](https://github.com/kakaroto/Beyond20/)
+* [https://raw.githubusercontent.com/kakaroto/Beyond20/master/FVTT-module/beyond20/module.json](https://raw.githubusercontent.com/kakaroto/Beyond20/master/FVTT-module/beyond20/module.json)
 
 The module is available under the 'FVTT-module' directory.
 

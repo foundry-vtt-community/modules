@@ -9,7 +9,8 @@
 * **Translation Support**: EN (full)
 
 ### Link(s) to Module
-* [https://github.com/syl3r86/BetterNPCSheet5e](https://github.com/syl3r86/BetterNPCSheet5e) 
+* [https://github.com/syl3r86/BetterNPCSheet5e](https://github.com/syl3r86/BetterNPCSheet5e)
+* [https://raw.githubusercontent.com/syl3r86/BetterNPCSheet5e/master/betternpcsheet5e/module.json](https://raw.githubusercontent.com/syl3r86/BetterNPCSheet5e/master/betternpcsheet5e/module.json)
 
 ### Description
 This module overwrites the default NPC sheet that comes shipped with the dnd5e system and brings it closer to the well known official template. It also includes functionality supporting separation of action categories (legendary actions, actions, reactions, etc.), and features the ability to expand and view the description of the ability/action in-sheet.

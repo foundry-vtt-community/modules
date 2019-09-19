@@ -28,7 +28,7 @@ git submodule update name-of-the-module
       * [Combat Ready](#combat-ready)
       * [Deselection](#deselection)
       * [Dice Calculator](#dice-calculator)
-      * [Display mode](#display-mode)
+      * [Display Mode](#display-mode)
       * [Entity Order](#entity-order)
       * [FFG Roller](#ffg-roller)
       * [The Furnace](#the-furnace)
@@ -100,7 +100,7 @@ This module lets the GM deselect a token or tokens by clicking anywhere on the m
 ## [Dice Calculator](Foundry%20VTT%20Modules%20%28Universal%29/foundry-vtt-dice-calculator.md)
 This module turns the d20 icon near the chat prompt into a clickable link that opens up a new dice calculator dialog. The dice calculator includes buttons for dice, numbers, and simple math. [Screenshot of the calculator can be found here.](https://i.imgur.com/ar2hNYP.png)
 
-## [Display mode](Foundry%20VTT%20Modules%20%28Universal%29/displaymode.md)
+## [Display Mode](Foundry%20VTT%20Modules%20%28Universal%29/displaymode.md)
 This module makes it so that when you click the anvil in the top left of the screen, the sidebar in Foundry is hidden.
 
 ## [Entity Order](Foundry%20VTT%20Modules%20%28Universal%29/fvtt-module-entityorder.md)
@@ -182,8 +182,8 @@ This module replaces the right-click context menu with buttons on the dice-roll 
 ## [Chat Damage Buttons - Better Rolls Edition](Foundry%20VTT%20Modules%20for%20DnD%205E/.md)
 A small module to add "Apply Damage" buttons to Red Reigns Better Rolls 5e Module, based on hookings Chat Damage Buttons.
 
-## [DDB Popper](Foundry%20VTT%20Modules%20for%20DnD%205E/.md)
-Opens a D&D Beyond popup for a linked actor. More info here: https://github.com/eclarke12/fvtt-modules/tree/master/ddb-popper
+## [DDB Popper](Foundry%20VTT%20Modules%20for%20DnD%205E/ddb-popper.md)
+Opens a D&D Beyond popup for a linked actor. More info here: [https://github.com/eclarke12/fvtt-modules/tree/master/ddb-popper](https://github.com/eclarke12/fvtt-modules/tree/master/ddb-popper)
 
 ## [DnD Beyond Character Importer](Foundry%20VTT%20Modules%20for%20DnD%205E/foundry-vtt-modules.md)
 This module allows you to import character data from DnD Beyond into Foundry Virtual Tabletop.
@@ -197,7 +197,7 @@ Implements group ability and skill check rolls per Player's Handbook, page 175: 
 ## [Item Sheet Buttons](Foundry%20VTT%20Modules%20for%20DnD%205E/foundry-vtt---item-sheet-buttons.md)
 This module adds item card buttons into the description of items, so that the item cards do not need to be pinged in chat. It does have the side effect of making it harder to ping item descriptions within chat.
 
-## [Minor QOL Improvements](Foundry%20VTT%20Modules%20for%20DnD%205E/.md)
+## [Minor QOL Improvements](Foundry%20VTT%20Modules%20for%20DnD%205E/Minor%20QOL%20Improvements.md)
 Add item deletion confirmation, accelerated dice rolls with attack and damage in one click and item info hiding. All features can be enabled/disabled from the in-game module settings. If enabling/disabling speed-item-rolls should should reload the browser window.
 
 ## [Loot Sheet NPC (5e)](Foundry%20VTT%20Modules%20for%20DnD%205E/foundry-vtt---loot-sheet-npc.md)

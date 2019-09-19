@@ -9,7 +9,7 @@
 * **Translation Support**: EN (full)
 
 ### Link(s) to Module
-* [https://drive.google.com/file/d/1oHMQhKuV-Vpdg5ftWTMaGZg76MVngZqO/view?usp=sharing](https://drive.google.com/file/d/1oHMQhKuV-Vpdg5ftWTMaGZg76MVngZqO/view?usp=sharing) 
+* [https://drive.google.com/file/d/1oHMQhKuV-Vpdg5ftWTMaGZg76MVngZqO/view?usp=sharing](https://drive.google.com/file/d/1oHMQhKuV-Vpdg5ftWTMaGZg76MVngZqO/view?usp=sharing)
 
 ### Description
 This module includes each SRD NPC in 5th edition, imported into Foundry VTT. This includes all of their features, immunities/resistances/vulnerabilities, actions, and much, much more.  Other than lacking token images (token images do not appear to be part of the SRD), each NPC is built and ready for use in Foundry Virtual Tabletop.  Included in the module is a folder containing each individual NPC json, in case you wish to experiment with importing them, or future updates break the NPCs in this module. These can be imported individually using the Roll20 NPC Importer, for 5e module.  

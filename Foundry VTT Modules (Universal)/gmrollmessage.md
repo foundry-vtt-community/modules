@@ -9,7 +9,8 @@
 * **Translation Support**: EN (full)
 
 ### Link(s) to Module
-* [https://github.com/Hydroxi/gmrollmessage](https://github.com/Hydroxi/gmrollmessage) 
+* [https://github.com/Hydroxi/gmrollmessage](https://github.com/Hydroxi/gmrollmessage)
+* [https://github.com/Hydroxi/gmrollmessage/raw/master/module.json](https://github.com/Hydroxi/gmrollmessage/raw/master/module.json)
 
 ### Description
 Sends an extra public message/hint when rolling a `gmroll` or `blindroll`.

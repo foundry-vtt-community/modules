@@ -8,11 +8,12 @@
 * **Translation Support**: EN (full)
 
 ### Link(s) to Module
-* [https://gitlab.com/moerills-fvtt-modules/token-mold](https://gitlab.com/moerills-fvtt-modules/token-mold) 
+* [https://gitlab.com/moerills-fvtt-modules/token-mold](https://gitlab.com/moerills-fvtt-modules/token-mold)
+* [https://gitlab.com/moerills-fvtt-modules/token-mold/raw/master/module.json](https://gitlab.com/moerills-fvtt-modules/token-mold/raw/master/module.json)
 
 ### Description
-What is a foundry without its molds? This module provides you with a customizable mold for your Tokens.  
-On creation each unlinked Token will fit snugly into the pattern of your mold.  
+What is a foundry without its molds? This module provides you with a customizable mold for your Tokens.
+On creation each unlinked Token will fit snugly into the pattern of your mold.
 **Features**
 - Automatic indexing
 - Random adjective prefixes (e.g. angry, calm, bloodthirsty, ...)

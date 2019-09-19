@@ -9,7 +9,8 @@
 * **Translation Support**: EN (full)
 
 ### Link(s) to Module
-* [https://github.com/kakaroto/fvtt-module-furnace](https://github.com/kakaroto/fvtt-module-furnace) 
+* [https://github.com/kakaroto/fvtt-module-furnace](https://github.com/kakaroto/fvtt-module-furnace)
+* [https://raw.githubusercontent.com/kakaroto/fvtt-module-furnace/master/module.json](https://raw.githubusercontent.com/kakaroto/fvtt-module-furnace/master/module.json)
 
 ### Description
 The Furnace is an essential part of every Foundry. This Foundry VTT module brings Quality of Life Improvements to the VTT.

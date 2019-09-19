@@ -9,7 +9,8 @@
 * **Translation Support**: EN (full)
 
 ### Link(s) to Module
-* [https://gitlab.com/hooking/foundry-vtt---item-sheet-buttons](https://gitlab.com/hooking/foundry-vtt---item-sheet-buttons) 
+* [https://gitlab.com/hooking/foundry-vtt---item-sheet-buttons](https://gitlab.com/hooking/foundry-vtt---item-sheet-buttons)
+* [https://gitlab.com/hooking/foundry-vtt---item-sheet-buttons/blob/master/module.json](https://gitlab.com/hooking/foundry-vtt---item-sheet-buttons/blob/master/module.json)
 
 ### Description
 This module adds item card buttons into the description of items, so that the item cards do not need to be pinged in chat. It does have the side effect of making it harder to ping item descriptions within chat.

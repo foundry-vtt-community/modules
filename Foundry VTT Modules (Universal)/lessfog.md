@@ -9,7 +9,8 @@
 * **Translation Support**: EN (full)
 
 ### Link(s) to Module
-* [https://github.com/trdischat/lessfog](https://github.com/trdischat/lessfog) 
+* [https://github.com/trdischat/lessfog](https://github.com/trdischat/lessfog)
+* [https://github.com/trdischat/lessfog/raw/master/module.json](https://github.com/trdischat/lessfog/raw/master/module.json)
 
 ### Description
 Module to enhance visibility for the GM in Foundry VTT.

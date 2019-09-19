@@ -9,7 +9,8 @@
 * **Translation Support**: EN (full)
 
 ### Link(s) to Module
-* [https://github.com/trdischat/fvtt/tree/master/patches](https://github.com/trdischat/fvtt/tree/master/patches) 
+* [https://github.com/trdischat/fvtt/tree/master/patches](https://github.com/trdischat/fvtt/tree/master/patches)
+* [https://github.com/trdischat/fvtt/raw/master/patches/module.json](https://github.com/trdischat/fvtt/raw/master/patches/module.json)
 
 ### Description
 Module to apply the following patches to Foundry VTT:

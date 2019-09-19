@@ -9,7 +9,8 @@
 * **Translation Support**: EN (full)
 
 ### Link(s) to Module
-* [https://github.com/syl3r86/polymorpher](https://github.com/syl3r86/polymorpher) 
+* [https://github.com/syl3r86/polymorpher](https://github.com/syl3r86/polymorpher)
+* [https://raw.githubusercontent.com/syl3r86/polymorpher/master/polymorpher/module.json](https://raw.githubusercontent.com/syl3r86/polymorpher/master/polymorpher/module.json)
 
 ### Description
 A module for Foundry VTT that lets you polymorph characters into any other character! Just drag any Actor (NPC or Character) on top of another Actor to change the later into the prior. Support dropping both from Compendium or the sidebar.

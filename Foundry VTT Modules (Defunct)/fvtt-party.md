@@ -9,7 +9,8 @@
 * **Translation Support**: EN (full)
 
 ### Link(s) to Module
-* [https://github.com/shwill/fvtt-party](https://github.com/shwill/fvtt-party) 
+* [https://github.com/shwill/fvtt-party](https://github.com/shwill/fvtt-party)
+* [https://github.com/shwill/fvtt-party/raw/master/module.json](https://github.com/shwill/fvtt-party/raw/master/module.json)
 
 ### Description
 This module adds a convenient button to the actor’s tab, which will track the HP, AC, and Passive Perception, Investigation, and Insight of tokens on the Canvas. Currently a WIP, and may exhibit some bugs.
