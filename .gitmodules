@@ -121,3 +121,6 @@
 [submodule "Foundry VTT Modules (Universal)/combatready"]
 	path = Foundry VTT Modules (Universal)/combatready
 	url = https://gitlab.com/Ayanzo/combatready
+[submodule "image-previewer.zip"]
+	path = image-previewer.zip
+	url = https://github.com/syl3r86/image-previewer
