@@ -112,6 +112,9 @@ This adds a simple dice rolling window for the special dice used in Fantasy Flig
 ## [The Furnace](Foundry%20VTT%20Modules%20%28Universal%29/fvtt-module-furnace.md)
 The Furnace is an essential part of every Foundry. This Foundry VTT module brings Quality of Life Improvements to the VTT.
 
+## [Playlist Import](Foundry%20VTT%20Modules%20%28Universal%29/playlist_import.md)
+This module aims to simplify the process of adding multiple music tracks to Foundry VTT, doing so in a timely manner.
+
 ## [Popout!](Foundry%20VTT%20Modules%20%28Universal%29/fvtt-module-popout.md)
 This Foundry VTT module lets you pop out journal entries into their own windows. It is currently acting as a proof of concept.
 

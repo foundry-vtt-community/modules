@@ -124,3 +124,6 @@
 [submodule "Foundry VTT Modules (Universal)/image-previewer"]
 	path = Foundry VTT Modules (Universal)/image-previewer
 	url = https://github.com/syl3r86/image-previewer
+[submodule "Foundry VTT Modules (Universal)/playlist_import"]
+	path = Foundry VTT Modules (Universal)/playlist_import
+	url = https://github.com/JacobMcAuley/playlist_import
