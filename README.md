@@ -45,6 +45,7 @@ git submodule update name-of-the-module
       * [No Token Animations](#no-token-animations)
       * [Patches by trdischat](#patches-by-trdischat)
       * [Permission Viewer](#permission-viewer)
+      * [Pings](#pings)
       * [Pointer](#pointer)
       * [SVG Loader](#svg-loader)
       * [Tiles Browser](#tiles-browser)
@@ -151,6 +152,9 @@ Module to apply the following patches to Foundry VTT:
 
 ## [Permission Viewer](Foundry%20VTT%20Modules%20%28Universal%29/fvtt-module-permission-viewer.md)
 This Foundry VTT module displays colored diamonds/squares/circles to represent the players who have limited/observer/owner permissions on Entities (Actors, Journal entries, Items, etc..)
+
+## [Pings](Foundry%20VTT%20Modules%20%28Universal%29/.md)
+
 
 ## [Pointer](Foundry%20VTT%20Modules%20%28Universal%29/pointer.md)
 This module adds the ability for each user to show a cursor following his mouse as well as adding the option to ping a certain location.
