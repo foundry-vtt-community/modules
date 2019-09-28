@@ -26,6 +26,7 @@ git submodule update name-of-the-module
       * [Always Show Notes](#always-show-notes)
       * [Chat Autoloader](#chat-autoloader)
       * [Combat Ready](#combat-ready)
+      * [Cursor Hider](#cursor-hider)
       * [Deselection](#deselection)
       * [Dice Calculator](#dice-calculator)
       * [Display Mode](#display-mode)
@@ -95,6 +96,9 @@ This module improves loading times by only rendering the last few chat messages 
 
 ## [Combat Ready](Foundry%20VTT%20Modules%20%28Universal%29/combatready.md)
 Shows a graphic + sound for players a round just before a player's turn (Next Up) and
+
+## [Cursor Hider](Foundry%20VTT%20Modules%20%28Universal%29/.md)
+
 
 ## [Deselection](Foundry%20VTT%20Modules%20%28Universal%29/deselection.md)
 This module lets the GM deselect a token or tokens by clicking anywhere on the map.
