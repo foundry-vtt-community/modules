@@ -191,7 +191,7 @@ This module replaces the right-click context menu with buttons on the dice-roll 
 A small module to add "Apply Damage" buttons to Red Reigns Better Rolls 5e Module, based on hookings Chat Damage Buttons.
 
 ## [DDB Popper](Foundry%20VTT%20Modules%20for%20DnD%205E/ddb-popper.md)
-Opens a D&D Beyond popup for a linked actor. More info here: [https://github.com/eclarke12/fvtt-modules/tree/master/ddb-popper](https://github.com/eclarke12/fvtt-modules/tree/master/ddb-popper)
+Opens a D&D Beyond popup for a linked actor.
 
 ## [DnD Beyond Character Importer](Foundry%20VTT%20Modules%20for%20DnD%205E/foundry-vtt-modules.md)
 This module allows you to import character data from DnD Beyond into Foundry Virtual Tabletop.
