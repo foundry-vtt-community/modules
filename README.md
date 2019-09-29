@@ -104,7 +104,7 @@ Shows a graphic + sound for players a round just before a player's turn (Next Up
 This module lets the GM deselect a token or tokens by clicking anywhere on the map.
 
 ## [Dice Calculator](Foundry%20VTT%20Modules%20%28Universal%29/foundry-vtt-dice-calculator.md)
-This module turns the d20 icon near the chat prompt into a clickable link that opens up a new dice calculator dialog. The dice calculator includes buttons for dice, numbers, and simple math. [Screenshot of the calculator can be found here.](https://i.imgur.com/ar2hNYP.png)
+This module turns the d20 icon near the chat prompt into a clickable link that opens up a new dice calculator dialog. The dice calculator includes buttons for dice, numbers, attributes for the selected token, and simple math. In addition, it includes support for inline dice rolls, such as `[[2d6 + @abil.str.mod]]` in chat. [Screenshot of the calculator can be found here.](https://i.imgur.com/53XmxEN.png)
 
 ## [Display Mode](Foundry%20VTT%20Modules%20%28Universal%29/displaymode.md)
 This module makes it so that when you click the anvil in the top left of the screen, the sidebar in Foundry is hidden.
