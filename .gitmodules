@@ -127,3 +127,6 @@
 [submodule "Foundry VTT Modules (Universal)/playlist_import"]
 	path = Foundry VTT Modules (Universal)/playlist_import
 	url = https://github.com/JacobMcAuley/playlist_import
+[submodule "https:/gitlab.com/Ayanzo/theatre/raw/master/module.json"]
+	path = https:/gitlab.com/Ayanzo/theatre/raw/master/module.json
+	url = https://gitlab.com/Ayanzo/theatre
