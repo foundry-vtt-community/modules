@@ -130,3 +130,6 @@
 [submodule "https:/gitlab.com/Ayanzo/theatre/raw/master/module.json"]
 	path = https:/gitlab.com/Ayanzo/theatre/raw/master/module.json
 	url = https://gitlab.com/Ayanzo/theatre
+[submodule "Foundry VTT Modules for DnD 5E/FoundryVTT-BetterRolls5e"]
+	path = Foundry VTT Modules for DnD 5E/FoundryVTT-BetterRolls5e
+	url = https://github.com/RedReign/FoundryVTT-BetterRolls5e

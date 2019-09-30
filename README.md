@@ -56,6 +56,7 @@ git submodule update name-of-the-module
       * [Z Order](#z-order)
    * [Foundry VTT Modules for DnD 5E](#foundry-vtt-modules-for-dnd-5e)
       * [Better NPC Sheet 5e](#better-npc-sheet-5e)
+      * [Better Rolls for 5e](#better-rolls-for-5e)
       * [Beyond 20](#beyond-20)
       * [Chat Damage Buttons](#chat-damage-buttons)
       * [Chat Damage Buttons - Better Rolls Edition](#chat-damage-buttons---better-rolls-edition)
@@ -97,6 +98,9 @@ This module improves loading times by only rendering the last few chat messages 
 
 ## [Combat Ready](Foundry%20VTT%20Modules%20%28Universal%29/combatready.md)
 Shows a graphic + sound for players a round just before a player's turn (Next Up) and
+
+## [Combat Utility Belt (Beta)](Foundry%20VTT%20Modules%20%28Universal%29/.md)
+You can read more about the module in the README @ (https://github.com/death-save/combat-utility-belt/tree/beta).
 
 ## [Cursor Hider](Foundry%20VTT%20Modules%20%28Universal%29/.md)
 
@@ -188,6 +192,9 @@ Foundry modules that work within Dungeons and Dragons 5th Edition are noted here
 
 ## [Better NPC Sheet 5e](Foundry%20VTT%20Modules%20for%20DnD%205E/BetterNPCSheet5e.md)
 This module overwrites the default NPC sheet that comes shipped with the dnd5e system and brings it closer to the well known official template. It also includes functionality supporting separation of action categories (legendary actions, actions, reactions, etc.), and features the ability to expand and view the description of the ability/action in-sheet.
+
+## [Better Rolls for 5e](Foundry%20VTT%20Modules%20for%20DnD%205E/FoundryVTT-BetterRolls5e.md)
+This module modifies certain sheet functions on Foundry VTT Character sheets for D&D 5th Edition. Currently, it adds compound rolls (for attack rolls and damage rolls combined), as well as "dual rolls" for all attacks, ability checks, and saving throws, rolling 2 d20s side-by-side in a single chat message. On top of this are a few options to customize layout and enable/disable certain features of the module.
 
 ## [Beyond 20](Foundry%20VTT%20Modules%20for%20DnD%205E/Beyond20.md)
 This module allows you to use and roll sheets in DnD Beyond, and have those results displayed in Foundry VTT. For more details, see Kakaroto’s module page and readme files.
