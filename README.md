@@ -24,6 +24,7 @@ git submodule update name-of-the-module
 <!--ts-->
    * [Foundry VTT Modules (Universal)](#foundry-vtt-modules-universal)
       * [Always Show Notes](#always-show-notes)
+      * [Anvil Menu](#anvil-menu)
       * [Chat Autoloader](#chat-autoloader)
       * [Combat Ready](#combat-ready)
       * [Combat Utility Belt (Beta)](#combat-utility-belt-beta)
@@ -94,6 +95,9 @@ Foundry modules that work across all or most systems are noted here. These may i
 
 ## [Always Show Notes](Foundry%20VTT%20Modules%20%28Universal%29/alwaysshownotes.md)
 Sets the Display Notes toggle to true by default
+
+## [Anvil Menu](Foundry%20VTT%20Modules%20%28Universal%29/.md)
+Adds a context menu to Foundry's Anvil logo in the top left of the screen. This module adds entries to the menu to put the application into Fullscreen mode, as well as providing the ability to toggle the visibility of the main UI components.
 
 ## [Chat Autoloader](Foundry%20VTT%20Modules%20%28Universal%29/chat-autoloader.md)
 This module improves loading times by only rendering the last few chat messages at page load. Older messages will automatically get rendered while scrolling to the top. (This behaviour is similar to e.g. scrolling in Discords chat)
