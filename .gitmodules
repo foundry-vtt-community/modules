@@ -133,3 +133,60 @@
 [submodule "Foundry VTT Modules for DnD 5E/FoundryVTT-BetterRolls5e"]
 	path = Foundry VTT Modules for DnD 5E/FoundryVTT-BetterRolls5e
 	url = https://github.com/RedReign/FoundryVTT-BetterRolls5e
+[submodule "https:/gitlab.com/moerills-fvtt-modules/chat-autoloader/raw/master/chat-autoloader/module.json"]
+	path = https:/gitlab.com/moerills-fvtt-modules/chat-autoloader/raw/master/chat-autoloader/module.json
+	url = https://gitlab.com/moerills-fvtt-modules/chat-autoloader
+[submodule "https:/gitlab.com/Ayanzo/combatready/raw/master/module.json"]
+	path = https:/gitlab.com/Ayanzo/combatready/raw/master/module.json
+	url = https://gitlab.com/Ayanzo/combatready
+[submodule "https:/gitlab.com/asacolips-projects/foundry-mods/foundry-vtt-dice-calculator/raw/master/module.json"]
+	path = https:/gitlab.com/asacolips-projects/foundry-mods/foundry-vtt-dice-calculator/raw/master/module.json
+	url = https://gitlab.com/asacolips-projects/foundry-mods/foundry-vtt-dice-calculator
+[submodule "https:/github.com/Hydroxi/gmrollmessage/raw/master/module.json"]
+	path = https:/github.com/Hydroxi/gmrollmessage/raw/master/module.json
+	url = https://github.com/Hydroxi/gmrollmessage
+[submodule "https:/gitlab.com/moerills-fvtt-modules/journal-enhancer/raw/master/journal-enhancer/module.json"]
+	path = https:/gitlab.com/moerills-fvtt-modules/journal-enhancer/raw/master/journal-enhancer/module.json
+	url = https://gitlab.com/moerills-fvtt-modules/journal-enhancer
+[submodule "https:/gitlab.com/moerills-fvtt-modules/layer-hotkeys/raw/master/layer-hotkeys/module.json"]
+	path = https:/gitlab.com/moerills-fvtt-modules/layer-hotkeys/raw/master/layer-hotkeys/module.json
+	url = https://gitlab.com/moerills-fvtt-modules/layer-hotkeys
+[submodule "https:/github.com/trdischat/lessfog/raw/master/module.json"]
+	path = https:/github.com/trdischat/lessfog/raw/master/module.json
+	url = https://github.com/trdischat/lessfog
+[submodule "https:/github.com/syl3r86/messageagerestriction/master/favtab/module.json"]
+	path = https:/github.com/syl3r86/messageagerestriction/master/favtab/module.json
+	url = https://github.com/syl3r86/messageagerestriction
+[submodule "https:/gitlab.com/moerills-fvtt-modules/pointer/raw/master/pointer/module.json"]
+	path = https:/gitlab.com/moerills-fvtt-modules/pointer/raw/master/pointer/module.json
+	url = https://gitlab.com/moerills-fvtt-modules/pointer
+[submodule "https:/gitlab.com/moerills-fvtt-modules/svg-loader/raw/master/module.json"]
+	path = https:/gitlab.com/moerills-fvtt-modules/svg-loader/raw/master/module.json
+	url = https://gitlab.com/moerills-fvtt-modules/svg-loader
+[submodule "https:/gitlab.com/moerills-fvtt-modules/tiles-browser/raw/master/module.json"]
+	path = https:/gitlab.com/moerills-fvtt-modules/tiles-browser/raw/master/module.json
+	url = https://gitlab.com/moerills-fvtt-modules/tiles-browser/
+[submodule "https:/gitlab.com/moerills-fvtt-modules/token-mold/raw/master/module.json"]
+	path = https:/gitlab.com/moerills-fvtt-modules/token-mold/raw/master/module.json
+	url = https://gitlab.com/moerills-fvtt-modules/token-mold
+[submodule "https:/gitlab.com/hooking/foundry-vtt---chat-damage-buttons/blob/master/module.json"]
+	path = https:/gitlab.com/hooking/foundry-vtt---chat-damage-buttons/blob/master/module.json
+	url = https://gitlab.com/hooking/foundry-vtt---chat-damage-buttons
+[submodule "https:/gitlab.com/hooking/foundry-vtt---item-sheet-buttons/blob/master/module.json"]
+	path = https:/gitlab.com/hooking/foundry-vtt---item-sheet-buttons/blob/master/module.json
+	url = https://gitlab.com/hooking/foundry-vtt---item-sheet-buttons
+[submodule "https:/gitlab.com/hooking/foundry-vtt---loot-sheet-npc/blob/master/module.json"]
+	path = https:/gitlab.com/hooking/foundry-vtt---loot-sheet-npc/blob/master/module.json
+	url = https://gitlab.com/hooking/foundry-vtt---loot-sheet-npc
+[submodule "WFRP4e"]
+	path = WFRP4e
+	url = https://github.com/moo-man/Arcane-Marks-Careers-FVTT
+[submodule "https:/gitlab.com/moerills-fvtt-modules/adnd5e/blob/master/adnd5e/module.json"]
+	path = https:/gitlab.com/moerills-fvtt-modules/adnd5e/blob/master/adnd5e/module.json
+	url = https://gitlab.com/moerills-fvtt-modules/adnd5e
+[submodule "https:/gitlab.com/hooking/foundry-vtt---encumbrance-variant-5e/blob/master/module.json"]
+	path = https:/gitlab.com/hooking/foundry-vtt---encumbrance-variant-5e/blob/master/module.json
+	url = https://gitlab.com/hooking/foundry-vtt---encumbrance-variant-5e
+[submodule "https:/github.com/shwill/fvtt-party/raw/master/module.json"]
+	path = https:/github.com/shwill/fvtt-party/raw/master/module.json
+	url = https://github.com/shwill/fvtt-party
