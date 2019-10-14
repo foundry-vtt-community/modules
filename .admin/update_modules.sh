@@ -55,7 +55,7 @@ for section in csplit-sections-* ; do
 				dir=$name
 				if [[ "$url" != "" ]] ; then
 					echo "   URL : $url"
-					dir=$(basename $url)
+					dir=$(basename "$url")
 					if [[ -d "$section_name/$dir" ]] ; then
 						git submodule update --remote "$section_name/$dir"
 					else
