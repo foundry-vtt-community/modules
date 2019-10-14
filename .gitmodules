@@ -190,3 +190,9 @@
 [submodule "https:/github.com/shwill/fvtt-party/raw/master/module.json"]
 	path = https:/github.com/shwill/fvtt-party/raw/master/module.json
 	url = https://github.com/shwill/fvtt-party
+[submodule "https:/gitlab.com/Ionshard/foundry-vtt-anvil-menu/-/jobs/artifacts/master/raw/module.json?job=build-module"]
+	path = https:/gitlab.com/Ionshard/foundry-vtt-anvil-menu/-/jobs/artifacts/master/raw/module.json?job=build-module
+	url = https://gitlab.com/Ionshard/foundry-vtt-anvil-menu
+[submodule "https:/gitlab.com/foundry-azzurite/pings/raw/master/src/module.json"]
+	path = https:/gitlab.com/foundry-azzurite/pings/raw/master/src/module.json
+	url = https://gitlab.com/foundry-azzurite/pings

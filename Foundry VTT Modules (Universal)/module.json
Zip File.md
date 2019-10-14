@@ -9,7 +9,7 @@
 * **Translation Support**: EN (full)
 
 ### Link(s) to Module
-* [Project Repository](https://gitlab.com/foundry-azzurite/pings)
+* [https://gitlab.com/foundry-azzurite/pings](https://gitlab.com/foundry-azzurite/pings)
 * [https://gitlab.com/foundry-azzurite/pings/raw/master/src/module.json](https://gitlab.com/foundry-azzurite/pings/raw/master/src/module.json)
 * [Zip File](https://gitlab.com/foundry-azzurite/pings/raw/master/dist/pings.zip)
 

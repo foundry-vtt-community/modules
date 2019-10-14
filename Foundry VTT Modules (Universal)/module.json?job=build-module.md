@@ -9,7 +9,7 @@
 * **Translation Support**: EN (full)
 
 ### Link(s) to Module
-* [Anvil Menu GitLab](https://gitlab.com/Ionshard/foundry-vtt-anvil-menu)
+* [https://gitlab.com/Ionshard/foundry-vtt-anvil-menu](https://gitlab.com/Ionshard/foundry-vtt-anvil-menu)
 * [https://gitlab.com/Ionshard/foundry-vtt-anvil-menu/-/jobs/artifacts/master/raw/module.json?job=build-module](https://gitlab.com/Ionshard/foundry-vtt-anvil-menu/-/jobs/artifacts/master/raw/module.json?job=build-module)
 
 ### Description
