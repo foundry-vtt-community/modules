@@ -51,7 +51,6 @@ git submodule update name-of-the-module
       * [Pings](#pings)
       * [Pointer](#pointer)
       * [SVG Loader](#svg-loader)
-      * [Theatre](#theatre)
       * [Tiles Browser](#tiles-browser)
       * [VTTA Tokenizer](#vtta-tokenizer)
       * [Token Mold](#token-mold)
@@ -176,9 +175,6 @@ This module adds the ability for each user to show a cursor following his mouse 
 
 ## [SVG Loader](Foundry%20VTT%20Modules%20%28Universal%29/module.json.md)
 This module allows to load walls, lights and sources through .svg files, provided e.g. by DungeonFog.
-
-## [Theatre](Foundry%20VTT%20Modules%20%28Universal%29/module.json.md)
-
 
 ## [Tiles Browser](Foundry%20VTT%20Modules%20%28Universal%29/module.json.md)
 Adds a browser to the tiles layer to conveniently preview and then drag and drop tiles onto the scene. Providing additional features to manipulate tile rotation and size while dragging.
