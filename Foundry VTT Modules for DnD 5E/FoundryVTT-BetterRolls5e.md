@@ -1,26 +1,20 @@
-## Sky's 5th Edition Dungeons & Dragons Sheet
+## Better Rolls for 5e
 
-* **Author**: Sky#9435
-* **Version**: 0.0.2
-* **Foundry VTT Compatibility**: 0.3.6+
-* **System Compatibility**: D&D 5e
-* **Module Requirement(s)**: None
-* **Module Conflicts**: None
-* **Translation Support**: None
+* **Author**: Red Reign#5128 on Discord, RedReign on Github.
+* **Version**: 0.2.6
+* **Foundry VTT Compatibility**: 0.3.5+
+* **System Compatibility (If applicable)**: Dungeons and Dragons 5th Edition
+* **Module Requirement(s)**: N/A
+* **Module Conflicts**: None known.
+* **Translation Support**: English, localization not yet supported.
 
-### Link(s) to Module
-* [https://github.com/Sky-Captain-13/foundry/tree/master/sky5e](https://github.com/Sky-Captain-13/foundry/tree/master/sky5e)
-* [https://raw.githubusercontent.com/Sky-Captain-13/foundry/master/sky5e/sky5e/module.json](https://raw.githubusercontent.com/Sky-Captain-13/foundry/master/sky5e/sky5e/module.json)
+### Links to Module
+* [https://github.com/RedReign/FoundryVTT-BetterRolls5e](https://github.com/RedReign/FoundryVTT-BetterRolls5e)
+* [https://raw.githubusercontent.com/RedReign/FoundryVTT-BetterRolls5e/master/betterrolls5e/module.json](https://raw.githubusercontent.com/RedReign/FoundryVTT-BetterRolls5e/master/betterrolls5e/module.json)
 
 ### Description
-This module provides a variant layout of the Core 5e Character Sheet in Foundry as well as providing some upgrades to various sections of the sheet.
-
-* Rearranges the layout into a wider sheet, to display more information instead of being hidden behind tabs
-* Enables rolling ability checks and saving throws directly instead of clicking through a popup
-  * Best combined with Red Reign's BetterRoll5e module: https://github.com/RedReign/FoundryVTT-BetterRolls5e
-* Adds the ability to click Known Languages under Traits to send the list to the chat window
-* Adds Tool, Armor, and Weapon proficiencies beneath Skills
-* Saves the scrollbar position when adding/deleting items from your inventory, features, or spellbook
+This module modifies certain sheet functions on Foundry VTT Character sheets for D&D 5th Edition. Currently, it adds compound rolls (for attack rolls and damage rolls combined), as well as "dual rolls" for all attacks, ability checks, and saving throws, rolling 2 d20s side-by-side in a single chat message. On top of this are a few options to customize layout and enable/disable certain features of the module. 
+It currently supports the DnD5e Character and NPC sheets, Better NPC Sheet 5e, and Sky5e sheets, though adding support for other sheets can be done.
 
 ---
 

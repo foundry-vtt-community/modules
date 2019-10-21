@@ -199,3 +199,15 @@
 [submodule "Foundry VTT Modules (Universal)/hype-track"]
 	path = Foundry VTT Modules (Universal)/hype-track
 	url = https://github.com/death-save/hype-track/
+[submodule "Foundry VTT Modules (Universal)/foundry-vtt-anvil-menu"]
+	path = Foundry VTT Modules (Universal)/foundry-vtt-anvil-menu
+	url = https://gitlab.com/Ionshard/foundry-vtt-anvil-menu
+[submodule "Foundry VTT Modules (Universal)/pings"]
+	path = Foundry VTT Modules (Universal)/pings
+	url = https://gitlab.com/foundry-azzurite/pings
+[submodule "Foundry VTT Modules for DnD 5E/ddb-popper"]
+	path = Foundry VTT Modules for DnD 5E/ddb-popper
+	url = https://github.com/death-save/ddb-popper
+[submodule "Foundry VTT Modules for WFRP 4E/Arcane-Marks-Careers-FVTT"]
+	path = Foundry VTT Modules for WFRP 4E/Arcane-Marks-Careers-FVTT
+	url = https://github.com/moo-man/Arcane-Marks-Careers-FVTT
