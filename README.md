@@ -35,10 +35,9 @@ git submodule update name-of-the-module
       * [Entity Order](#entity-order)
       * [FFG Roller](#ffg-roller)
       * [The Furnace](#the-furnace)
-      * [Playlist Import](#playlist-import)
-      * [Popout!](#popout)
       * [GM Roll Message](#gm-roll-message)
       * [Grid Scaler](#grid-scaler)
+      * [Hype Track](#hype-track)
       * [Image Previewer](#image-previewer)
       * [Infinite Folders](#infinite-folders)
       * [Journal Enhancer](#journal-enhancer)
@@ -49,6 +48,8 @@ git submodule update name-of-the-module
       * [Patches by trdischat](#patches-by-trdischat)
       * [Permission Viewer](#permission-viewer)
       * [Pings](#pings)
+      * [Playlist Import](#playlist-import)
+      * [Popout!](#popout)
       * [Pointer](#pointer)
       * [SVG Loader](#svg-loader)
       * [Tiles Browser](#tiles-browser)
@@ -128,17 +129,14 @@ This adds a simple dice rolling window for the special dice used in Fantasy Flig
 ## [The Furnace](Foundry%20VTT%20Modules%20%28Universal%29/fvtt-module-furnace.md)
 The Furnace is an essential part of every Foundry. This Foundry VTT module brings Quality of Life Improvements to the VTT.
 
-## [Playlist Import](Foundry%20VTT%20Modules%20%28Universal%29/playlist_import.md)
-This module aims to simplify the process of adding multiple music tracks to Foundry VTT, doing so in a timely manner.
-
-## [Popout!](Foundry%20VTT%20Modules%20%28Universal%29/fvtt-module-popout.md)
-This Foundry VTT module lets you pop out journal entries into their own windows. It is currently acting as a proof of concept.
-
 ## [GM Roll Message](Foundry%20VTT%20Modules%20%28Universal%29/module.json.md)
 Sends an extra public message/hint when rolling a `gmroll` or `blindroll`.
 
 ## [Grid Scaler](Foundry%20VTT%20Modules%20%28Universal%29/scaleGrid.md)
 This mod allows you to resize a grid more easily within Foundry, allowing easier map setup when a grid is uneven or unclear within a background image.
+
+## [Hype Track](Foundry%20VTT%20Modules%20%28Universal%29/hype-track.md)
+Every hero needs a hype person* in their corner, getting the crowd amped up whenever they arrive.
 
 ## [Image Previewer](Foundry%20VTT%20Modules%20%28Universal%29/image-previewer.md)
 A little app to preview images on hover in the file picker menu.
@@ -169,6 +167,12 @@ This Foundry VTT module displays colored diamonds/squares/circles to represent t
 
 ## [Pings](Foundry%20VTT%20Modules%20%28Universal%29/module.json%0aZip%20File.md)
 
+
+## [Playlist Import](Foundry%20VTT%20Modules%20%28Universal%29/playlist_import.md)
+This module aims to simplify the process of adding multiple music tracks to Foundry VTT, doing so in a timely manner.
+
+## [Popout!](Foundry%20VTT%20Modules%20%28Universal%29/fvtt-module-popout.md)
+This Foundry VTT module lets you pop out journal entries into their own windows. It is currently acting as a proof of concept.
 
 ## [Pointer](Foundry%20VTT%20Modules%20%28Universal%29/module.json.md)
 This module adds the ability for each user to show a cursor following his mouse as well as adding the option to ping a certain location.

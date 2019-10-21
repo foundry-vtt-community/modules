@@ -196,3 +196,6 @@
 [submodule "https:/gitlab.com/foundry-azzurite/pings/raw/master/src/module.json"]
 	path = https:/gitlab.com/foundry-azzurite/pings/raw/master/src/module.json
 	url = https://gitlab.com/foundry-azzurite/pings
+[submodule "Foundry VTT Modules (Universal)/hype-track"]
+	path = Foundry VTT Modules (Universal)/hype-track
+	url = https://github.com/death-save/hype-track/
