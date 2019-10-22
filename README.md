@@ -35,7 +35,6 @@ git submodule update name-of-the-module
       * [Entity Order](#entity-order)
       * [FFG Roller](#ffg-roller)
       * [The Furnace](#the-furnace)
-      * [GM Roll Message](#gm-roll-message)
       * [Grid Scaler](#grid-scaler)
       * [Hype Track](#hype-track)
       * [Image Previewer](#image-previewer)
@@ -78,12 +77,14 @@ git submodule update name-of-the-module
       * [Spell Browser](#spell-browser)
       * [SRD Bestiary Module](#srd-bestiary-module)
       * [VTTA Party](#vtta-party)
+      * [Dynamic Items](#dynamic-items)
    * [Foundry VTT Modules for WFRP 4E](#foundry-vtt-modules-for-wfrp-4e)
       * [Arcane Marks &amp; Careers](#arcane-marks--careers)
    * [Foundry VTT Modules (Defunct)](#foundry-vtt-modules-defunct)
       * [aDnD5e](#adnd5e)
       * [Encumbrance Variant](#encumbrance-variant)
       * [FVTT-Party (Discontinued, see VTTA-Party for an successor)](#fvtt-party-discontinued-see-vtta-party-for-an-successor)
+      * [GM Roll Message](#gm-roll-message)
    * [Appendix](#appendix)
       * [Appendix A: Adding a Module](#appendix-a-adding-a-module)
       * [Appendix B: Best Editing Practices](#appendix-b-best-editing-practices)
@@ -128,9 +129,6 @@ This adds a simple dice rolling window for the special dice used in Fantasy Flig
 
 ## [The Furnace](Foundry%20VTT%20Modules%20%28Universal%29/fvtt-module-furnace.md)
 The Furnace is an essential part of every Foundry. This Foundry VTT module brings Quality of Life Improvements to the VTT.
-
-## [GM Roll Message](Foundry%20VTT%20Modules%20%28Universal%29/gmrollmessage.md)
-Sends an extra public message/hint when rolling a `gmroll` or `blindroll`.
 
 ## [Grid Scaler](Foundry%20VTT%20Modules%20%28Universal%29/scaleGrid.md)
 This mod allows you to resize a grid more easily within Foundry, allowing easier map setup when a grid is uneven or unclear within a background image.
@@ -259,6 +257,9 @@ This module includes each SRD NPC in 5th edition, imported into Foundry VTT. Thi
 ## [VTTA Party](Foundry%20VTT%20Modules%20for%20DnD%205E/VTTA%20Party.md)
 Successor to fvtt-party, which is discontinued as of now. Provides both an overview about the party in regards to AC, HP, and passive perception/investigation/insight and adds tooltips for the actors of the currently active scene.
 
+## [Dynamic Items](Foundry%20VTT%20Modules%20for%20DnD%205E/dynamicitems.md)
+Dynamic items are ones that makes changes to your stats/modifiers when they are active in your inventory. This module is really intended for player characters and NPCs that have linked tokens.
+
 # Foundry VTT Modules for WFRP 4E
 
 Foundry modules that work within Warhammer Fantasy Roleplay 4th Edition are noted here. These may include NPC compendiums that may be legally shared, world saves, character sheet mods, changes to roll tables, etc.
@@ -278,4 +279,7 @@ This module modifies how the encumbrance bar in the actor sheet is displayed to 
 
 ## [FVTT-Party (Discontinued, see VTTA-Party for an successor)](Foundry%20VTT%20Modules%20%28Defunct%29/fvtt-party.md)
 This module adds a convenient button to the actor’s tab, which will track the HP, AC, and Passive Perception, Investigation, and Insight of tokens on the Canvas. Currently a WIP, and may exhibit some bugs.
+
+## [GM Roll Message](Foundry%20VTT%20Modules%20%28Defunct%29/gmrollmessage.md)
+Sends an extra public message/hint when rolling a `gmroll` or `blindroll`.
 

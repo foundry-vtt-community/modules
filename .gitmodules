@@ -130,3 +130,6 @@
 [submodule "Foundry VTT Modules (Defunct)/fvtt-party"]
 	path = Foundry VTT Modules (Defunct)/fvtt-party
 	url = https://github.com/shwill/fvtt-party
+[submodule "Foundry VTT Modules (Defunct)/gmrollmessage"]
+	path = Foundry VTT Modules (Defunct)/gmrollmessage
+	url = https://github.com/Hydroxi/gmrollmessage
