@@ -1,16 +1,16 @@
 ## Dynamic Items
 
 * **Author**: @tposney discord
-* **Version**: 0.0.7
-* **Foundry VTT Compatibility**: 0.3.8 dnd 5e.
+* **Version**: 0.0.9
+* **Foundry VTT Compatibility**: 0.3.9 dnd 5e.
 * **Module Requirement(s)**: None
 * **Module Conflicts**: None that I know of
 * **Translation Support**: English.
 
 ### Link(s) to Module
 * https://gitlab.com/tposney/dynamicitems
-*  manifest https://dl.dropboxusercontent.com/s/oy384qwu0i17864/module.json
-*  download "https://dl.dropboxusercontent.com/s/lxcsyjx4pm8jf6f/dynamicitems.zip"
+*  manifest https://gitlab.com/tposney/dynamicitems/raw/master/module.json
+*  download https://gitlab.com/tposney/dynamicitems/raw/master/dynamicitems.zip
 
 
 ### Description

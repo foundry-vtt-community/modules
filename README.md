@@ -227,7 +227,7 @@ This module adds item card buttons into the description of items, so that the it
 ## [Item Collection](Foundry%20VTT%20Modules%20for%20DnD%205E/itemcollection.md)
 This module allows the creation of bags which can contain other items, think backpack or bag of holding. These items can be put anywhere an item can.
 
-## [Minor QOL Improvements](Foundry%20VTT%20Modules%20for%20DnD%205E/Minor%20QOL%20Improvements.md)
+## [Minor QOL Improvements](Foundry%20VTT%20Modules%20for%20DnD%205E/minor-qol.zip.md)
 Adds item deletion confirmation, accelerated dice rolls with attack and damage in one click and item info hiding. All features can be enabled/disabled from the in-game module settings. If enabling/disabling speed-item-rolls you should reload the browser window.
 
 ## [Loot Sheet NPC (5e)](Foundry%20VTT%20Modules%20for%20DnD%205E/foundry-vtt---loot-sheet-npc.md)
