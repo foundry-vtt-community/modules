@@ -26,7 +26,6 @@ git submodule update name-of-the-module
       * [Always Show Notes](#always-show-notes)
       * [Anvil Menu](#anvil-menu)
       * [Chat Autoloader](#chat-autoloader)
-      * [Combat Ready](#combat-ready)
       * [Combat Utility Belt (Beta)](#combat-utility-belt-beta)
       * [Cursor Hider](#cursor-hider)
       * [Deselection](#deselection)
@@ -34,6 +33,7 @@ git submodule update name-of-the-module
       * [Display Mode](#display-mode)
       * [Entity Order](#entity-order)
       * [FFG Roller](#ffg-roller)
+      * [Foundry Patrol](#foundry-patrol)
       * [The Furnace](#the-furnace)
       * [Grid Scaler](#grid-scaler)
       * [Hype Track](#hype-track)
@@ -103,9 +103,6 @@ Adds a context menu to Foundry's Anvil logo in the top left of the screen. This 
 ## [Chat Autoloader](Foundry%20VTT%20Modules%20%28Universal%29/chat-autoloader.md)
 This module improves loading times by only rendering the last few chat messages at page load. Older messages will automatically get rendered while scrolling to the top. (This behaviour is similar to e.g. scrolling in Discords chat)
 
-## [Combat Ready](Foundry%20VTT%20Modules%20%28Universal%29/combatready.md)
-Shows a graphic + sound for players a round just before a player's turn (Next Up) and
-
 ## [Combat Utility Belt (Beta)](Foundry%20VTT%20Modules%20%28Universal%29/beta.md)
 You can read more about the module in the README @ (https://github.com/death-save/combat-utility-belt/tree/beta).
 
@@ -126,6 +123,9 @@ This Foundry VTT module allows you to re-order entities (Actors, Scenes, Items a
 
 ## [FFG Roller](Foundry%20VTT%20Modules%20%28Universal%29/FFG-Roller.md)
 This adds a simple dice rolling window for the special dice used in Fantasy Flight Games Star Wars RPG and Genesys.
+
+## [Foundry Patrol](Foundry%20VTT%20Modules%20%28Universal%29/foundry-patrol.md)
+TLDR: Create token automated token patrols
 
 ## [The Furnace](Foundry%20VTT%20Modules%20%28Universal%29/fvtt-module-furnace.md)
 The Furnace is an essential part of every Foundry. This Foundry VTT module brings Quality of Life Improvements to the VTT.

@@ -133,3 +133,6 @@
 [submodule "Foundry VTT Modules (Defunct)/gmrollmessage"]
 	path = Foundry VTT Modules (Defunct)/gmrollmessage
 	url = https://github.com/Hydroxi/gmrollmessage
+[submodule "Foundry VTT Modules (Universal)/foundry-patrol"]
+	path = Foundry VTT Modules (Universal)/foundry-patrol
+	url = https://github.com/JacobMcAuley/foundry-patrol
