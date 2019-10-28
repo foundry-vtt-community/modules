@@ -136,3 +136,9 @@
 [submodule "Foundry VTT Modules (Universal)/foundry-patrol"]
 	path = Foundry VTT Modules (Universal)/foundry-patrol
 	url = https://github.com/JacobMcAuley/foundry-patrol
+[submodule "Foundry VTT Modules (Universal)/FoundryVTT-Discord-Rich-Presence"]
+	path = Foundry VTT Modules (Universal)/FoundryVTT-Discord-Rich-Presence
+	url = https://github.com/cswendrowski/FoundryVTT-Discord-Rich-Presence
+[submodule "Foundry VTT Modules for DnD 5E/foundry-vtt-chatdamagebuttons-beyond20"]
+	path = Foundry VTT Modules for DnD 5E/foundry-vtt-chatdamagebuttons-beyond20
+	url = https://gitlab.com/Ionshard/foundry-vtt-chatdamagebuttons-beyond20

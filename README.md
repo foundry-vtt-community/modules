@@ -30,6 +30,7 @@ git submodule update name-of-the-module
       * [Cursor Hider](#cursor-hider)
       * [Deselection](#deselection)
       * [Dice Calculator](#dice-calculator)
+      * [Discord Rich Presence](#discord-rich-presence)
       * [Display Mode](#display-mode)
       * [Entity Order](#entity-order)
       * [FFG Roller](#ffg-roller)
@@ -61,6 +62,7 @@ git submodule update name-of-the-module
       * [Beyond 20](#beyond-20)
       * [Chat Damage Buttons](#chat-damage-buttons)
       * [Chat Damage Buttons - Better Rolls Edition](#chat-damage-buttons---better-rolls-edition)
+      * [Chat Damage Buttons - Beyond20 Edition](#chat-damage-buttons---beyond20-edition)
       * [DDB Popper](#ddb-popper)
       * [DnD Beyond Character Importer](#dnd-beyond-character-importer)
       * [Favourite Item Tab](#favourite-item-tab)
@@ -114,6 +116,9 @@ This module lets the GM deselect a token or tokens by clicking anywhere on the m
 
 ## [Dice Calculator](Foundry%20VTT%20Modules%20%28Universal%29/foundry-vtt-dice-calculator.md)
 This module turns the d20 icon near the chat prompt into a clickable link that opens up a new dice calculator dialog. The dice calculator includes buttons for dice, numbers, attributes for the selected token, and simple math. In addition, it includes support for inline dice rolls, such as `[[2d6 + @abil.str.mod]]` in chat. [Screenshot of the calculator can be found here.](https://i.imgur.com/53XmxEN.png)
+
+## [Discord Rich Presence](Foundry%20VTT%20Modules%20%28Universal%29/FoundryVTT-Discord-Rich-Presence.md)
+Enables Discord Rich Presence and Invites for http://foundryvtt.com/
 
 ## [Display Mode](Foundry%20VTT%20Modules%20%28Universal%29/displaymode.md)
 This module makes it so that when you click the anvil in the top left of the screen, the sidebar in Foundry is hidden.
@@ -208,6 +213,9 @@ This module replaces the right-click context menu with buttons on the dice-roll 
 
 ## [Chat Damage Buttons - Better Rolls Edition](Foundry%20VTT%20Modules%20for%20DnD%205E/Better%20Rolls%20for%205e.md)
 A small module to add "Apply Damage" buttons to Red Reigns Better Rolls 5e Module, based on hookings Chat Damage Buttons.
+
+## [Chat Damage Buttons - Beyond20 Edition](Foundry%20VTT%20Modules%20for%20DnD%205E/foundry-vtt-chatdamagebuttons-beyond20.md)
+
 
 ## [DDB Popper](Foundry%20VTT%20Modules%20for%20DnD%205E/ddb-popper.md)
 Opens a D&D Beyond popup for a linked actor.
