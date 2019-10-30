@@ -25,6 +25,7 @@ git submodule update name-of-the-module
    * [Foundry VTT Modules (Universal)](#foundry-vtt-modules-universal)
       * [Always Show Notes](#always-show-notes)
       * [Anvil Menu](#anvil-menu)
+      * [Arcane Viewing](#arcane-viewing)
       * [Chat Autoloader](#chat-autoloader)
       * [Combat Utility Belt (Beta)](#combat-utility-belt-beta)
       * [Cursor Hider](#cursor-hider)
@@ -39,7 +40,6 @@ git submodule update name-of-the-module
       * [Grid Scaler](#grid-scaler)
       * [Hype Track](#hype-track)
       * [Image Previewer](#image-previewer)
-      * [Infinite Folders](#infinite-folders)
       * [Journal Enhancer](#journal-enhancer)
       * [Layer Hotkeys](#layer-hotkeys)
       * [Less Fog](#less-fog)
@@ -51,11 +51,11 @@ git submodule update name-of-the-module
       * [Playlist Import](#playlist-import)
       * [Popout!](#popout)
       * [Pointer](#pointer)
+      * [Search Anywhere](#search-anywhere)
       * [SVG Loader](#svg-loader)
       * [Tiles Browser](#tiles-browser)
       * [VTTA Tokenizer](#vtta-tokenizer)
       * [Token Mold](#token-mold)
-      * [Z Order](#z-order)
    * [Foundry VTT Modules for DnD 5E](#foundry-vtt-modules-for-dnd-5e)
       * [Better NPC Sheet 5e](#better-npc-sheet-5e)
       * [Better Rolls for 5e](#better-rolls-for-5e)
@@ -72,8 +72,9 @@ git submodule update name-of-the-module
       * [Minor QOL Improvements](#minor-qol-improvements)
       * [Loot Sheet NPC (5e)](#loot-sheet-npc-5e)
       * [NPC Browser](#npc-browser)
+      * [Polyglot](#polyglot)
       * [Polymorpher](#polymorpher)
-      * [R20 Converter](#r20-converter)
+      * [Roll20 Converter](#roll20-converter)
       * [Roll20 NPC Importer, for 5e](#roll20-npc-importer-for-5e)
       * [Sky's 5th Edition Dungeons &amp; Dragons Sheet](#skys-5th-edition-dungeons--dragons-sheet)
       * [Spell Browser](#spell-browser)
@@ -87,6 +88,8 @@ git submodule update name-of-the-module
       * [Encumbrance Variant](#encumbrance-variant)
       * [FVTT-Party (Discontinued, see VTTA-Party for an successor)](#fvtt-party-discontinued-see-vtta-party-for-an-successor)
       * [GM Roll Message](#gm-roll-message)
+      * [Infinite Folders](#infinite-folders)
+      * [Z Order (functionality integrated into core)](#z-order-functionality-integrated-into-core)
    * [Appendix](#appendix)
       * [Appendix A: Adding a Module](#appendix-a-adding-a-module)
       * [Appendix B: Best Editing Practices](#appendix-b-best-editing-practices)
@@ -101,6 +104,9 @@ Sets the Display Notes toggle to true by default
 
 ## [Anvil Menu](Foundry%20VTT%20Modules%20%28Universal%29/foundry-vtt-anvil-menu.md)
 Adds a context menu to Foundry's Anvil logo in the top left of the screen. This module adds entries to the menu to put the application into Fullscreen mode, as well as providing the ability to toggle the visibility of the main UI components.
+
+## [Arcane Viewing](Foundry%20VTT%20Modules%20%28Universal%29/Arcane%20Viewing.md)
+Arcane Viewing adds Audio/Video conferencing support directly from within FVTT.
 
 ## [Chat Autoloader](Foundry%20VTT%20Modules%20%28Universal%29/chat-autoloader.md)
 This module improves loading times by only rendering the last few chat messages at page load. Older messages will automatically get rendered while scrolling to the top. (This behaviour is similar to e.g. scrolling in Discords chat)
@@ -144,9 +150,6 @@ Every hero needs a hype person* in their corner, getting the crowd amped up when
 ## [Image Previewer](Foundry%20VTT%20Modules%20%28Universal%29/image-previewer.md)
 A little app to preview images on hover in the file picker menu.
 
-## [Infinite Folders](Foundry%20VTT%20Modules%20%28Universal%29/fvtt-module-infinite-folders.md)
-This Foundry VTT module allows you to create infinite depth of folders for Scenes, Actors, Items and Journals. No more limit to a depth of 2 folders (or none for Journal entries). This will also add a `New entity` button on folders so you can create it directly in the folder (does not work for Scenes though).
-
 ## [Journal Enhancer](Foundry%20VTT%20Modules%20%28Universal%29/journal-enhancer.md)
 This module adds a search function for journal entries, includes a “jump to pin” button for moving the camera to a pinned journal entry, adds a zoom function for image handouts, and hides the name of a handout to users without permissions set. Moerill includes a video showing off the mod’s utility here: [https://youtu.be/5O4yA8Kr6bs](https://youtu.be/5O4yA8Kr6bs)
 
@@ -180,6 +183,9 @@ This Foundry VTT module lets you pop out journal entries into their own windows.
 ## [Pointer](Foundry%20VTT%20Modules%20%28Universal%29/pointer.md)
 This module adds the ability for each user to show a cursor following his mouse as well as adding the option to ping a certain location.
 
+## [Search Anywhere](Foundry%20VTT%20Modules%20%28Universal%29/foundryvtt-search-anywhere.md)
+A FoundryVTT Module that adds a way to quickly search for any entity by name via a handy auto-complete widget.
+
 ## [SVG Loader](Foundry%20VTT%20Modules%20%28Universal%29/svg-loader.md)
 This module allows to load walls, lights and sources through .svg files, provided e.g. by DungeonFog.
 
@@ -191,9 +197,6 @@ Tokenizer provides the user with:
 
 ## [Token Mold](Foundry%20VTT%20Modules%20%28Universal%29/token-mold.md)
 What is a foundry without its molds? This module provides you with a customizable mold for your Tokens.
-
-## [Z Order](Foundry%20VTT%20Modules%20%28Universal%29/fvtt-module-zorder.md)
-This Foundry VTT module lets you send tiles to the front or the back of the scene.
 
 # Foundry VTT Modules for DnD 5E
 
@@ -244,10 +247,13 @@ This module adds an additional NPC sheet which can be used for loot containers s
 ## [NPC Browser](Foundry%20VTT%20Modules%20for%20DnD%205E/npc-browser.md)
 This module adds a search interface for actors. This enables more comfortable browsing and searching via predefined filters like challenge rating, type or ability score.
 
+## [Polyglot](Foundry%20VTT%20Modules%20for%20DnD%205E/fvtt-module-polyglot.md)
+Talk to others using a language your selected character can understand and scrambles in-character text you can't understand.
+
 ## [Polymorpher](Foundry%20VTT%20Modules%20for%20DnD%205E/polymorpher.md)
 A module for Foundry VTT that lets you polymorph characters into any other character! Just drag any Actor (NPC or Character) on top of another Actor to change the later into the prior. Support dropping both from Compendium or the sidebar.
 
-## [R20 Converter](Foundry%20VTT%20Modules%20for%20DnD%205E/R20%20Converter.md)
+## [Roll20 Converter](Foundry%20VTT%20Modules%20for%20DnD%205E/Roll20%20Converter.md)
 This module imports most facets of a campaign, including scenes, dynamic lighting, basic sheet information, and more. It currently does not include thorough actor information (either for PCs or NPCs), or items. Bear in mind that exporting a campaign from Roll20 may violate the EULA.
 
 ## [Roll20 NPC Importer, for 5e](Foundry%20VTT%20Modules%20for%20DnD%205E/roll20npcimporter.md)
@@ -290,4 +296,10 @@ This module adds a convenient button to the actor’s tab, which will track the 
 
 ## [GM Roll Message](Foundry%20VTT%20Modules%20%28Defunct%29/gmrollmessage.md)
 Sends an extra public message/hint when rolling a `gmroll` or `blindroll`.
+
+## [Infinite Folders](Foundry%20VTT%20Modules%20%28Defunct%29/fvtt-module-infinite-folders.md)
+This Foundry VTT module allows you to create infinite depth of folders for Scenes, Actors, Items and Journals. No more limit to a depth of 2 folders (or none for Journal entries). This will also add a `New entity` button on folders so you can create it directly in the folder (does not work for Scenes though).
+
+## [Z Order (functionality integrated into core)](Foundry%20VTT%20Modules%20%28Defunct%29/fvtt-module-zorder.md)
+This Foundry VTT module lets you send tiles to the front or the back of the scene.
 

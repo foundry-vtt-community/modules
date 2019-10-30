@@ -142,3 +142,15 @@
 [submodule "Foundry VTT Modules for DnD 5E/foundry-vtt-chatdamagebuttons-beyond20"]
 	path = Foundry VTT Modules for DnD 5E/foundry-vtt-chatdamagebuttons-beyond20
 	url = https://gitlab.com/Ionshard/foundry-vtt-chatdamagebuttons-beyond20
+[submodule "Foundry VTT Modules (Universal)/foundryvtt-search-anywhere"]
+	path = Foundry VTT Modules (Universal)/foundryvtt-search-anywhere
+	url = https://gitlab.com/riccisi/foundryvtt-search-anywhere
+[submodule "Foundry VTT Modules for DnD 5E/fvtt-module-polyglot"]
+	path = Foundry VTT Modules for DnD 5E/fvtt-module-polyglot
+	url = https://github.com/kakaroto/fvtt-module-polyglot
+[submodule "Foundry VTT Modules (Defunct)/fvtt-module-infinite-folders"]
+	path = Foundry VTT Modules (Defunct)/fvtt-module-infinite-folders
+	url = https://github.com/kakaroto/fvtt-module-infinite-folders
+[submodule "Foundry VTT Modules (Defunct)/fvtt-module-zorder"]
+	path = Foundry VTT Modules (Defunct)/fvtt-module-zorder
+	url = https://github.com/kakaroto/fvtt-module-zorder
