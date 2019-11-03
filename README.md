@@ -23,6 +23,7 @@ git submodule update name-of-the-module
 <!--tl=2-->
 <!--ts-->
    * [Foundry VTT Modules (Universal)](#foundry-vtt-modules-universal)
+      * [Actually Private Rolls](#actually-private-rolls)
       * [Always Show Notes](#always-show-notes)
       * [Anvil Menu](#anvil-menu)
       * [Arcane Viewing](#arcane-viewing)
@@ -98,6 +99,9 @@ git submodule update name-of-the-module
 # Foundry VTT Modules (Universal)
 
 Foundry modules that work across all or most systems are noted here. These may include reskins, general improvement mods, and more.
+
+## [Actually Private Rolls](Foundry%20VTT%20Modules%20%28Universal%29/Actually-Private-Rolls.md)
+Hides Private GM Rolls completely rather then just obfuscating the result.
 
 ## [Always Show Notes](Foundry%20VTT%20Modules%20%28Universal%29/alwaysshownotes.md)
 Sets the Display Notes toggle to true by default

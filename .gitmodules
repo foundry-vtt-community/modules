@@ -154,3 +154,6 @@
 [submodule "Foundry VTT Modules (Defunct)/fvtt-module-zorder"]
 	path = Foundry VTT Modules (Defunct)/fvtt-module-zorder
 	url = https://github.com/kakaroto/fvtt-module-zorder
+[submodule "Foundry VTT Modules (Universal)/Actually-Private-Rolls"]
+	path = Foundry VTT Modules (Universal)/Actually-Private-Rolls
+	url = https://github.com/syl3r86/Actually-Private-Rolls
