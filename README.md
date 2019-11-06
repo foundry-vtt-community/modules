@@ -148,9 +148,6 @@ The Furnace is an essential part of every Foundry. This Foundry VTT module bring
 ## [Grid Scaler](Foundry%20VTT%20Modules%20%28Universal%29/scaleGrid.md)
 This mod allows you to resize a grid more easily within Foundry, allowing easier map setup when a grid is uneven or unclear within a background image.
 
-## [Hype Track](Foundry%20VTT%20Modules%20%28Universal%29/hype-track.md)
-Every hero needs a hype person* in their corner, getting the crowd amped up whenever they arrive.
-
 ## [Image Previewer](Foundry%20VTT%20Modules%20%28Universal%29/image-previewer.md)
 A little app to preview images on hover in the file picker menu.
 
@@ -162,6 +159,9 @@ This module adds hotkeys for switching layers and the active tool in canvas.
 
 ## [Less Fog](Foundry%20VTT%20Modules%20%28Universal%29/lessfog.md)
 Module to enhance visibility for the GM in Foundry VTT.
+
+## [Maestro](Foundry%20VTT%20Modules%20%28Universal%29/maestro.md)
+A quality of life audio-focused module for Foundry Virtual Tabletop.
 
 ## [Message Age Restriction](Foundry%20VTT%20Modules%20%28Universal%29/messageagerestriction.md)
 A Foundry VTT Module to enable filtering chat-messages by their age. Each user can choose his own settings. It is possible to set the maximum age (in days) and to specify if the filter should be applied.
