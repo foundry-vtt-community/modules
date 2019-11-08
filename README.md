@@ -41,6 +41,7 @@ git submodule update name-of-the-module
       * [Grid Scaler](#grid-scaler)
       * [Image Previewer](#image-previewer)
       * [Journal Enhancer](#journal-enhancer)
+      * [Journal Drag](#journal-drag)
       * [Layer Hotkeys](#layer-hotkeys)
       * [Less Fog](#less-fog)
       * [Maestro](#maestro)
@@ -150,6 +151,9 @@ This mod allows you to resize a grid more easily within Foundry, allowing easier
 
 ## [Image Previewer](Foundry%20VTT%20Modules%20%28Universal%29/image-previewer.md)
 A little app to preview images on hover in the file picker menu.
+
+## [(Journal Drag)](Foundry%20VTT%20Modules%20%28Universal%29/journal-drag.md)
+This module allows you to drag things into your journal entries (while they are being edited) and to drag journal links to the map (actors) or to characters (items) or to other journal entries.
 
 ## [Journal Enhancer](Foundry%20VTT%20Modules%20%28Universal%29/journal-enhancer.md)
 This module adds a search function for journal entries, includes a “jump to pin” button for moving the camera to a pinned journal entry, adds a zoom function for image handouts, and hides the name of a handout to users without permissions set. Moerill includes a video showing off the mod’s utility here: [https://youtu.be/5O4yA8Kr6bs](https://youtu.be/5O4yA8Kr6bs)
