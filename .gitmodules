@@ -1,0 +1,141 @@
+[submodule "Foundry VTT Modules (Universal)/Actually-Private-Rolls"]
+	path = Foundry VTT Modules (Universal)/Actually-Private-Rolls
+	url = https://github.com/syl3r86/Actually-Private-Rolls
+[submodule "Foundry VTT Modules (Universal)/alwaysshownotes"]
+	path = Foundry VTT Modules (Universal)/alwaysshownotes
+	url = https://github.com/Pingar5/alwaysshownotes
+[submodule "Foundry VTT Modules (Universal)/foundry-vtt-anvil-menu"]
+	path = Foundry VTT Modules (Universal)/foundry-vtt-anvil-menu
+	url = https://gitlab.com/Ionshard/foundry-vtt-anvil-menu
+[submodule "Foundry VTT Modules (Universal)/chat-autoloader"]
+	path = Foundry VTT Modules (Universal)/chat-autoloader
+	url = https://gitlab.com/moerills-fvtt-modules/chat-autoloader
+[submodule "Foundry VTT Modules (Universal)/foundry-vtt-dice-calculator"]
+	path = Foundry VTT Modules (Universal)/foundry-vtt-dice-calculator
+	url = https://gitlab.com/asacolips-projects/foundry-mods/foundry-vtt-dice-calculator
+[submodule "Foundry VTT Modules (Universal)/FoundryVTT-Discord-Rich-Presence"]
+	path = Foundry VTT Modules (Universal)/FoundryVTT-Discord-Rich-Presence
+	url = https://github.com/cswendrowski/FoundryVTT-Discord-Rich-Presence
+[submodule "Foundry VTT Modules (Universal)/displaymode"]
+	path = Foundry VTT Modules (Universal)/displaymode
+	url = https://github.com/syl3r86/displaymode
+[submodule "Foundry VTT Modules (Universal)/fvtt-module-entityorder"]
+	path = Foundry VTT Modules (Universal)/fvtt-module-entityorder
+	url = https://github.com/kakaroto/fvtt-module-entityorder
+[submodule "Foundry VTT Modules (Universal)/FFG-Roller"]
+	path = Foundry VTT Modules (Universal)/FFG-Roller
+	url = https://github.com/petepeg/FFG-Roller
+[submodule "Foundry VTT Modules (Universal)/foundry-patrol"]
+	path = Foundry VTT Modules (Universal)/foundry-patrol
+	url = https://github.com/JacobMcAuley/foundry-patrol
+[submodule "Foundry VTT Modules (Universal)/fvtt-module-furnace"]
+	path = Foundry VTT Modules (Universal)/fvtt-module-furnace
+	url = https://github.com/kakaroto/fvtt-module-furnace
+[submodule "Foundry VTT Modules (Universal)/scaleGrid"]
+	path = Foundry VTT Modules (Universal)/scaleGrid
+	url = https://github.com/UberV/scaleGrid/
+[submodule "Foundry VTT Modules (Universal)/image-previewer"]
+	path = Foundry VTT Modules (Universal)/image-previewer
+	url = https://github.com/syl3r86/image-previewer
+[submodule "Foundry VTT Modules (Universal)/journal-enhancer"]
+	path = Foundry VTT Modules (Universal)/journal-enhancer
+	url = https://gitlab.com/moerills-fvtt-modules/journal-enhancer
+[submodule "Foundry VTT Modules (Universal)/layer-hotkeys"]
+	path = Foundry VTT Modules (Universal)/layer-hotkeys
+	url = https://gitlab.com/moerills-fvtt-modules/layer-hotkeys
+[submodule "Foundry VTT Modules (Universal)/lessfog"]
+	path = Foundry VTT Modules (Universal)/lessfog
+	url = https://github.com/trdischat/lessfog
+[submodule "Foundry VTT Modules (Universal)/messageagerestriction"]
+	path = Foundry VTT Modules (Universal)/messageagerestriction
+	url = https://github.com/syl3r86/messageagerestriction
+[submodule "Foundry VTT Modules (Universal)/fvtt-module-permission-viewer"]
+	path = Foundry VTT Modules (Universal)/fvtt-module-permission-viewer
+	url = https://github.com/kakaroto/fvtt-module-permission-viewer
+[submodule "Foundry VTT Modules (Universal)/pings"]
+	path = Foundry VTT Modules (Universal)/pings
+	url = https://gitlab.com/foundry-azzurite/pings
+[submodule "Foundry VTT Modules (Universal)/playlist_import"]
+	path = Foundry VTT Modules (Universal)/playlist_import
+	url = https://github.com/JacobMcAuley/playlist_import
+[submodule "Foundry VTT Modules (Universal)/fvtt-module-popout"]
+	path = Foundry VTT Modules (Universal)/fvtt-module-popout
+	url = https://github.com/kakaroto/fvtt-module-popout
+[submodule "Foundry VTT Modules (Universal)/pointer"]
+	path = Foundry VTT Modules (Universal)/pointer
+	url = https://gitlab.com/moerills-fvtt-modules/pointer
+[submodule "Foundry VTT Modules (Universal)/foundryvtt-search-anywhere"]
+	path = Foundry VTT Modules (Universal)/foundryvtt-search-anywhere
+	url = https://gitlab.com/riccisi/foundryvtt-search-anywhere
+[submodule "Foundry VTT Modules (Universal)/svg-loader"]
+	path = Foundry VTT Modules (Universal)/svg-loader
+	url = https://gitlab.com/moerills-fvtt-modules/svg-loader
+[submodule "Foundry VTT Modules (Universal)/tiles-browser"]
+	path = Foundry VTT Modules (Universal)/tiles-browser
+	url = https://gitlab.com/moerills-fvtt-modules/tiles-browser/
+[submodule "Foundry VTT Modules (Universal)/token-mold"]
+	path = Foundry VTT Modules (Universal)/token-mold
+	url = https://gitlab.com/moerills-fvtt-modules/token-mold
+[submodule "Foundry VTT Modules for DnD 5E/BetterNPCSheet5e"]
+	path = Foundry VTT Modules for DnD 5E/BetterNPCSheet5e
+	url = https://github.com/syl3r86/BetterNPCSheet5e
+[submodule "Foundry VTT Modules for DnD 5E/FoundryVTT-BetterRolls5e"]
+	path = Foundry VTT Modules for DnD 5E/FoundryVTT-BetterRolls5e
+	url = https://github.com/RedReign/FoundryVTT-BetterRolls5e
+[submodule "Foundry VTT Modules for DnD 5E/Beyond20"]
+	path = Foundry VTT Modules for DnD 5E/Beyond20
+	url = https://github.com/kakaroto/Beyond20/
+[submodule "Foundry VTT Modules for DnD 5E/foundry-vtt---chat-damage-buttons"]
+	path = Foundry VTT Modules for DnD 5E/foundry-vtt---chat-damage-buttons
+	url = https://gitlab.com/hooking/foundry-vtt---chat-damage-buttons
+[submodule "Foundry VTT Modules for DnD 5E/foundry-vtt-chatdamagebuttons-beyond20"]
+	path = Foundry VTT Modules for DnD 5E/foundry-vtt-chatdamagebuttons-beyond20
+	url = https://gitlab.com/Ionshard/foundry-vtt-chatdamagebuttons-beyond20
+[submodule "Foundry VTT Modules for DnD 5E/ddb-popper"]
+	path = Foundry VTT Modules for DnD 5E/ddb-popper
+	url = https://github.com/death-save/ddb-popper
+[submodule "Foundry VTT Modules for DnD 5E/foundry-vtt-modules"]
+	path = Foundry VTT Modules for DnD 5E/foundry-vtt-modules
+	url = https://github.com/sillvva/foundry-vtt-modules/
+[submodule "Foundry VTT Modules for DnD 5E/favtab"]
+	path = Foundry VTT Modules for DnD 5E/favtab
+	url = https://github.com/syl3r86/favtab
+[submodule "Foundry VTT Modules for DnD 5E/foundry-vtt---item-sheet-buttons"]
+	path = Foundry VTT Modules for DnD 5E/foundry-vtt---item-sheet-buttons
+	url = https://gitlab.com/hooking/foundry-vtt---item-sheet-buttons
+[submodule "Foundry VTT Modules for DnD 5E/foundry-vtt---loot-sheet-npc"]
+	path = Foundry VTT Modules for DnD 5E/foundry-vtt---loot-sheet-npc
+	url = https://gitlab.com/hooking/foundry-vtt---loot-sheet-npc
+[submodule "Foundry VTT Modules for DnD 5E/npc-browser"]
+	path = Foundry VTT Modules for DnD 5E/npc-browser
+	url = https://github.com/syl3r86/npc-browser
+[submodule "Foundry VTT Modules for DnD 5E/fvtt-module-polyglot"]
+	path = Foundry VTT Modules for DnD 5E/fvtt-module-polyglot
+	url = https://github.com/kakaroto/fvtt-module-polyglot
+[submodule "Foundry VTT Modules for DnD 5E/polymorpher"]
+	path = Foundry VTT Modules for DnD 5E/polymorpher
+	url = https://github.com/syl3r86/polymorpher
+[submodule "Foundry VTT Modules for DnD 5E/roll20npcimporter"]
+	path = Foundry VTT Modules for DnD 5E/roll20npcimporter
+	url = https://github.com/syl3r86/roll20npcimporter
+[submodule "Foundry VTT Modules for DnD 5E/Spell-Browser"]
+	path = Foundry VTT Modules for DnD 5E/Spell-Browser
+	url = https://github.com/syl3r86/Spell-Browser
+[submodule "Foundry VTT Modules for WFRP 4E/Arcane-Marks-Careers-FVTT"]
+	path = Foundry VTT Modules for WFRP 4E/Arcane-Marks-Careers-FVTT
+	url = https://github.com/moo-man/Arcane-Marks-Careers-FVTT
+[submodule "Foundry VTT Modules (Defunct)/foundry-vtt---encumbrance-variant-5e"]
+	path = Foundry VTT Modules (Defunct)/foundry-vtt---encumbrance-variant-5e
+	url = https://gitlab.com/hooking/foundry-vtt---encumbrance-variant-5e
+[submodule "Foundry VTT Modules (Defunct)/fvtt-party"]
+	path = Foundry VTT Modules (Defunct)/fvtt-party
+	url = https://github.com/shwill/fvtt-party
+[submodule "Foundry VTT Modules (Defunct)/gmrollmessage"]
+	path = Foundry VTT Modules (Defunct)/gmrollmessage
+	url = https://github.com/Hydroxi/gmrollmessage
+[submodule "Foundry VTT Modules (Defunct)/fvtt-module-infinite-folders"]
+	path = Foundry VTT Modules (Defunct)/fvtt-module-infinite-folders
+	url = https://github.com/kakaroto/fvtt-module-infinite-folders
+[submodule "Foundry VTT Modules (Defunct)/fvtt-module-zorder"]
+	path = Foundry VTT Modules (Defunct)/fvtt-module-zorder
+	url = https://github.com/kakaroto/fvtt-module-zorder
