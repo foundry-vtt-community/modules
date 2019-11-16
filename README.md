@@ -41,7 +41,7 @@ git submodule update name-of-the-module
       * [The Furnace](#the-furnace)
       * [Grid Scaler](#grid-scaler)
       * [Image Previewer](#image-previewer)
-      * [Journal Drag](#journal-drag)
+      * [(Journal Drag)](#journal-drag)
       * [Journal Enhancer](#journal-enhancer)
       * [Layer Hotkeys](#layer-hotkeys)
       * [Less Fog](#less-fog)
