@@ -139,3 +139,6 @@
 [submodule "Foundry VTT Modules (Defunct)/fvtt-module-zorder"]
 	path = Foundry VTT Modules (Defunct)/fvtt-module-zorder
 	url = https://github.com/kakaroto/fvtt-module-zorder
+[submodule "Foundry VTT Modules (Universal)/torch"]
+	path = Foundry VTT Modules (Universal)/torch
+	url = https://github.com/RealDeuce/torch/

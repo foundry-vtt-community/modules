@@ -60,6 +60,7 @@ git submodule update name-of-the-module
       * [Search Anywhere](#search-anywhere)
       * [SVG Loader](#svg-loader)
       * [Tiles Browser](#tiles-browser)
+      * [Torch](#torch)
       * [VTTA Tokenizer](#vtta-tokenizer)
       * [Token Mold](#token-mold)
    * [Foundry VTT Modules for DnD 5E](#foundry-vtt-modules-for-dnd-5e)
@@ -202,6 +203,9 @@ This module allows to load walls, lights and sources through .svg files, provide
 
 ## [Tiles Browser](Foundry%20VTT%20Modules%20%28Universal%29/tiles-browser.md)
 Adds a browser to the tiles layer to conveniently preview and then drag and drop tiles onto the scene. Providing additional features to manipulate tile rotation and size while dragging.
+
+## [Torch](Foundry%20VTT%20Modules%20%28Universal%29/torch.md)
+Adds a HUD button to toggle light of a specific radius. For the dnd5e system, will also deduct torches from inventory when turned on if the Actor does not know the Light cantrip.
 
 ## [VTTA Tokenizer](Foundry%20VTT%20Modules%20%28Universal%29/VTTA%20Tokenizer.md)
 Tokenizer provides the user with:
