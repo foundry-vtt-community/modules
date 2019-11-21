@@ -1,24 +1,26 @@
 ## VTTA Tokenizer
 
 * **Author**: solfolango77#0880 on Discord. His Patreon can be found here: [https://www.patreon.com/vttassets](https://www.patreon.com/vttassets) 
-* **Version**: v1.0.2-rc.1
-* **Foundry VTT Compatibility**: 0.3.5+
-* **System Compatibility (If applicable)**:
-* **Module Requirement(s)**: Requires the player permission "Trusted Player"
+* **Version**: v1.0.2
+* **Foundry VTT Compatibility**: 0.4.0+
+* **System Compatibility (If applicable)**: "dnd5e" - shout out if I should anything, thanks!
+* **Module Requirement(s)**: 
 * **Module Conflicts**:
-* **Translation Support**: EN (full)
+* **Translation Support**: EN (full), DE (full)
 
 ### Link(s) to Module
-* [https://www.vttassets.com/asset/vtta-tokenizer](https://www.vttassets.com/asset/vtta-tokenizer)
+* [https://www.vttassets.com/asset/vtta-iconizer](https://www.vttassets.com/asset/vtta-iconizer)
 
 ### Description
-Tokenizer provides the user with:
-- ability to define a custom token size, defaulting to 400x400 pixels
-- the ability to create multiple layers consisting of individual loaded image
-- the ability to load images from a) local disk b) a web URL c) the Foundry VTT server
-- the ability to scale and translate each layer individually
-- automatic generation of a mask using the marching squares algorithm
-- automatic upload of the created tokens to the Foundry VTT server (requires 'Trusted Player' permission level)
+Iconizer watches the creation of items in your world, and tries to find a suitable icon from a pre-populated name/icon dictionary. All you need to do, is
+
+- downloading a suitable icon library, or use the icons that are coming with Foundry
+- creating a dictionary
+- create items and watch the magic happen
+
+The item database comes pre-populated with 1800+ item name set, but lives from community contributions. While the database if 
+strongly tied to the item names from D&D Beyond it works best with DND5e, but can be adapted to any game system due to the ability
+to define custom databases, too
 
 ---
 

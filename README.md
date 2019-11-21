@@ -207,8 +207,11 @@ Adds a browser to the tiles layer to conveniently preview and then drag and drop
 ## [Torch](Foundry%20VTT%20Modules%20%28Universal%29/torch.md)
 Adds a HUD button to toggle light of a specific radius. For the dnd5e system, will also deduct torches from inventory when turned on if the Actor does not know the Light cantrip.
 
-## [VTTA Tokenizer](Foundry%20VTT%20Modules%20%28Universal%29/VTTA%20Tokenizer.md)
+## [VTTA Iconizer](Foundry%20VTT%20Modules%20%28Universal%29/VTTA%20Iconizer.md)
 Tokenizer provides the user with:
+
+## [VTTA Tokenizer](Foundry%20VTT%20Modules%20%28Universal%29/VTTA%20Tokenizer.md)
+Iconizer watches the creation of items in your world, and tries to find a suitable icon from a pre-populated name/icon dictionary. All you need to do, is
 
 ## [Token Mold](Foundry%20VTT%20Modules%20%28Universal%29/token-mold.md)
 What is a foundry without its molds? This module provides you with a customizable mold for your Tokens.
@@ -282,6 +285,9 @@ This module adds a search interface for spells. This enables more comfortable br
 
 ## [SRD Bestiary Module](Foundry%20VTT%20Modules%20for%20DnD%205E/SRD%20Bestiary%20Module.md)
 This module includes each SRD NPC in 5th edition, imported into Foundry VTT. This includes all of their features, immunities/resistances/vulnerabilities, actions, and much, much more. Other than lacking token images (token images do not appear to be part of the SRD), each NPC is built and ready for use in Foundry Virtual Tabletop. Included in the module is a folder containing each individual NPC json, in case you wish to experiment with importing them, or future updates break the NPCs in this module. These can be imported individually using the Roll20 NPC Importer, for 5e module.
+
+## [VTTA D&D Beyond Integration](Foundry%20VTT%20Modules%20for%20DnD%205E/VTTA%20D%26D%20Beyond%20Integration.md)
+The integration module provides you with the possibility to import
 
 ## [VTTA Party](Foundry%20VTT%20Modules%20for%20DnD%205E/VTTA%20Party.md)
 Successor to fvtt-party, which is discontinued as of now. Provides both an overview about the party in regards to AC, HP, and passive perception/investigation/insight and adds tooltips for the actors of the currently active scene.
