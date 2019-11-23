@@ -2,7 +2,7 @@
 
 * **Author**: Evan Clarke (errational#2007)
 * **Version**: 0.2.2
-* **Foundry VTT Compatibility**: 0.3.9+
+* **Foundry VTT Compatibility**: 0.4.0+
 * **System Compatibility (If applicable)**: N/A
 * **Module Requirement(s)**: N/A
 * **Module Conflicts**: Hype Track (deprecated by this module)

@@ -142,3 +142,6 @@
 [submodule "Foundry VTT Modules (Universal)/torch"]
 	path = Foundry VTT Modules (Universal)/torch
 	url = https://github.com/RealDeuce/torch/
+[submodule "Foundry VTT Modules (Defunct)/ddb-popper"]
+	path = Foundry VTT Modules (Defunct)/ddb-popper
+	url = https://github.com/death-save/ddb-popper

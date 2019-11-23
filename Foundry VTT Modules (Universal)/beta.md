@@ -1,8 +1,8 @@
 ## Combat Utility Belt (Beta)
 
 * **Author**: errational#2007 on discord
-* **Version**: 0.5
-* **Foundry VTT Compatibility**: 0.3.7
+* **Version**: 0.7.1
+* **Foundry VTT Compatibility**: 0.4.0+
 * **System Compatibility (If applicable)**: N/A
 * **Module Requirement(s)**: N/A
 * **Module Conflicts**: N/A

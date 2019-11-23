@@ -61,6 +61,7 @@ git submodule update name-of-the-module
       * [SVG Loader](#svg-loader)
       * [Tiles Browser](#tiles-browser)
       * [Torch](#torch)
+      * [VTTA Iconizer](#vtta-iconizer)
       * [VTTA Tokenizer](#vtta-tokenizer)
       * [Token Mold](#token-mold)
    * [Foundry VTT Modules for DnD 5E](#foundry-vtt-modules-for-dnd-5e)
@@ -70,12 +71,12 @@ git submodule update name-of-the-module
       * [Chat Damage Buttons](#chat-damage-buttons)
       * [Chat Damage Buttons - Better Rolls Edition](#chat-damage-buttons---better-rolls-edition)
       * [Chat Damage Buttons - Beyond20 Edition](#chat-damage-buttons---beyond20-edition)
-      * [DDB Popper](#ddb-popper)
       * [DnD Beyond Character Importer](#dnd-beyond-character-importer)
       * [Favourite Item Tab](#favourite-item-tab)
       * [Group Roll](#group-roll)
       * [Item Sheet Buttons](#item-sheet-buttons)
       * [Item Collection](#item-collection)
+      * [Kobold Press OGL](#kobold-press-ogl)
       * [Minor QOL Improvements](#minor-qol-improvements)
       * [Loot Sheet NPC (5e)](#loot-sheet-npc-5e)
       * [NPC Browser](#npc-browser)
@@ -86,11 +87,13 @@ git submodule update name-of-the-module
       * [Sky's 5th Edition Dungeons &amp; Dragons Sheet](#skys-5th-edition-dungeons--dragons-sheet)
       * [Spell Browser](#spell-browser)
       * [SRD Bestiary Module](#srd-bestiary-module)
+      * [VTTA D&amp;D Beyond Integration](#vtta-dd-beyond-integration)
       * [VTTA Party](#vtta-party)
       * [Dynamic Items](#dynamic-items)
    * [Foundry VTT Modules for WFRP 4E](#foundry-vtt-modules-for-wfrp-4e)
       * [Arcane Marks &amp; Careers](#arcane-marks--careers)
    * [Foundry VTT Modules (Defunct)](#foundry-vtt-modules-defunct)
+      * [DDB Popper (use VTTA-DNDBEYOND instead)](#ddb-popper-use-vtta-dndbeyond-instead)
       * [Encumbrance Variant](#encumbrance-variant)
       * [FVTT-Party (Discontinued, see VTTA-Party for an successor)](#fvtt-party-discontinued-see-vtta-party-for-an-successor)
       * [GM Roll Message](#gm-roll-message)
@@ -238,9 +241,6 @@ A small module to add "Apply Damage" buttons to Red Reigns Better Rolls 5e Modul
 ## [Chat Damage Buttons - Beyond20 Edition](Foundry%20VTT%20Modules%20for%20DnD%205E/foundry-vtt-chatdamagebuttons-beyond20.md)
 
 
-## [DDB Popper](Foundry%20VTT%20Modules%20for%20DnD%205E/ddb-popper.md)
-Opens a D&D Beyond popup for a linked actor.
-
 ## [DnD Beyond Character Importer](Foundry%20VTT%20Modules%20for%20DnD%205E/foundry-vtt-modules.md)
 This module allows you to import character data from DnD Beyond into Foundry Virtual Tabletop.
 
@@ -255,6 +255,9 @@ This module adds item card buttons into the description of items, so that the it
 
 ## [Item Collection](Foundry%20VTT%20Modules%20for%20DnD%205E/itemcollection.md)
 This module allows the creation of bags which can contain other items, think backpack or bag of holding. These items can be put anywhere an item can.
+
+## [Kobold Press OGL](Foundry%20VTT%20Modules%20for%20DnD%205E/Kobold%20Press%20OGL.md)
+This module adds Kobold Press OGL content sourced from the KPOGL wiki. Currently there are two compendiums, one with over 800 monsters and the other with over 500 spells.
 
 ## [Minor QOL Improvements](Foundry%20VTT%20Modules%20for%20DnD%205E/minor-qol.zip.md)
 Adds item deletion confirmation, accelerated dice rolls with attack and damage in one click and item info hiding. All features can be enabled/disabled from the in-game module settings. If enabling/disabling speed-item-rolls you should reload the browser window.
@@ -305,6 +308,9 @@ Foundry modules that work within Warhammer Fantasy Roleplay 4th Edition are note
 # Foundry VTT Modules (Defunct)
 
 Foundry VTT modules that no longer work are noted here. Modules included here have been defunct for at least one month. This exists to help document previous work on Foundry Virtual Tabletop by the community, as well as to exist as a record for anyone who chooses to remain on a previous version of Foundry VTT.  
+
+## [DDB Popper (use VTTA-DNDBEYOND instead)](Foundry%20VTT%20Modules%20%28Defunct%29/ddb-popper.md)
+Opens a D&D Beyond popup for a linked actor.
 
 ## [Encumbrance Variant](Foundry%20VTT%20Modules%20%28Defunct%29/foundry-vtt---encumbrance-variant-5e.md)
 This module modifies how the encumbrance bar in the actor sheet is displayed to distinguish the different levels of encumbrance when using the variant rules in **PHB pg. 175**. It does not currently support the Powerful Build feature, as doing so would require extending the base Actor5eSheet class.
