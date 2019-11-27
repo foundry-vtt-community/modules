@@ -31,12 +31,10 @@ git submodule update name-of-the-module
       * [Combat Utility Belt (Beta)](#combat-utility-belt-beta)
       * [Cursor Hider](#cursor-hider)
       * [Deselection](#deselection)
-      * [Installation](#installation)
-      * [Foundry 0.4.0 Update](#foundry-040-update)
-      * [License](#license)
       * [Dice Calculator](#dice-calculator)
       * [Discord Rich Presence](#discord-rich-presence)
       * [Display Mode](#display-mode)
+      * [Dynamic Items](#dynamic-items)
       * [Entity Order](#entity-order)
       * [FFG Roller](#ffg-roller)
       * [Foundry Patrol](#foundry-patrol)
@@ -44,8 +42,7 @@ git submodule update name-of-the-module
       * [The Furnace](#the-furnace)
       * [Grid Scaler](#grid-scaler)
       * [Image Previewer](#image-previewer)
-      * [(Journal Drag)](#journal-drag)
-      * [Journal Enhancer](#journal-enhancer)
+      * [Journal Drag](#journal-drag)
       * [Layer Hotkeys](#layer-hotkeys)
       * [Less Fog](#less-fog)
       * [Maestro](#maestro)
@@ -59,11 +56,12 @@ git submodule update name-of-the-module
       * [Pointer](#pointer)
       * [Search Anywhere](#search-anywhere)
       * [SVG Loader](#svg-loader)
+      * [Theatre](#theatre)
       * [Tiles Browser](#tiles-browser)
+      * [Token Mold](#token-mold)
       * [Torch](#torch)
       * [VTTA Iconizer](#vtta-iconizer)
       * [VTTA Tokenizer](#vtta-tokenizer)
-      * [Token Mold](#token-mold)
    * [Foundry VTT Modules for DnD 5E](#foundry-vtt-modules-for-dnd-5e)
       * [Better NPC Sheet 5e](#better-npc-sheet-5e)
       * [Better Rolls for 5e](#better-rolls-for-5e)
@@ -72,6 +70,8 @@ git submodule update name-of-the-module
       * [Chat Damage Buttons - Better Rolls Edition](#chat-damage-buttons---better-rolls-edition)
       * [Chat Damage Buttons - Beyond20 Edition](#chat-damage-buttons---beyond20-edition)
       * [DnD Beyond Character Importer](#dnd-beyond-character-importer)
+      * [Dynamic Items](#dynamic-items-1)
+      * [E-Z Roller](#e-z-roller)
       * [Favourite Item Tab](#favourite-item-tab)
       * [Group Roll](#group-roll)
       * [Item Sheet Buttons](#item-sheet-buttons)
@@ -89,7 +89,6 @@ git submodule update name-of-the-module
       * [SRD Bestiary Module](#srd-bestiary-module)
       * [VTTA D&amp;D Beyond Integration](#vtta-dd-beyond-integration)
       * [VTTA Party](#vtta-party)
-      * [Dynamic Items](#dynamic-items)
    * [Foundry VTT Modules for WFRP 4E](#foundry-vtt-modules-for-wfrp-4e)
       * [Arcane Marks &amp; Careers](#arcane-marks--careers)
    * [Foundry VTT Modules (Defunct)](#foundry-vtt-modules-defunct)
@@ -121,12 +120,12 @@ Adds a context menu to Foundry's Anvil logo in the top left of the screen. This 
 Arcane Viewing adds Audio/Video conferencing support directly from within FVTT.
 
 ## [Chat Autoloader](Foundry%20VTT%20Modules%20%28Universal%29/chat-autoloader.md)
-This module improves loading times by only rendering the last few chat messages at page load. Older messages will automatically get rendered while scrolling to the top. (This behaviour is similar to e.g. scrolling in Discords chat)
+This module improves loading times by only rendering the last few chat messages at page load. Older messages will automatically get rendered while scrolling to the top. (This behavior is similar to e.g. scrolling in Discords chat)
 
 ## [Combat Utility Belt (Beta)](Foundry%20VTT%20Modules%20%28Universal%29/beta.md)
 You can read more about the module in the README @ (https://github.com/death-save/combat-utility-belt/tree/beta).
 
-## [Cursor Hider](Foundry%20VTT%20Modules%20%28Universal%29/Project%20Repository%20%26%20Readme.md)
+## [Cursor Hider](Foundry%20VTT%20Modules%20%28Universal%29/cursor-hider.md)
 
 
 ## [Deselection](Foundry%20VTT%20Modules%20%28Universal%29/deselection.md)
@@ -135,11 +134,14 @@ This module lets the GM deselect a token or tokens by clicking anywhere on the m
 ## [Dice Calculator](Foundry%20VTT%20Modules%20%28Universal%29/foundry-vtt-dice-calculator.md)
 This module turns the d20 icon near the chat prompt into a clickable link that opens up a new dice calculator dialog. The dice calculator includes buttons for dice, numbers, attributes for the selected token, and simple math. In addition, it includes support for inline dice rolls, such as `[[2d6 + @abil.str.mod]]` in chat. [Screenshot of the calculator can be found here.](https://i.imgur.com/53XmxEN.png)
 
-## [Discord Rich Presence](Foundry%20VTT%20Modules%20%28Universal%29/FoundryVTT-Discord-Rich-Presence.md)
+## [Discord Rich Presence](Foundry%20VTT%20Modules%20%28Universal%29/Companion%20API%20%28Required%21%29.md)
 Enables Discord Rich Presence and Invites for http://foundryvtt.com/
 
 ## [Display Mode](Foundry%20VTT%20Modules%20%28Universal%29/displaymode.md)
 This module makes it so that when you click the anvil in the top left of the screen, the sidebar in Foundry is hidden.
+
+## [Dynamic Items](Foundry%20VTT%20Modules%20%28Universal%29/dynamicitems.md)
+Dynamic items are ones that makes changes to your stats/modifiers when they are active in your inventory. This module is really intended for player characters and NPCs that have linked tokens.
 
 ## [Entity Order](Foundry%20VTT%20Modules%20%28Universal%29/fvtt-module-entityorder.md)
 This Foundry VTT module allows you to re-order entities (Actors, Scenes, Items and Journal entries).
@@ -159,11 +161,8 @@ This mod allows you to resize a grid more easily within Foundry, allowing easier
 ## [Image Previewer](Foundry%20VTT%20Modules%20%28Universal%29/image-previewer.md)
 A little app to preview images on hover in the file picker menu.
 
-## [(Journal Drag)](Foundry%20VTT%20Modules%20%28Universal%29/journal-drag.md)
+## [Journal Drag](Foundry%20VTT%20Modules%20%28Universal%29/journal-drag.md)
 This module allows you to drag things into your journal entries (while they are being edited) and to drag journal links to the map (actors) or to characters (items) or to other journal entries.
-
-## [Journal Enhancer](Foundry%20VTT%20Modules%20%28Universal%29/journal-enhancer.md)
-This module adds a search function for journal entries, includes a “jump to pin” button for moving the camera to a pinned journal entry, adds a zoom function for image handouts, and hides the name of a handout to users without permissions set. Moerill includes a video showing off the mod’s utility here: [https://youtu.be/5O4yA8Kr6bs](https://youtu.be/5O4yA8Kr6bs)
 
 ## [Layer Hotkeys](Foundry%20VTT%20Modules%20%28Universal%29/layer-hotkeys.md)
 This module adds hotkeys for switching layers and the active tool in canvas.
@@ -204,20 +203,23 @@ A FoundryVTT Module that adds a way to quickly search for any entity by name via
 ## [SVG Loader](Foundry%20VTT%20Modules%20%28Universal%29/svg-loader.md)
 This module allows to load walls, lights and sources through .svg files, provided e.g. by DungeonFog.
 
+## [Theatre](Foundry%20VTT%20Modules%20%28Universal%29/master.md)
+Theatre is a mod for FVTT as well as future unannounced VTT that allows for a visual novel style RP experience for text, and text-voice hybrid games. The primary function of Theatre is to allow for graphical 'theatre-inserts' or 'standin-graphics' to appear on screen with an accompanying area for text beneath them. This follows the style of visual novels, and even provides a means to animate or decorate the text as it appears in the below box. It also provides an emote system to allow users to configure different graphics for the various emotive expressions. Most of the emotes additionally have a built in 'emote animation' that occurs when the emote is selected, which can be toggled off globally if undesired.
+
 ## [Tiles Browser](Foundry%20VTT%20Modules%20%28Universal%29/tiles-browser.md)
 Adds a browser to the tiles layer to conveniently preview and then drag and drop tiles onto the scene. Providing additional features to manipulate tile rotation and size while dragging.
 
-## [Torch](Foundry%20VTT%20Modules%20%28Universal%29/torch.md)
-Adds a HUD button to toggle light of a specific radius. For the dnd5e system, will also deduct torches from inventory when turned on if the Actor does not know the Light cantrip.
-
-## [VTTA Iconizer](Foundry%20VTT%20Modules%20%28Universal%29/VTTA%20Iconizer.md)
-Tokenizer provides the user with:
-
-## [VTTA Tokenizer](Foundry%20VTT%20Modules%20%28Universal%29/VTTA%20Tokenizer.md)
-Iconizer watches the creation of items in your world, and tries to find a suitable icon from a pre-populated name/icon dictionary. All you need to do, is
-
 ## [Token Mold](Foundry%20VTT%20Modules%20%28Universal%29/token-mold.md)
 What is a foundry without its molds? This module provides you with a customizable mold for your Tokens.
+
+## [Torch](Foundry%20VTT%20Modules%20%28Universal%29/torch.md)
+Adds a HUD button to toggle light of a specific radius. For the dnd5e system, will also deduct torches from inventory when turned on if the Actor does not know the Light or Dancing Lights cantrips. For Dancing Lights, creates four Dancing Light tokens for the player as long as there is a GM connected.
+
+## [VTTA Iconizer](Foundry%20VTT%20Modules%20%28Universal%29/VTTA%20Iconizer.md)
+Iconizer watches the creation of items in your world, and tries to find a suitable icon from a pre-populated name/icon dictionary. All you need to do, is
+
+## [VTTA Tokenizer](Foundry%20VTT%20Modules%20%28Universal%29/VTTA%20Tokenizer.md)
+Tokenizer provides the user with:
 
 # Foundry VTT Modules for DnD 5E
 
@@ -241,8 +243,14 @@ A small module to add "Apply Damage" buttons to Red Reigns Better Rolls 5e Modul
 ## [Chat Damage Buttons - Beyond20 Edition](Foundry%20VTT%20Modules%20for%20DnD%205E/foundry-vtt-chatdamagebuttons-beyond20.md)
 
 
-## [DnD Beyond Character Importer](Foundry%20VTT%20Modules%20for%20DnD%205E/foundry-vtt-modules.md)
+## [DnD Beyond Character Importer](Foundry%20VTT%20Modules%20for%20DnD%205E/ddb-importer.md)
 This module allows you to import character data from DnD Beyond into Foundry Virtual Tabletop.
+
+## [Dynamic Items](Foundry%20VTT%20Modules%20for%20DnD%205E/dynamicitems.md)
+Dynamic items are ones that makes changes to your stats/modifiers when they are active in your inventory. This module is really intended for player characters and NPCs that have linked tokens.
+
+## [E-Z Roller](Foundry%20VTT%20Modules%20for%20DnD%205E/ezroller.md)
+Causes item cards to open in a window rather than in chat. This allows you to open the item card before your turn and also to keep your common attack open so you can roll attack on the next turn without navigating back to your inventory. Doesn't yet deal with spell slots properly, so spells should be sent to chat before being used.
 
 ## [Favourite Item Tab](Foundry%20VTT%20Modules%20for%20DnD%205E/favtab.md)
 Adds a Favourite tab to display a customized list of items, feats and spells. Usable with the default dnd5e Character sheet. You can add any item from the inventory, spell book or feature section of the character sheet. This module also gives access to item charges. You can add these to any item on the favourite list or remove them by changing the maximum to 0. This uses the same data that is used by Moerill#7205's adnd5e module, since this data is not supported by default.
@@ -294,9 +302,6 @@ The integration module provides you with the possibility to import
 
 ## [VTTA Party](Foundry%20VTT%20Modules%20for%20DnD%205E/VTTA%20Party.md)
 Successor to fvtt-party, which is discontinued as of now. Provides both an overview about the party in regards to AC, HP, and passive perception/investigation/insight and adds tooltips for the actors of the currently active scene.
-
-## [Dynamic Items](Foundry%20VTT%20Modules%20for%20DnD%205E/dynamicitems.md)
-Dynamic items are ones that makes changes to your stats/modifiers when they are active in your inventory. This module is really intended for player characters and NPCs that have linked tokens.
 
 # Foundry VTT Modules for WFRP 4E
 
