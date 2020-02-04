@@ -10,7 +10,7 @@
 * [https://raw.githubusercontent.com/RealDeuce/mother-may-i/master/module.json](https://raw.githubusercontent.com/RealDeuce/mother-may-i/master/module.json)
 
 ### Description
-Allows players to drag items and actors they own to the canvas.
+Allows trusted players to drag items and actors they own to the canvas as long as a GM is logged in.
 
 ---
 

@@ -213,7 +213,7 @@ This module came about after looking at walls generated in DunGen and a discussi
 A Foundry VTT Module to enable filtering chat-messages by their age. Each user can choose his own settings. It is possible to set the maximum age (in days) and to specify if the filter should be applied.
 
 ## [Mother, May I?](Foundry%20VTT%20Modules%20%28Universal%29/mother-may-i.md)
-Allows players to drag items and actors they own to the canvas.
+Allows trusted players to drag items and actors they own to the canvas as long as a GM is logged in.
 
 ## [No Token Animations](Foundry%20VTT%20Modules%20%28Universal%29/No%20Token%20Animations.md)
 Adds an option to the settings dialog to disable token movement animations. Tokens will drop immediately instead of sliding when dragged and dropped around the map with this setting enabled.
