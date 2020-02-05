@@ -65,7 +65,6 @@ git submodule update name-of-the-module
       * [Skycons](#skycons)
       * [SVG Loader](#svg-loader)
       * [Tiles Browser](#tiles-browser)
-      * [Token Info Icons](#token-info-icons)
       * [Token Mold](#token-mold)
       * [Torch](#torch)
       * [VTTA Iconizer](#vtta-iconizer)
@@ -101,6 +100,7 @@ git submodule update name-of-the-module
       * [Roll20 NPC Importer, for 5e](#roll20-npc-importer-for-5e)
       * [Request Roll](#request-roll)
       * [Sky's 5th Edition Dungeons &amp; Dragons Sheet](#skys-5th-edition-dungeons--dragons-sheet)
+      * [Token Info Icons](#token-info-icons)
       * [VTTA D&amp;D Beyond Integration](#vtta-dd-beyond-integration)
       * [VTTA Party](#vtta-party)
    * [Foundry VTT Modules for GURPS](#foundry-vtt-modules-for-gurps)
@@ -166,9 +166,6 @@ This module makes it so that when you click the anvil in the top left of the scr
 
 ## [Enhanced Playlist](Foundry%20VTT%20Modules%20%28Universal%29/tweakplaylist.md)
 Enhancements to Foundry playlists, including making playlists visible only to the GM, and allowing for random delays and volume changes in looped sounds.
-
-## [Entity Order](Foundry%20VTT%20Modules%20%28Universal%29/fvtt-module-entityorder.md)
-This Foundry VTT module allows you to re-order entities (Actors, Scenes, Items and Journal entries).
 
 ## [FFG Roller](Foundry%20VTT%20Modules%20%28Universal%29/FFG-Roller.md)
 This adds a simple dice rolling window for the special dice used in Fantasy Flight Games Star Wars RPG and Genesys.
@@ -247,9 +244,6 @@ This module allows to load walls, lights and sources through .svg files, provide
 
 ## [Tiles Browser](Foundry%20VTT%20Modules%20%28Universal%29/tiles-browser.md)
 Adds a browser to the tiles layer to conveniently preview and then drag and drop tiles onto the scene. Providing additional features to manipulate tile rotation and size while dragging.
-
-## [Token Info Icons](Foundry%20VTT%20Modules%20%28Universal%29/fvtt---token-info-icons.md)
-Simple module that displays Speed, AC, and Passive Perception on Tokens for the GM.
 
 ## [Token Mold](Foundry%20VTT%20Modules%20%28Universal%29/token-mold.md)
 What is a foundry without its molds? This module provides you with a customizable mold for your Tokens.
@@ -355,6 +349,9 @@ Request Roll is a module designed to help Gamemasters speed up the rolling proce
 ## [Sky's 5th Edition Dungeons & Dragons Sheet](Foundry%20VTT%20Modules%20for%20DnD%205E/sky5e.md)
 This module provides a variant layout of the Core 5e Character Sheet in Foundry as well as providing some upgrades to various sections of the sheet.
 
+## [Token Info Icons](Foundry%20VTT%20Modules%20for%20DnD%205E/fvtt---token-info-icons.md)
+Simple module that displays Speed, AC, and Passive Perception on Tokens for the GM.
+
 ## [VTTA D&D Beyond Integration](Foundry%20VTT%20Modules%20for%20DnD%205E/VTTA%20D%26D%20Beyond%20Integration.md)
 The integration module provides you with the possibility to import
 
@@ -390,6 +387,9 @@ This module allows you to import character data from DnD Beyond into Foundry Vir
 
 ## [Encumbrance Variant](Foundry%20VTT%20Modules%20%28Defunct%29/foundry-vtt---encumbrance-variant-5e.md)
 This module modifies how the encumbrance bar in the actor sheet is displayed to distinguish the different levels of encumbrance when using the variant rules in **PHB pg. 175**. It does not currently support the Powerful Build feature, as doing so would require extending the base Actor5eSheet class.
+
+## [Entity Order](Foundry%20VTT%20Modules%20%28Defunct%29/fvtt-module-entityorder.md)
+This Foundry VTT module allows you to re-order entities (Actors, Scenes, Items and Journal entries).
 
 ## [FVTT-Party (Discontinued, see VTTA-Party for an successor)](Foundry%20VTT%20Modules%20%28Defunct%29/fvtt-party.md)
 This module adds a convenient button to the actor’s tab, which will track the HP, AC, and Passive Perception, Investigation, and Insight of tokens on the Canvas. Currently a WIP, and may exhibit some bugs.

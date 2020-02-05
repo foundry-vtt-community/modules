@@ -188,3 +188,9 @@
 [submodule "Foundry VTT Modules (Defunct)/fvtt-module-zorder"]
 	path = Foundry VTT Modules (Defunct)/fvtt-module-zorder
 	url = https://github.com/kakaroto/fvtt-module-zorder
+[submodule "Foundry VTT Modules for DnD 5E/fvtt---token-info-icons"]
+	path = Foundry VTT Modules for DnD 5E/fvtt---token-info-icons
+	url = https://gitlab.com/jopeek/fvtt---token-info-icons
+[submodule "Foundry VTT Modules (Defunct)/fvtt-module-entityorder"]
+	path = Foundry VTT Modules (Defunct)/fvtt-module-entityorder
+	url = https://github.com/kakaroto/fvtt-module-entityorder
