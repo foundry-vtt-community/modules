@@ -194,3 +194,6 @@
 [submodule "Foundry VTT Modules (Defunct)/fvtt-module-entityorder"]
 	path = Foundry VTT Modules (Defunct)/fvtt-module-entityorder
 	url = https://github.com/kakaroto/fvtt-module-entityorder
+[submodule "Foundry VTT Modules (Defunct)/dnd5edark-foundryvtt"]
+	path = Foundry VTT Modules (Defunct)/dnd5edark-foundryvtt
+	url = https://github.com/Stryxin/dnd5edark-foundryvtt

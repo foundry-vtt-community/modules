@@ -80,6 +80,7 @@ git submodule update name-of-the-module
       * [Compendium Browser](#compendium-browser)
       * [Critical Fumble](#critical-fumble)
       * [D&amp;D 5e Conditions](#dd-5e-conditions)
+      * [D&amp;D5e Dark Mode](#dd5e-dark-mode)
       * [Dynamic Items](#dynamic-items)
       * [E-Z Roller](#e-z-roller)
       * [Favourite Item Tab](#favourite-item-tab)
@@ -411,4 +412,7 @@ This module includes each SRD NPC in 5th edition, imported into Foundry VTT. Thi
 
 ## [Z Order (functionality integrated into core)](Foundry%20VTT%20Modules%20%28Defunct%29/fvtt-module-zorder.md)
 This Foundry VTT module lets you send tiles to the front or the back of the scene.
+
+## [D&D5e Dark Mode](Foundry%20VTT%20Modules%20%28Defunct%29/dnd5edark-foundryvtt.md)
+A dark sheet style for the default D&D5e Character and NPC sheets.
 
