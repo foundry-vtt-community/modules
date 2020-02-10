@@ -91,6 +91,7 @@ git submodule update name-of-the-module
       * [Loot Sheet NPC 5E](#loot-sheet-npc-5e)
       * [Max Crit Damage](#max-crit-damage)
       * [Minor QOL Improvements](#minor-qol-improvements)
+      * [MyBeyond-Theme](#mybeyond-theme)
       * [NPC Browser](#npc-browser)
       * [Obsidian Character Sheets](#obsidian-character-sheets)
       * [Polyglot](#polyglot)
@@ -328,6 +329,9 @@ Deals max damage for critical hit rolls.
 
 ## [Minor QOL Improvements](Foundry%20VTT%20Modules%20for%20DnD%205E/minor-qol.md)
 Link: https://gitlab.com/tposney/minor-qol
+
+## [MyBeyond-Theme](Foundry%20VTT%20Modules%20for%20DnD%205E/MyBeyond-Theme.md)
+A simple css overwrite that brings the character sheet into a DnDBeyond like style without changing the function of the character sheet.
 
 ## [NPC Browser](Foundry%20VTT%20Modules%20for%20DnD%205E/npc-browser.md)
 This module adds a search interface for actors. This enables more comfortable browsing and searching via predefined filters like challenge rating, type or ability score.
