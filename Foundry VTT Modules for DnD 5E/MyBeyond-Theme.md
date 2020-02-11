@@ -8,8 +8,8 @@
 * **Module Conflicts**: no known conflicts
 
 ### Link(s) to Module
-* https://fvtt-modules.eschmann.online/
-* https://fvtt-modules.eschmann.online/mybeyond-theme/module.json
+* [https://fvtt-modules.eschmann.online/](https://fvtt-modules.eschmann.online/)
+* [https://fvtt-modules.eschmann.online/mybeyond-theme/module.json](https://fvtt-modules.eschmann.online/mybeyond-theme/module.json)
 
 ### Description
 A simple css overwrite that brings the character sheet into a DnDBeyond like style without changing the function of the character sheet.

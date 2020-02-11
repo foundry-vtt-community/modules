@@ -68,6 +68,7 @@ git submodule update name-of-the-module
       * [Torch](#torch)
       * [VTTA Iconizer](#vtta-iconizer)
       * [VTTA Tokenizer](#vtta-tokenizer)
+      * [ZoomKey](#zoomkey)
    * [Foundry VTT Modules for 13th Age](#foundry-vtt-modules-for-13th-age)
       * [13th Age Expanded](#13th-age-expanded)
    * [Foundry VTT Modules for DnD 5E](#foundry-vtt-modules-for-dnd-5e)
@@ -258,6 +259,9 @@ Iconizer watches the creation of items in your world, and tries to find a suitab
 
 ## [VTTA Tokenizer](Foundry%20VTT%20Modules%20%28Universal%29/VTTA%20Tokenizer.md)
 Tokenizer provides the user with:
+
+## [ZoomKey](Foundry%20VTT%20Modules%20%28Universal%29/foundryvtt-zoomkey.md)
+This module adds the PageUp PageDown shortcut to zoom in and out of the Canvas.Very handy for player who uses a trackpad with no mousewheel replacement.
 
 # Foundry VTT Modules for 13th Age
 

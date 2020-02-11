@@ -20,4 +20,3 @@ Tokenizer provides the user with:
 - automatic generation of a mask using the marching squares algorithm
 - automatic upload of the created tokens to the Foundry VTT server (requires 'Trusted Player' permission level)
 
----

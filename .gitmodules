@@ -197,3 +197,6 @@
 [submodule "Foundry VTT Modules (Defunct)/dnd5edark-foundryvtt"]
 	path = Foundry VTT Modules (Defunct)/dnd5edark-foundryvtt
 	url = https://github.com/Stryxin/dnd5edark-foundryvtt
+[submodule "Foundry VTT Modules (Universal)/foundryvtt-zoomkey"]
+	path = Foundry VTT Modules (Universal)/foundryvtt-zoomkey
+	url = https://gitlab.com/mesfoliesludiques/foundryvtt-zoomkey
