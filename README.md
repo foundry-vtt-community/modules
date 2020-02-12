@@ -68,7 +68,6 @@ git submodule update name-of-the-module
       * [Torch](#torch)
       * [VTTA Iconizer](#vtta-iconizer)
       * [VTTA Tokenizer](#vtta-tokenizer)
-      * [ZoomKey](#zoomkey)
    * [Foundry VTT Modules for 13th Age](#foundry-vtt-modules-for-13th-age)
       * [13th Age Expanded](#13th-age-expanded)
    * [Foundry VTT Modules for DnD 5E](#foundry-vtt-modules-for-dnd-5e)
@@ -81,6 +80,7 @@ git submodule update name-of-the-module
       * [Compendium Browser](#compendium-browser)
       * [Critical Fumble](#critical-fumble)
       * [D&amp;D 5e Conditions](#dd-5e-conditions)
+      * [D&amp;D5e Dark Mode](#dd5e-dark-mode)
       * [Dynamic Items](#dynamic-items)
       * [E-Z Roller](#e-z-roller)
       * [Favourite Item Tab](#favourite-item-tab)
@@ -92,7 +92,6 @@ git submodule update name-of-the-module
       * [Loot Sheet NPC 5E](#loot-sheet-npc-5e)
       * [Max Crit Damage](#max-crit-damage)
       * [Minor QOL Improvements](#minor-qol-improvements)
-      * [MyBeyond-Theme](#mybeyond-theme)
       * [NPC Browser](#npc-browser)
       * [Obsidian Character Sheets](#obsidian-character-sheets)
       * [Polyglot](#polyglot)
@@ -121,7 +120,6 @@ git submodule update name-of-the-module
       * [Spell Browser](#spell-browser)
       * [SRD Bestiary Module](#srd-bestiary-module)
       * [Z Order (functionality integrated into core)](#z-order-functionality-integrated-into-core)
-      * [D&amp;D5e Dark Mode](#dd5e-dark-mode)
    * [Appendix](#appendix)
       * [Appendix A: Adding a Module](#appendix-a-adding-a-module)
       * [Appendix B: Best Editing Practices](#appendix-b-best-editing-practices)
@@ -260,9 +258,6 @@ Iconizer watches the creation of items in your world, and tries to find a suitab
 ## [VTTA Tokenizer](Foundry%20VTT%20Modules%20%28Universal%29/VTTA%20Tokenizer.md)
 Tokenizer provides the user with:
 
-## [ZoomKey](Foundry%20VTT%20Modules%20%28Universal%29/foundryvtt-zoomkey.md)
-This module adds the PageUp PageDown shortcut to zoom in and out of the Canvas.Very handy for player who uses a trackpad with no mousewheel replacement.
-
 # Foundry VTT Modules for 13th Age
 
 Foundry modules that work within the 13th Age System are noted here. These may include NPC compendiums that may be legally shared, world saves, character sheet mods, and much, much more.
@@ -301,6 +296,9 @@ Do you find yourself forgetting to roll on the critical hit table? The critical 
 ## [D&D 5e Conditions](Foundry%20VTT%20Modules%20for%20DnD%205E/conditions5e.md)
 Alter the icons in the Status Effects panel of the Token Hub to reflect the standard "conditions" in D&D 5e, and repurpose the effects overlay to display whether the token is seriously wounded, unconscious, or dead.
 
+## [D&D5e Dark Mode](Foundry%20VTT%20Modules%20for%20DnD%205E/dnd5edark-foundryvtt.md)
+A dark sheet style for the default D&D5e Character and NPC sheets.
+
 ## [Dynamic Items](Foundry%20VTT%20Modules%20for%20DnD%205E/dynamicitems.md)
 Dynamic items are ones that makes changes to your stats/modifiers when they are active in your inventory. This module is really intended for player characters and NPCs that have linked tokens.
 
@@ -333,9 +331,6 @@ Deals max damage for critical hit rolls.
 
 ## [Minor QOL Improvements](Foundry%20VTT%20Modules%20for%20DnD%205E/minor-qol.md)
 Link: https://gitlab.com/tposney/minor-qol
-
-## [MyBeyond-Theme](Foundry%20VTT%20Modules%20for%20DnD%205E/MyBeyond-Theme.md)
-A simple css overwrite that brings the character sheet into a DnDBeyond like style without changing the function of the character sheet.
 
 ## [NPC Browser](Foundry%20VTT%20Modules%20for%20DnD%205E/npc-browser.md)
 This module adds a search interface for actors. This enables more comfortable browsing and searching via predefined filters like challenge rating, type or ability score.
@@ -420,7 +415,4 @@ This module includes each SRD NPC in 5th edition, imported into Foundry VTT. Thi
 
 ## [Z Order (functionality integrated into core)](Foundry%20VTT%20Modules%20%28Defunct%29/fvtt-module-zorder.md)
 This Foundry VTT module lets you send tiles to the front or the back of the scene.
-
-## [D&D5e Dark Mode](Foundry%20VTT%20Modules%20%28Defunct%29/dnd5edark-foundryvtt.md)
-A dark sheet style for the default D&D5e Character and NPC sheets.
 

@@ -1,8 +1,8 @@
 ## No Token Animations
 
 * **Author**: [Fyorl#1292](https://kim.mantas.me.uk)
-* **Version**: 2.0
-* **Foundry VTT Compatibility**: 0.4.4+
+* **Version**: 1.0
+* **Foundry VTT Compatibility**: 0.3.5+
 * **Translation Support**: EN (full)
 
 ### Link to Module
