@@ -1,0 +1,28 @@
+name: CI for Modules Repo
+
+on:
+  push:
+    branches:
+      - master
+  schedule:
+    - cron: '0 */2 * * *' #Every 2hrs
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Run Scripts
+      run: |     
+        git config user.name "Wiki Sync"
+        git config user.email "fvtt-travisci@mail.com"
+        cd ..
+        git clone https://github.com/foundry-vtt-community/wiki.wiki.git
+        cd modules
+        mv .admin/header.md .&& mv .admin/update_modules.sh .
+        chmod a+x update_modules.sh
+        ./update_modules.sh && git add README.md
+        if [[ "$(git diff --cached)" != "" ]] ; then
+            git commit -m "Update README.md Modules listing (Automatic)"
+        fi
+        git push https://$GITHUB_API_KEY@github.com/foundry-vtt-community/modules.git HEAD:master
