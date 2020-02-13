@@ -1,6 +1,6 @@
 # Foundry VTT Module Repository
 
-[![Build Status](https://travis-ci.org/foundry-vtt-community/modules.svg?branch=master)](https://travis-ci.org/foundry-vtt-community/modules)
+![CI for Modules Repo](https://github.com/foundry-vtt-community/modules/workflows/CI%20for%20Modules%20Repo/badge.svg)
 
 Foundry modules that work across all or most systems are noted here.  These may include reskins, general improvement mods, and more.
 
