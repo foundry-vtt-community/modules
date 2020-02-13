@@ -21,3 +21,4 @@ Tokenizer provides the user with:
 - automatic upload of the created tokens to the Foundry VTT server (requires 'Trusted Player' permission level)
 
 ---
+

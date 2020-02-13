@@ -1,6 +1,6 @@
 ## ZoomKey
 
-* **U~man**: U~man#2374, contributions are welcome
+* **Author**: U~man#2374, contributions are welcome
 * **Version**: 0.1.2
 * **Foundry VTT Compatibility**: 0.4.x
 * **System Compatibility (If applicable)**: Universal

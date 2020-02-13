@@ -68,6 +68,7 @@ git submodule update name-of-the-module
       * [Torch](#torch)
       * [VTTA Iconizer](#vtta-iconizer)
       * [VTTA Tokenizer](#vtta-tokenizer)
+      * [ZoomKey](#zoomkey)
    * [Foundry VTT Modules for 13th Age](#foundry-vtt-modules-for-13th-age)
       * [13th Age Expanded](#13th-age-expanded)
    * [Foundry VTT Modules for DnD 5E](#foundry-vtt-modules-for-dnd-5e)
@@ -92,6 +93,7 @@ git submodule update name-of-the-module
       * [Loot Sheet NPC 5E](#loot-sheet-npc-5e)
       * [Max Crit Damage](#max-crit-damage)
       * [Minor QOL Improvements](#minor-qol-improvements)
+      * [MyBeyond-Theme](#mybeyond-theme)
       * [NPC Browser](#npc-browser)
       * [Obsidian Character Sheets](#obsidian-character-sheets)
       * [Polyglot](#polyglot)
@@ -258,6 +260,9 @@ Iconizer watches the creation of items in your world, and tries to find a suitab
 ## [VTTA Tokenizer](Foundry%20VTT%20Modules%20%28Universal%29/VTTA%20Tokenizer.md)
 Tokenizer provides the user with:
 
+## [ZoomKey](Foundry%20VTT%20Modules%20%28Universal%29/foundryvtt-zoomkey.md)
+This module adds the PageUp PageDown shortcut to zoom in and out of the Canvas.Very handy for player who uses a trackpad with no mousewheel replacement.
+
 # Foundry VTT Modules for 13th Age
 
 Foundry modules that work within the 13th Age System are noted here. These may include NPC compendiums that may be legally shared, world saves, character sheet mods, and much, much more.
@@ -331,6 +336,9 @@ Deals max damage for critical hit rolls.
 
 ## [Minor QOL Improvements](Foundry%20VTT%20Modules%20for%20DnD%205E/minor-qol.md)
 Link: https://gitlab.com/tposney/minor-qol
+
+## [MyBeyond-Theme](Foundry%20VTT%20Modules%20for%20DnD%205E/MyBeyond-Theme.md)
+A simple css overwrite that brings the character sheet into a DnDBeyond like style without changing the function of the character sheet.
 
 ## [NPC Browser](Foundry%20VTT%20Modules%20for%20DnD%205E/npc-browser.md)
 This module adds a search interface for actors. This enables more comfortable browsing and searching via predefined filters like challenge rating, type or ability score.
