@@ -203,3 +203,6 @@
 [submodule "Foundry VTT Modules for DnD 5E/dnd5edark-foundryvtt"]
 	path = Foundry VTT Modules for DnD 5E/dnd5edark-foundryvtt
 	url = https://github.com/Stryxin/dnd5edark-foundryvtt
+[submodule "Foundry VTT Modules (Universal)/foundryvtt-fxmaster"]
+	path = Foundry VTT Modules (Universal)/foundryvtt-fxmaster
+	url = https://gitlab.com/mesfoliesludiques/foundryvtt-fxmaster

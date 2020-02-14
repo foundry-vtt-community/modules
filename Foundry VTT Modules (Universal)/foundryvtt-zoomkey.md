@@ -1,7 +1,7 @@
 ## ZoomKey
 
 * **Author**: U~man#2374, contributions are welcome
-* **Version**: 0.1.2
+* **Version**: 0.2.1
 * **Foundry VTT Compatibility**: 0.4.x
 * **System Compatibility (If applicable)**: Universal
 * **Module Requirement(s)**: None
@@ -13,6 +13,9 @@
 * [https://gitlab.com/mesfoliesludiques/foundryvtt-zoomkey/-/raw/master/zoomkey/module.json](https://gitlab.com/mesfoliesludiques/foundryvtt-zoomkey/-/raw/master/zoomkey/module.json) 
 
 ### Description
-This module adds the PageUp PageDown shortcut to zoom in and out of the Canvas.Very handy for player who uses a trackpad with no mousewheel replacement.
+Adds hotkeys for zooming and panning on the canvas without mousewheel
+- Zooming in: Page Up or Ctrl + '+'
+- Zooming out: Page Down or Ctrl + '-'
+- Panning : Ctrl + arrows
 
 ---

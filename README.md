@@ -41,6 +41,7 @@ git submodule update name-of-the-module
       * [Foundry Patrol](#foundry-patrol)
       * [Foundry Pin](#foundry-pin)
       * [The Furnace](#the-furnace)
+      * [FX Master](#fxmaster)
       * [GM Notes](#gm-notes)
       * [GM Scene Background](#gm-scene-background)
       * [Grid Scaler](#grid-scaler)
@@ -182,6 +183,9 @@ TLDR: Create token automated token patrols
 ## [The Furnace](Foundry%20VTT%20Modules%20%28Universal%29/fvtt-module-furnace.md)
 The Furnace is an essential part of every Foundry. This Foundry VTT module brings Quality of Life Improvements to the VTT.
 
+## [FX Master](Foundry%20VTT%20Modules%20%28Universal%29/foundryvtt-fxmaster.md)
+This module adds weather effects to choose from in the scene configuration menu. You can now have animated flying birds, bubbles, embers and clouds.
+
 ## [GM Notes](Foundry%20VTT%20Modules%20%28Universal%29/gm-notes.md)
 A Foundry VTT Module to add GM-Only notes to entities (Actor, Items (including owned items), RollTable and JournalEntry). This module is system independet, but has an additional feature to easily move GM notes to or from the actors bio, items description or JournalEntrys content.
 
@@ -261,7 +265,7 @@ Iconizer watches the creation of items in your world, and tries to find a suitab
 Tokenizer provides the user with:
 
 ## [ZoomKey](Foundry%20VTT%20Modules%20%28Universal%29/foundryvtt-zoomkey.md)
-This module adds the PageUp PageDown shortcut to zoom in and out of the Canvas.Very handy for player who uses a trackpad with no mousewheel replacement.
+Adds hotkeys for zooming and panning on the canvas without mousewheel
 
 # Foundry VTT Modules for 13th Age
 
