@@ -23,7 +23,6 @@ git submodule update name-of-the-module
 <!--tl=2-->
 <!--ts-->
    * [Foundry VTT Modules (Universal)](#foundry-vtt-modules-universal)
-      * [Actually Private Rolls](#actually-private-rolls)
       * [Always Show Notes](#always-show-notes)
       * [Anvil Menu](#anvil-menu)
       * [Arcane Viewing](#arcane-viewing)
@@ -100,7 +99,6 @@ git submodule update name-of-the-module
       * [Polyglot](#polyglot)
       * [Polymorpher](#polymorpher)
       * [Roll20 Converter](#roll20-converter)
-      * [Roll20 NPC Importer, for 5e](#roll20-npc-importer-for-5e)
       * [Request Roll](#request-roll)
       * [Sky's 5th Edition Dungeons &amp; Dragons Sheet](#skys-5th-edition-dungeons--dragons-sheet)
       * [Token Info Icons](#token-info-icons)
@@ -112,6 +110,7 @@ git submodule update name-of-the-module
       * [Arcane Marks &amp; Careers](#arcane-marks--careers)
       * [Rough Nights &amp; Hard Days](#rough-nights--hard-days)
    * [Foundry VTT Modules (Defunct)](#foundry-vtt-modules-defunct)
+      * [Actually Private Rolls](#actually-private-rolls)
       * [DDB Popper (use VTTA-DNDBEYOND instead)](#ddb-popper-use-vtta-dndbeyond-instead)
       * [DnD Beyond Character Importer (non-functional -- use VTTA-D&amp;D Beyond Integration instead)](#dnd-beyond-character-importer-non-functional----use-vtta-dd-beyond-integration-instead)
       * [Encumbrance Variant](#encumbrance-variant)
@@ -120,6 +119,7 @@ git submodule update name-of-the-module
       * [GM Roll Message](#gm-roll-message)
       * [Infinite Folders](#infinite-folders)
       * [NPC Browser](#npc-browser-1)
+      * [Roll20 NPC Importer, for 5e](#roll20-npc-importer-for-5e)
       * [Spell Browser](#spell-browser)
       * [SRD Bestiary Module](#srd-bestiary-module)
       * [Z Order (functionality integrated into core)](#z-order-functionality-integrated-into-core)
@@ -131,9 +131,6 @@ git submodule update name-of-the-module
 # Foundry VTT Modules (Universal)
 
 Foundry modules that work across all or most systems are noted here. These may include reskins, general improvement mods, and more.
-
-## [Actually Private Rolls](Foundry%20VTT%20Modules%20%28Universal%29/Actually-Private-Rolls.md)
-Hides Private GM Rolls completely rather then just obfuscating the result.
 
 ## [Always Show Notes](Foundry%20VTT%20Modules%20%28Universal%29/alwaysshownotes.md)
 Sets the Display Notes toggle to true by default
@@ -356,9 +353,6 @@ A module for Foundry VTT that lets you polymorph characters into any other chara
 ## [Roll20 Converter](Foundry%20VTT%20Modules%20for%20DnD%205E/Roll20%20Converter.md)
 This module imports most facets of a campaign, including scenes, dynamic lighting, basic sheet information, and more. It currently does not include thorough actor information (either for PCs or NPCs), or items. Bear in mind that exporting a campaign from Roll20 may violate the EULA.
 
-## [Roll20 NPC Importer, for 5e](Foundry%20VTT%20Modules%20for%20DnD%205E/roll20npcimporter.md)
-This module allows for the importing of NPCs from Roll20, through use of JSONs exported via [VTT Enhancement Suite](https://ssstormy.github.io/roll20-enhancement-suite/). This import currently only supports NPCs created in the Roll20 OGL or Shaped version sheets. This module supports the Better NPC Sheet 5e, as well as the aDnD5e sheet in tagging actor items according to abilities, reactions, legendary actions, etc. To install, first download the module, unzip it into `/public/modules`, and then restart Foundry while it is running.
-
 ## [Request Roll](Foundry%20VTT%20Modules%20for%20DnD%205E/request_roll.md)
 Request Roll is a module designed to help Gamemasters speed up the rolling process by requesting rolls from PCs. This can help reduce player navigation time, questions about where a roll is located, and other unforseen delays that cause chokepoitns in your game. You can select from a range of options varying from hidden rolls, where only the gm knows, to rolls with advantage or disadvantage! Consider installing this module to speed along your game!
 
@@ -395,6 +389,9 @@ Extends the character creation capabilities to gnomes, including their stats, ba
 
 Foundry VTT modules that no longer work are noted here. Modules included here have been defunct for at least one month. This exists to help document previous work on Foundry Virtual Tabletop by the community, as well as to exist as a record for anyone who chooses to remain on a previous version of Foundry VTT.  
 
+## [Actually Private Rolls](Foundry%20VTT%20Modules%20%28Defunct%29/Actually-Private-Rolls.md)
+Hides Private GM Rolls completely rather then just obfuscating the result.
+
 ## [DDB Popper (use VTTA-DNDBEYOND instead)](Foundry%20VTT%20Modules%20%28Defunct%29/ddb-popper.md)
 Opens a D&D Beyond popup for a linked actor.
 
@@ -418,6 +415,9 @@ This Foundry VTT module allows you to create infinite depth of folders for Scene
 
 ## [NPC Browser](Foundry%20VTT%20Modules%20%28Defunct%29/npc-browser.md)
 This module adds a search interface for actors. This enables more comfortable browsing and searching via predefined filters like challenge rating, type or ability score.
+
+## [Roll20 NPC Importer, for 5e](Foundry%20VTT%20Modules%20%28Defunct%29/roll20npcimporter.md)
+This module allows for the importing of NPCs from Roll20, through use of JSONs exported via [VTT Enhancement Suite](https://ssstormy.github.io/roll20-enhancement-suite/). This import currently only supports NPCs created in the Roll20 OGL or Shaped version sheets. This module supports the Better NPC Sheet 5e, as well as the aDnD5e sheet in tagging actor items according to abilities, reactions, legendary actions, etc. To install, first download the module, unzip it into `/public/modules`, and then restart Foundry while it is running.
 
 ## [Spell Browser](Foundry%20VTT%20Modules%20%28Defunct%29/Spell-Browser.md)
 This module adds a search interface for spells. This enables more comfortable browsing and searching via predefined filters like spell level, class or damage type.
