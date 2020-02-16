@@ -383,7 +383,7 @@ Foundry modules that work within Warhammer Fantasy Roleplay 4th Edition are note
 [This homebrew](https://drive.google.com/file/d/1uTy2r0EDMdcISFqqyxeIOSadtzz-OTAg/view) supplement I made adds Lore specific careers and marks for WFRP4e.
 
 ## [Rough Nights & Hard Days](Foundry%20VTT%20Modules%20for%20WFRP%204E/fvtt-wfrp4e-rnhd.md)
-Extends the character creation capabilities to gnomes, including their stats, background, features. Also includes pub games!
+
 
 # Foundry VTT Modules (Defunct)
 
