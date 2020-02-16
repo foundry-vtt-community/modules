@@ -27,6 +27,7 @@ git submodule update name-of-the-module
       * [Anvil Menu](#anvil-menu)
       * [Arcane Viewing](#arcane-viewing)
       * [BubbleRolls](#bubblerolls)
+      * [Calendar/Weather](#calendarweather)
       * [Chat Autoloader](#chat-autoloader)
       * [Combat Utility Belt (Beta)](#combat-utility-belt-beta)
       * [Cursor Hider](#cursor-hider)
@@ -143,6 +144,9 @@ Arcane Viewing adds Audio/Video conferencing support directly from within FVTT.
 
 ## [BubbleRolls](Foundry%20VTT%20Modules%20%28Universal%29/foundryvtt-bubblerolls.md)
 This module displays Actor Rolls in Chat Bubbles located on just above the Token. This module makes it easy for contributors to add templates of their own. More information on the gitlab link.
+
+## [Calendar/Weather](Foundry%20VTT%20Modules%20%28Universal%29/about-time.md)
+A customizable module that accurately tracks and displays dates and time.
 
 ## [Chat Autoloader](Foundry%20VTT%20Modules%20%28Universal%29/chat-autoloader.md)
 This module improves loading times by only rendering the last few chat messages at page load. Older messages will automatically get rendered while scrolling to the top. (This behavior is similar to e.g. scrolling in Discords chat)
