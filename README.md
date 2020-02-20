@@ -52,7 +52,6 @@ git submodule update name-of-the-module
       * [Special Dice Roller](#special-dice-roller)
       * [Maestro](#maestro)
       * [Merge Walls](#merge-walls)
-      * [Message Age Restriction](#message-age-restriction)
       * [Mother, May I?](#mother-may-i)
       * [No Token Animations](#no-token-animations)
       * [Permission Viewer](#permission-viewer)
@@ -77,7 +76,6 @@ git submodule update name-of-the-module
       * [Better Rolls for 5e](#better-rolls-for-5e)
       * [Beyond 20](#beyond-20)
       * [Chat Damage Buttons](#chat-damage-buttons)
-      * [Chat Damage Buttons - Better Rolls Edition](#chat-damage-buttons---better-rolls-edition)
       * [Chat Damage Buttons - Beyond20 Edition](#chat-damage-buttons---beyond20-edition)
       * [Compendium Browser](#compendium-browser)
       * [Critical Fumble](#critical-fumble)
@@ -112,6 +110,7 @@ git submodule update name-of-the-module
       * [Rough Nights &amp; Hard Days](#rough-nights--hard-days)
    * [Foundry VTT Modules (Defunct)](#foundry-vtt-modules-defunct)
       * [Actually Private Rolls](#actually-private-rolls)
+      * [Chat Damage Buttons - Better Rolls Edition](#chat-damage-buttons---better-rolls-edition)
       * [DDB Popper (use VTTA-DNDBEYOND instead)](#ddb-popper-use-vtta-dndbeyond-instead)
       * [DnD Beyond Character Importer (non-functional -- use VTTA-D&amp;D Beyond Integration instead)](#dnd-beyond-character-importer-non-functional----use-vtta-dd-beyond-integration-instead)
       * [Encumbrance Variant](#encumbrance-variant)
@@ -214,9 +213,6 @@ Adds some sound-focused features to Foundry Virtual Tabletop!
 ## [Merge Walls](Foundry%20VTT%20Modules%20%28Universal%29/master.md)
 This module came about after looking at walls generated in DunGen and a discussion with Atropos about how to reduce the number or walls by merging neighbouring walls. For hand drawn maps there is only a small decrease but for DunGen and maps imported from Roll20 modules there can be 30% reduction in the number of walls. The results are not too far from hand crafted wall layouts.
 
-## [Message Age Restriction](Foundry%20VTT%20Modules%20%28Universal%29/messageagerestriction.md)
-A Foundry VTT Module to enable filtering chat-messages by their age. Each user can choose his own settings. It is possible to set the maximum age (in days) and to specify if the filter should be applied.
-
 ## [Mother, May I?](Foundry%20VTT%20Modules%20%28Universal%29/mother-may-i.md)
 Allows trusted players to drag items and actors they own to the canvas as long as a GM is logged in.
 
@@ -290,9 +286,6 @@ This module allows you to use and roll sheets in DnD Beyond, and have those resu
 
 ## [Chat Damage Buttons](Foundry%20VTT%20Modules%20for%20DnD%205E/foundry-vtt---chat-damage-buttons.md)
 This module replaces the right-click context menu with buttons on the dice-roll chat message. This allows for quicker application of damage/healing.
-
-## [Chat Damage Buttons - Better Rolls Edition](Foundry%20VTT%20Modules%20for%20DnD%205E/Better%20Rolls%20for%205e.md)
-A small module to add "Apply Damage" buttons to Red Reigns Better Rolls 5e Module, based on hookings Chat Damage Buttons.
 
 ## [Chat Damage Buttons - Beyond20 Edition](Foundry%20VTT%20Modules%20for%20DnD%205E/foundry-vtt-chatdamagebuttons-beyond20.md)
 
@@ -395,6 +388,9 @@ Foundry VTT modules that no longer work are noted here. Modules included here ha
 
 ## [Actually Private Rolls](Foundry%20VTT%20Modules%20%28Defunct%29/Actually-Private-Rolls.md)
 Hides Private GM Rolls completely rather then just obfuscating the result.
+
+## [Chat Damage Buttons - Better Rolls Edition](Foundry%20VTT%20Modules%20%28Defunct%29/Better%20Rolls%20for%205e.md)
+A small module to add "Apply Damage" buttons to Red Reigns Better Rolls 5e Module, based on hookings Chat Damage Buttons.
 
 ## [DDB Popper (use VTTA-DNDBEYOND instead)](Foundry%20VTT%20Modules%20%28Defunct%29/ddb-popper.md)
 Opens a D&D Beyond popup for a linked actor.
