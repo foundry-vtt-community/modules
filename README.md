@@ -26,6 +26,7 @@ git submodule update name-of-the-module
       * [Always Show Notes](#always-show-notes)
       * [Anvil Menu](#anvil-menu)
       * [Arcane Viewing](#arcane-viewing)
+      * [Babele](#babele)
       * [BubbleRolls](#bubblerolls)
       * [Calendar/Weather](#calendarweather)
       * [Chat Autoloader](#chat-autoloader)
@@ -90,6 +91,7 @@ git submodule update name-of-the-module
       * [Kobold Press OGL](#kobold-press-ogl)
       * [Let Me Roll That For You! (LMRTFY)](#let-me-roll-that-for-you-lmrtfy)
       * [Loot Sheet NPC 5E](#loot-sheet-npc-5e)
+      * [Magic Items](#magic-items)
       * [Max Crit Damage](#max-crit-damage)
       * [Minor QOL Improvements](#minor-qol-improvements)
       * [MyBeyond-Theme](#mybeyond-theme)
@@ -140,6 +142,9 @@ Adds a context menu to Foundry's Anvil logo in the top left of the screen. This 
 
 ## [Arcane Viewing](Foundry%20VTT%20Modules%20%28Universal%29/Arcane%20Viewing.md)
 Arcane Viewing adds Audio/Video conferencing support directly from within FVTT.
+
+## [Babele](Foundry%20VTT%20Modules%20%28Universal%29/foundryvtt-babele.md)
+Babele is a module for runtime translation of Compendium packs.
 
 ## [BubbleRolls](Foundry%20VTT%20Modules%20%28Universal%29/foundryvtt-bubblerolls.md)
 This module displays Actor Rolls in Chat Bubbles located on just above the Token. This module makes it easy for contributors to add templates of their own. More information on the gitlab link.
@@ -328,6 +333,9 @@ LMRTFY is a module to let Game Masters request rolls from their players. This ca
 
 ## [Loot Sheet NPC 5E](Foundry%20VTT%20Modules%20for%20DnD%205E/fvtt---loot-sheet-npc-5e.md)
 This module adds an additional NPC sheet which can be used for loot containers such as chests. It also allows spells to be automatically converted into spell scrolls by dragging them onto this sheet.
+
+## [Magic Items](Foundry%20VTT%20Modules%20for%20DnD%205E/foundryvtt-magic-items.md)
+This module adds the ability to create magical items with spells or feats that belong to the item itself, such as staffs or magic wands, which will be automatically inherited from the character who owns the item.
 
 ## [Max Crit Damage](Foundry%20VTT%20Modules%20for%20DnD%205E/master.zip.md)
 Deals max damage for critical hit rolls.

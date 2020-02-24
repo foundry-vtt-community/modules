@@ -1,8 +1,8 @@
 ## Search Anywhere
 
 * **Author**: Simone#6710 on Discord
-* **Version**: 1.0.3
-* **Foundry VTT Compatibility**: 0.4.0+
+* **Version**: 1.4
+* **Foundry VTT Compatibility**: 0.4.5+
 * **System Compatibility (If applicable)**: Universal
 * **Module Requirement(s)**: None
 * **Module Conflicts**: None

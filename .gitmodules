@@ -212,3 +212,9 @@
 [submodule "Foundry VTT Modules (Defunct)/roll20npcimporter"]
 	path = Foundry VTT Modules (Defunct)/roll20npcimporter
 	url = https://github.com/syl3r86/roll20npcimporter
+[submodule "Foundry VTT Modules (Universal)/foundryvtt-babele"]
+	path = Foundry VTT Modules (Universal)/foundryvtt-babele
+	url = https://gitlab.com/riccisi/foundryvtt-babele
+[submodule "Foundry VTT Modules for DnD 5E/foundryvtt-magic-items"]
+	path = Foundry VTT Modules for DnD 5E/foundryvtt-magic-items
+	url = https://gitlab.com/riccisi/foundryvtt-magic-items
