@@ -36,6 +36,7 @@ git submodule update name-of-the-module
       * [Dice Calculator](#dice-calculator)
       * [Discord Rich Presence](#discord-rich-presence)
       * [Display Mode](#display-mode)
+      * [Easy Target](#easy-target)
       * [Enhanced Playlist](#enhanced-playlist)
       * [FFG Roller](#ffg-roller)
       * [Foundry Hot Seat Observer](#foundry-hot-seat-observer)
