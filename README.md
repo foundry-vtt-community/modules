@@ -23,6 +23,7 @@ git submodule update name-of-the-module
 <!--tl=2-->
 <!--ts-->
    * [Foundry VTT Modules (Universal)](#foundry-vtt-modules-universal)
+      * [About Time](#about-time]
       * [Always Show Notes](#always-show-notes)
       * [Anvil Menu](#anvil-menu)
       * [Arcane Viewing](#arcane-viewing)
@@ -134,6 +135,9 @@ git submodule update name-of-the-module
 # Foundry VTT Modules (Universal)
 
 Foundry modules that work across all or most systems are noted here. These may include reskins, general improvement mods, and more.
+
+## [About Time](Foundry%20VTT%20Modules%20%28Universal%29/about-time.md)
+Supports a pseudo real time game clock withe events and arbitrary calendars.
 
 ## [Always Show Notes](Foundry%20VTT%20Modules%20%28Universal%29/alwaysshownotes.md)
 Sets the Display Notes toggle to true by default
