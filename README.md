@@ -104,6 +104,7 @@ git submodule update name-of-the-module
       * [Roll20 Converter](#roll20-converter)
       * [Request Roll](#request-roll)
       * [Sky's 5th Edition Dungeons &amp; Dragons Sheet](#skys-5th-edition-dungeons--dragons-sheet)
+      * [Stat Drawer](#stat-drawer)
       * [Token Info Icons](#token-info-icons)
       * [VTTA D&amp;D Beyond Integration](#vtta-dd-beyond-integration)
       * [VTTA Party](#vtta-party)
@@ -368,6 +369,9 @@ Request Roll is a module designed to help Gamemasters speed up the rolling proce
 
 ## [Sky's 5th Edition Dungeons & Dragons Sheet](Foundry%20VTT%20Modules%20for%20DnD%205E/sky5e.md)
 This module provides a variant layout of the Core 5e Character Sheet in Foundry as well as providing some upgrades to various sections of the sheet.
+
+## [Stat Drawer](Foundry%20VTT%20Modules%20for%20DnD%205E/statdrawer.md)
+A module for Foundry VTT that lets you generate ablitiy scores for characters using the "Holy Grail" method as described [here](https://www.reddit.com/r/DnD/comments/c67dft/oc_another_character_stat_generation_method_i/)!
 
 ## [Token Info Icons](Foundry%20VTT%20Modules%20for%20DnD%205E/fvtt---token-info-icons.md)
 Simple module that displays Speed, AC, and Passive Perception on Tokens for the GM.

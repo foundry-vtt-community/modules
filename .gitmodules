@@ -218,3 +218,6 @@
 [submodule "Foundry VTT Modules for DnD 5E/foundryvtt-magic-items"]
 	path = Foundry VTT Modules for DnD 5E/foundryvtt-magic-items
 	url = https://gitlab.com/riccisi/foundryvtt-magic-items
+[submodule "Foundry VTT Modules for DnD 5E/statdrawer"]
+	path = Foundry VTT Modules for DnD 5E/statdrawer
+	url = https://github.com/syl3r86/statdrawer
