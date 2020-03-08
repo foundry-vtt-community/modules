@@ -221,3 +221,6 @@
 [submodule "Foundry VTT Modules for DnD 5E/statdrawer"]
 	path = Foundry VTT Modules for DnD 5E/statdrawer
 	url = https://github.com/syl3r86/statdrawer
+[submodule "Foundry VTT Modules for DnD 5E/pin-cushion"]
+	path = Foundry VTT Modules for DnD 5E/pin-cushion
+	url = https://github.com/death-save/pin-cushion

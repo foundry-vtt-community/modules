@@ -355,6 +355,9 @@ A simple css overwrite that brings the character sheet into a DnDBeyond like sty
 ## [NPC Browser](Foundry%20VTT%20Modules%20for%20DnD%205E/npc-browser.md)
 This module adds a search interface for actors. This enables more comfortable browsing and searching via predefined filters like challenge rating, type or ability score.
 
+## [Pin Cushion](Foundry%20VTT%20Modules%20for%20DnD%205E/pin-cushion.md)
+Changes map pin icon selection to filepicker
+
 ## [Polyglot](Foundry%20VTT%20Modules%20for%20DnD%205E/fvtt-module-polyglot.md)
 Talk to others using a language your selected character can understand and scrambles in-character text you can't understand.
 
