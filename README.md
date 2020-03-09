@@ -49,7 +49,6 @@ git submodule update name-of-the-module
       * [GM Scene Background](#gm-scene-background)
       * [Grid Scaler](#grid-scaler)
       * [Image Previewer](#image-previewer)
-      * [Journal Drag](#journal-drag)
       * [Layer Hotkeys](#layer-hotkeys)
       * [Less Fog](#less-fog)
       * [Special Dice Roller](#special-dice-roller)
@@ -99,6 +98,7 @@ git submodule update name-of-the-module
       * [MyBeyond-Theme](#mybeyond-theme)
       * [NPC Browser](#npc-browser)
       * [Obsidian Character Sheets](#obsidian-character-sheets)
+      * [Pin Cushion](#pin-cushion)
       * [Polyglot](#polyglot)
       * [Polymorpher](#polymorpher)
       * [Roll20 Converter](#roll20-converter)
@@ -123,6 +123,7 @@ git submodule update name-of-the-module
       * [FVTT-Party (Discontinued, see VTTA-Party for an successor)](#fvtt-party-discontinued-see-vtta-party-for-an-successor)
       * [GM Roll Message](#gm-roll-message)
       * [Infinite Folders](#infinite-folders)
+      * [Journal Drag](#journal-drag)
       * [NPC Browser](#npc-browser-1)
       * [Roll20 NPC Importer, for 5e](#roll20-npc-importer-for-5e)
       * [Spell Browser](#spell-browser)
@@ -323,7 +324,7 @@ Causes item cards to open in a window rather than in chat. This allows you to op
 Adds a Favourite tab to display a customized list of items, feats and spells. Usable with the default dnd5e Character sheet. You can add any item from the inventory, spell book or feature section of the character sheet. This module also gives access to item charges. You can add these to any item on the favourite list or remove them by changing the maximum to 0. This uses the same data that is used by Moerill#7205's adnd5e module, since this data is not supported by default.
 
 ## [Group Roll](Foundry%20VTT%20Modules%20for%20DnD%205E/grouproll.md)
-Implements group ability and skill check rolls per Player's Handbook, page 175: "*If at least half the group succeeds, the whole group succeeds.*" Modules also includes patches to implement the Halfling Lucky trait, and a house rule to use the average of 2d20 for normal skill and ability check rolls. Both of these patches can be disabled in config.js. All patches rely on the included `patchClass` utility function.
+Implements group ability and skill check rolls per Player's Handbook, page 175: "*If at least half the group succeeds, the whole group succeeds.*" The module also implements a house rule to use the average of 2d20 for normal skill and ability check rolls, and partially implements the D&D 5e Halfling Lucky trait. Both of these patches can be disabled in config.js. All patches rely on the included `patchClass` utility function.
 
 ## [Item Sheet Buttons](Foundry%20VTT%20Modules%20for%20DnD%205E/foundry-vtt---item-sheet-buttons.md)
 This module adds item card buttons into the description of items, so that the item cards do not need to be pinged in chat. It does have the side effect of making it harder to ping item descriptions within chat.

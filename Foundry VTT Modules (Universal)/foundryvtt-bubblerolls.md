@@ -5,7 +5,7 @@
 * **Foundry VTT Compatibility**: 0.4.5
 * **System Compatibility (If applicable)**: Universal
 * **Module Requirement(s)**: None
-* **Module Conflicts**: None known
+* **Module Conflicts**: None knownd
 * **Translation Support**: English, French, Japanese
 
 ### Link(s) to Module

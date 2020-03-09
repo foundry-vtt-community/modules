@@ -1,8 +1,8 @@
 ## Less Fog
 
 * **Author**: trdischat#2123 on Discord.
-* **Version**: 0.4.5
-* **Foundry VTT Compatibility**: 0.4.5+
+* **Version**: 0.5.1
+* **Foundry VTT Compatibility**: 0.5.1+
 * **System Compatibility (If applicable)**: Universal.
 * **Module Requirement(s)**: None
 * **Module Conflicts**: None
