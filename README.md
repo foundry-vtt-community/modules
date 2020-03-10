@@ -85,6 +85,7 @@ git submodule update name-of-the-module
       * [D&amp;D5e Dark Mode](#dd5e-dark-mode)
       * [Dynamic Items](#dynamic-items)
       * [E-Z Roller](#e-z-roller)
+      * [Encounter Builder](#encounter-builder)
       * [Favourite Item Tab](#favourite-item-tab)
       * [Group Roll](#group-roll)
       * [Item Sheet Buttons](#item-sheet-buttons)
@@ -319,6 +320,9 @@ Dynamic items are ones that makes changes to your stats/modifiers when they are 
 
 ## [E-Z Roller](Foundry%20VTT%20Modules%20for%20DnD%205E/ezroller.md)
 Causes item cards to open in a window rather than in chat. This allows you to open the item card before your turn and also to keep your common attack open so you can roll attack on the next turn without navigating back to your inventory.
+
+## [Encounter Builder](Foundry%20VTT%20Modules%20for%20DnD%205E/encounter-builder.md)
+
 
 ## [Favourite Item Tab](Foundry%20VTT%20Modules%20for%20DnD%205E/favtab.md)
 Adds a Favourite tab to display a customized list of items, feats and spells. Usable with the default dnd5e Character sheet. You can add any item from the inventory, spell book or feature section of the character sheet. This module also gives access to item charges. You can add these to any item on the favourite list or remove them by changing the maximum to 0. This uses the same data that is used by Moerill#7205's adnd5e module, since this data is not supported by default.

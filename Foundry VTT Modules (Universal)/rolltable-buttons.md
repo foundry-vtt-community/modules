@@ -1,8 +1,8 @@
 ## Roll Table Buttons
 
 * **Author**: RaySSharma#4736 on Discord
-* **Version**: 0.3.0
-* **Foundry VTT Compatibility**: 0.4.3+
+* **Version**: 0.3.1
+* **Foundry VTT Compatibility**: 0.4.4+
 * **System Compatibility (If applicable)**: Universal
 * **Module Requirement(s)**: None
 * **Module Conflicts**: None
