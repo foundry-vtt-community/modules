@@ -375,7 +375,7 @@ This module imports most facets of a campaign, including scenes, dynamic lightin
 ## [Request Roll](Foundry%20VTT%20Modules%20for%20DnD%205E/request_roll.md)
 Request Roll is a module designed to help Gamemasters speed up the rolling process by requesting rolls from PCs. This can help reduce player navigation time, questions about where a roll is located, and other unforseen delays that cause chokepoitns in your game. You can select from a range of options varying from hidden rolls, where only the gm knows, to rolls with advantage or disadvantage! Consider installing this module to speed along your game!
 
-## [Sky's 5th Edition Dungeons & Dragons Sheet](Foundry%20VTT%20Modules%20for%20DnD%205E/sky5e.md)
+## [Sky's 5th Edition Dungeons & Dragons Sheet](Foundry%20VTT%20Modules%20for%20DnD%205E/alt5e.md)
 This module provides a variant layout of the Core 5e Character Sheet in Foundry as well as providing some upgrades to various sections of the sheet.
 
 ## [Stat Drawer](Foundry%20VTT%20Modules%20for%20DnD%205E/statdrawer.md)
