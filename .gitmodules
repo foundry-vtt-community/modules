@@ -224,3 +224,6 @@
 [submodule "Foundry VTT Modules for DnD 5E/pin-cushion"]
 	path = Foundry VTT Modules for DnD 5E/pin-cushion
 	url = https://github.com/death-save/pin-cushion
+[submodule "Foundry VTT Modules (Universal)/theatre"]
+	path = Foundry VTT Modules (Universal)/theatre
+	url = https://gitlab.com/NoahZorbaugh/theatre

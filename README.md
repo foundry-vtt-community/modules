@@ -65,6 +65,7 @@ git submodule update name-of-the-module
       * [Search Anywhere](#search-anywhere)
       * [Skycons](#skycons)
       * [SVG Loader](#svg-loader)
+      * [Theater Inserts](#theater-inserts)
       * [Tiles Browser](#tiles-browser)
       * [Token Mold](#token-mold)
       * [Torch](#torch)
@@ -258,6 +259,9 @@ Save/restore window position whem minimizing/maximizing.
 
 ## [SVG Loader](Foundry%20VTT%20Modules%20%28Universal%29/svg-loader.md)
 This module allows to load walls, lights and sources through .svg files, provided e.g. by DungeonFog.
+
+## [Theater Inserts](Foundry%20VTT%20Modules%20%28Universal%29/theatre.md)
+Theatre is a mod that allows for a visual novel style RP experience for text, and text-voice hybrid games. The primary function of Theatre is to allow for graphical 'theatre-inserts' or 'standin-graphics' to appear on screen with an accompanying area for text beneath them. This follows the style of visual novels, and even provides a means to animate or decorate the text as it appears in the below box. It also provides an emote system to allow users to configure different graphics for the various emotive expressions. Most of the emotes additionally have a built in 'emote animation' that occurs when the emote is selected, which can be toggled off globally if undesired.
 
 ## [Tiles Browser](Foundry%20VTT%20Modules%20%28Universal%29/tiles-browser.md)
 Adds a browser to the tiles layer to conveniently preview and then drag and drop tiles onto the scene. Providing additional features to manipulate tile rotation and size while dragging.
