@@ -203,7 +203,7 @@ This module adds weather effects to choose from in the scene configuration menu.
 ## [GM Notes](Foundry%20VTT%20Modules%20%28Universal%29/gm-notes.md)
 A Foundry VTT Module to add GM-Only notes to entities (Actor, Items (including owned items), RollTable and JournalEntry). This module is system independet, but has an additional feature to easily move GM notes to or from the actors bio, items description or JournalEntrys content.
 
-## [GM Scene Background](Foundry%20VTT%20Modules%20%28Universal%29/gm-bg.md)
+## [GM Scene Background](Foundry%20VTT%20Modules%20%28Universal%29/Link.md)
 Allows GMs to set a GM-only background image.
 
 ## [Grid Scaler](Foundry%20VTT%20Modules%20%28Universal%29/scaleGrid.md)
