@@ -37,6 +37,7 @@ git submodule update name-of-the-module
       * [Dice Calculator](#dice-calculator)
       * [Discord Rich Presence](#discord-rich-presence)
       * [Display Mode](#display-mode)
+      * [Dungeondraft Import](#dungeondraft-import)
       * [Easy Target](#easy-target)
       * [Enhanced Playlist](#enhanced-playlist)
       * [FFG Roller](#ffg-roller)
@@ -181,6 +182,9 @@ Enables Discord Rich Presence and Invites for http://foundryvtt.com/
 
 ## [Display Mode](Foundry%20VTT%20Modules%20%28Universal%29/displaymode.md)
 This module makes it so that when you click the anvil in the top left of the screen, the sidebar in Foundry is hidden.
+
+## [Dungeondraft Import](Foundry%20VTT%20Modules%20%28Universal%29/Moo%20Man%237518.md)
+
 
 ## [Enhanced Playlist](Foundry%20VTT%20Modules%20%28Universal%29/tweakplaylist.md)
 Enhancements to Foundry playlists, including making playlists visible only to the GM, and allowing for random delays and volume changes in looped sounds.
