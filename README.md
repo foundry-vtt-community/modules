@@ -25,7 +25,6 @@ git submodule update name-of-the-module
    * [Foundry VTT Modules (Universal)](#foundry-vtt-modules-universal)
       * [About Time](#about-time)
       * [Always Show Notes](#always-show-notes)
-      * [Anvil Menu](#anvil-menu)
       * [Arcane Viewing](#arcane-viewing)
       * [Babele](#babele)
       * [BubbleRolls](#bubblerolls)
@@ -118,6 +117,7 @@ git submodule update name-of-the-module
       * [Rough Nights &amp; Hard Days](#rough-nights--hard-days)
    * [Foundry VTT Modules (Defunct)](#foundry-vtt-modules-defunct)
       * [Actually Private Rolls](#actually-private-rolls)
+       * [Anvil Menu](#anvil-menu)
       * [Chat Damage Buttons - Better Rolls Edition](#chat-damage-buttons---better-rolls-edition)
       * [DDB Popper (use VTTA-DNDBEYOND instead)](#ddb-popper-use-vtta-dndbeyond-instead)
       * [DnD Beyond Character Importer (non-functional -- use VTTA-D&amp;D Beyond Integration instead)](#dnd-beyond-character-importer-non-functional----use-vtta-dd-beyond-integration-instead)
@@ -146,9 +146,6 @@ Supports a pseudo real time game clock withe events and arbitrary calendars.
 
 ## [Always Show Notes](Foundry%20VTT%20Modules%20%28Universal%29/alwaysshownotes.md)
 Sets the Display Notes toggle to true by default
-
-## [Anvil Menu](Foundry%20VTT%20Modules%20%28Universal%29/foundry-vtt-anvil-menu.md)
-Adds a context menu to Foundry's Anvil logo in the top left of the screen. This module adds entries to the menu to put the application into Fullscreen mode, as well as providing the ability to toggle the visibility of the main UI components.
 
 ## [Arcane Viewing](Foundry%20VTT%20Modules%20%28Universal%29/Arcane%20Viewing.md)
 Arcane Viewing adds Audio/Video conferencing support directly from within FVTT.
@@ -421,6 +418,9 @@ Foundry VTT modules that no longer work are noted here. Modules included here ha
 
 ## [Actually Private Rolls](Foundry%20VTT%20Modules%20%28Defunct%29/Actually-Private-Rolls.md)
 Hides Private GM Rolls completely rather then just obfuscating the result.
+
+## [Anvil Menu](Foundry%20VTT%20Modules%20%28Defunct%29/foundry-vtt-anvil-menu.md)
+
 
 ## [Chat Damage Buttons - Better Rolls Edition](Foundry%20VTT%20Modules%20%28Defunct%29/Better%20Rolls%20for%205e.md)
 A small module to add "Apply Damage" buttons to Red Reigns Better Rolls 5e Module, based on hookings Chat Damage Buttons.

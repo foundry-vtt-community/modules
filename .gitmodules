@@ -227,3 +227,6 @@
 [submodule "Foundry VTT Modules (Universal)/theatre"]
 	path = Foundry VTT Modules (Universal)/theatre
 	url = https://gitlab.com/NoahZorbaugh/theatre
+[submodule "Foundry VTT Modules (Defunct)/foundry-vtt-anvil-menu"]
+	path = Foundry VTT Modules (Defunct)/foundry-vtt-anvil-menu
+	url = https://gitlab.com/Ionshard/foundry-vtt-anvil-menu
