@@ -15,6 +15,4 @@
 * Extends the character creation capabilities to gnomes, including their stats, background, features. 
 * Also includes pub games
 * Adds campaign scenario content (see [readme.md](https://github.com/Jagusti/fvtt-wfrp4e-rnhd/blob/master/README.md) for current coverage)
-
 ---
-

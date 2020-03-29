@@ -30,7 +30,6 @@ git submodule update name-of-the-module
       * [BubbleRolls](#bubblerolls)
       * [Bullseye](#bullseye)
       * [Calendar/Weather](#calendarweather)
-      * [Features:](#features)
       * [Chat Autoloader](#chat-autoloader)
       * [Combat Utility Belt (Beta)](#combat-utility-belt-beta)
       * [Cursor Hider](#cursor-hider)
@@ -117,6 +116,7 @@ git submodule update name-of-the-module
    * [Foundry VTT Modules for WFRP 4E](#foundry-vtt-modules-for-wfrp-4e)
       * [Arcane Marks &amp; Careers](#arcane-marks--careers)
       * [Rough Nights &amp; Hard Days](#rough-nights--hard-days)
+      * [Gerwin Waffenhalter’s Magnificent Weapons Gallery](#gerwin-waffenhalters-magnificent-weapons-gallery)
    * [Foundry VTT Modules (Defunct)](#foundry-vtt-modules-defunct)
       * [Actually Private Rolls](#actually-private-rolls)
       * [Anvil Menu](#anvil-menu)
@@ -416,6 +416,9 @@ Foundry modules that work within Warhammer Fantasy Roleplay 4th Edition are note
 
 ## [Rough Nights & Hard Days](Foundry%20VTT%20Modules%20for%20WFRP%204E/fvtt-wfrp4e-rnhd.md)
 
+
+## [Gerwin Waffenhalter’s Magnificent Weapons Gallery](Foundry%20VTT%20Modules%20for%20WFRP%204E/wfrp-gwmwg.md)
+This module adds the 'Slashing' weapon quality as well as the expanded weapons from [The Ratter Vol. 1 Issue 2](https://indd.adobe.com/view/763c1883-228a-455f-a115-19f4059f4589)
 
 # Foundry VTT Modules (Defunct)
 
