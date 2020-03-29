@@ -28,6 +28,7 @@ git submodule update name-of-the-module
       * [Arcane Viewing](#arcane-viewing)
       * [Babele](#babele)
       * [BubbleRolls](#bubblerolls)
+      * [Bullseye](#bullseye)
       * [Calendar/Weather](#calendarweather)
       * [Features:](#features)
       * [Chat Autoloader](#chat-autoloader)
@@ -156,6 +157,9 @@ Babele is a module for runtime translation of Compendium packs.
 
 ## [BubbleRolls](Foundry%20VTT%20Modules%20%28Universal%29/foundryvtt-bubblerolls.md)
 This module displays Actor Rolls in Chat Bubbles located on just above the Token. This module makes it easy for contributors to add templates of their own. More information on the gitlab link.
+
+## [Bullseye](Foundry%20VTT%20Modules%20%28Universal%29/foundry-vtt-bullseye.md)
+This module adds a new Bullseye Application that shows all the currently active player's selected targets in a list. Allowing easy access to select and control the tokens your players are targeting.
 
 ## [Calendar/Weather](Foundry%20VTT%20Modules%20%28Universal%29/about-time.md)
 A customizable module that accurately tracks and displays dates and time.

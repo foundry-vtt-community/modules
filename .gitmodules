@@ -230,3 +230,6 @@
 [submodule "Foundry VTT Modules (Defunct)/foundry-vtt-anvil-menu"]
 	path = Foundry VTT Modules (Defunct)/foundry-vtt-anvil-menu
 	url = https://gitlab.com/Ionshard/foundry-vtt-anvil-menu
+[submodule "Foundry VTT Modules (Universal)/foundry-vtt-bullseye"]
+	path = Foundry VTT Modules (Universal)/foundry-vtt-bullseye
+	url = https://gitlab.com/Ionshard/foundry-vtt-bullseye
