@@ -1,8 +1,8 @@
 ## Maestro
 
 * **Author**: Evan Clarke (errational#2007) (Donation/Sponsor? Sponsor button in the first link below)
-* **Version**: 0.5.0
-* **Foundry VTT Compatibility**: 0.4.4+
+* **Version**: 0.6.3
+* **Foundry VTT Compatibility**: 0.5.1+
 * **System Compatibility (If applicable)**: N/A
 * **Module Requirement(s)**: N/A
 * **Module Conflicts**: Hype Track (deprecated by this module)
