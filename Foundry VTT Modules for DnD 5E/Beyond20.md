@@ -11,14 +11,15 @@
 ### Link(s) to Module
 * [https://github.com/kakaroto/Beyond20/](https://github.com/kakaroto/Beyond20/)
 * [https://raw.githubusercontent.com/kakaroto/Beyond20/master/FVTT-module/beyond20/module.json](https://raw.githubusercontent.com/kakaroto/Beyond20/master/FVTT-module/beyond20/module.json)
+* [Official browser extension website](https://beyond20.here-for-more.info)
 
 The module is available under the 'FVTT-module' directory.
 
-If using FVTT 0.3.x, you can install this version : 
-* [https://raw.githubusercontent.com/kakaroto/Beyond20/0.3.x/FVTT-module/beyond20/module.json](https://raw.githubusercontent.com/kakaroto/Beyond20/0.3.x/FVTT-module/beyond20/module.json)
-
 ### Description
-This module allows you to use and roll sheets in DnD Beyond, and have those results displayed in Foundry VTT. For more details, see Kakaroto’s module page and readme files.
+This module allows you to use and roll sheets in DnD Beyond, and have those results displayed in Foundry VTT. For more details, see Kakaroto’s module page and readme files, or the official website.
+
+The FVTT module allows other players who do not have the browser extension installed to see the rolls properly formatted, and allows the condition mapping to work correctly with the token status effect icons.
+
 
 ---
 

@@ -149,9 +149,6 @@ Supports a pseudo real time game clock withe events and arbitrary calendars.
 ## [Always Show Notes](Foundry%20VTT%20Modules%20%28Universal%29/alwaysshownotes.md)
 Sets the Display Notes toggle to true by default
 
-## [Arcane Viewing](Foundry%20VTT%20Modules%20%28Universal%29/Arcane%20Viewing.md)
-Arcane Viewing adds Audio/Video conferencing support directly from within FVTT.
-
 ## [Babele](Foundry%20VTT%20Modules%20%28Universal%29/foundryvtt-babele.md)
 Babele is a module for runtime translation of Compendium packs.
 
@@ -201,7 +198,7 @@ This adds a simple dice rolling window for the special dice used in Fantasy Flig
 TLDR: Create token automated token patrols
 
 ## [The Furnace](Foundry%20VTT%20Modules%20%28Universal%29/fvtt-module-furnace.md)
-The Furnace is an essential part of every Foundry. This Foundry VTT module brings Quality of Life Improvements to the VTT.
+This module contains a set of features that improve the Quality of Life of the DMs and Players.
 
 ## [FX Master](Foundry%20VTT%20Modules%20%28Universal%29/foundryvtt-fxmaster.md)
 This module adds weather effects to choose from in the scene configuration menu. You can now have animated flying birds, bubbles, embers and clouds.
@@ -240,7 +237,7 @@ Allows trusted players to drag items and actors they own to the canvas as long a
 Adds an option to the settings dialog to disable token movement animations. Tokens will drop immediately instead of sliding when dragged and dropped around the map with this setting enabled.
 
 ## [Permission Viewer](Foundry%20VTT%20Modules%20%28Universal%29/fvtt-module-permission-viewer.md)
-This Foundry VTT module displays colored diamonds/squares/circles to represent the players who have limited/observer/owner permissions on Entities (Actors, Journal entries, Items, etc..)
+This Foundry VTT module allows a GM to quickly share actors, journal entries, items, etc.. with their players and displays colored diamonds/squares/circles to represent which players have which access to the various Entities.
 
 ## [Pings](Foundry%20VTT%20Modules%20%28Universal%29/pings.md)
 
@@ -249,7 +246,7 @@ This Foundry VTT module displays colored diamonds/squares/circles to represent t
 This module aims to simplify the process of adding multiple music tracks to Foundry VTT, doing so in a timely manner.
 
 ## [Popout!](Foundry%20VTT%20Modules%20%28Universal%29/fvtt-module-popout.md)
-This Foundry VTT module lets you pop out journal entries and actor sheets into their own windows.
+This Foundry VTT module lets you pop out journal entries and actor sheets into their own windows or into separate tabs.
 
 ## [Pointer](Foundry%20VTT%20Modules%20%28Universal%29/pointer.md)
 This module adds the ability for each user to show a cursor following his mouse as well as adding the option to ping a certain location.
@@ -305,7 +302,7 @@ This module overwrites the default NPC sheet that comes shipped with the dnd5e s
 This module modifies certain sheet functions on Foundry VTT Character sheets for D&D 5th Edition. Currently, it adds compound rolls (for attack rolls and damage rolls combined), as well as "dual rolls" for all attacks, ability checks, and saving throws, rolling 2 d20s side-by-side in a single chat message. Additionally, it allows for configurable quick rolls for each item that can show desired details & rolls of an item on the sheet whenever it's clicked. On top of all this are a few options to customize layout and enable/disable certain features of the module.
 
 ## [Beyond 20](Foundry%20VTT%20Modules%20for%20DnD%205E/Beyond20.md)
-This module allows you to use and roll sheets in DnD Beyond, and have those results displayed in Foundry VTT. For more details, see Kakaroto’s module page and readme files.
+This module allows you to use and roll sheets in DnD Beyond, and have those results displayed in Foundry VTT. For more details, see Kakaroto’s module page and readme files, or the official website.
 
 ## [Chat Damage Buttons](Foundry%20VTT%20Modules%20for%20DnD%205E/foundry-vtt---chat-damage-buttons.md)
 This module replaces the right-click context menu with buttons on the dice-roll chat message. This allows for quicker application of damage/healing.
@@ -380,7 +377,7 @@ Talk to others using a language your selected character can understand and scram
 A module for Foundry VTT that lets you polymorph characters into any other character! Just drag any Actor (NPC or Character) on top of another Actor to change the later into the prior. Support dropping both from Compendium or the sidebar.
 
 ## [Roll20 Converter](Foundry%20VTT%20Modules%20for%20DnD%205E/Roll20%20Converter.md)
-This module imports most facets of a campaign, including scenes, dynamic lighting, basic sheet information, and more. It currently does not include thorough actor information (either for PCs or NPCs), or items. Bear in mind that exporting a campaign from Roll20 may violate the EULA.
+This module is a PC application that imports most facets of a Roll 20 campaign, including scenes, walls, dynamic lighting, character sheets (D&D 5e), handouts, chat logs and more.
 
 ## [Request Roll](Foundry%20VTT%20Modules%20for%20DnD%205E/request_roll.md)
 Request Roll is a module designed to help Gamemasters speed up the rolling process by requesting rolls from PCs. This can help reduce player navigation time, questions about where a roll is located, and other unforseen delays that cause chokepoitns in your game. You can select from a range of options varying from hidden rolls, where only the gm knows, to rolls with advantage or disadvantage! Consider installing this module to speed along your game!
@@ -429,6 +426,9 @@ Hides Private GM Rolls completely rather then just obfuscating the result.
 
 ## [Anvil Menu](Foundry%20VTT%20Modules%20%28Defunct%29/foundry-vtt-anvil-menu.md)
 
+
+## [Arcane Viewing (module integrated into core)](Foundry%20VTT%20Modules%20%28Defunct%29/Arcane%20Viewing%20%28module%20integrated%20into%20core%29.md)
+Arcane Viewing adds Audio/Video conferencing support directly from within FVTT.
 
 ## [Chat Damage Buttons - Better Rolls Edition](Foundry%20VTT%20Modules%20%28Defunct%29/Better%20Rolls%20for%205e.md)
 A small module to add "Apply Damage" buttons to Red Reigns Better Rolls 5e Module, based on hookings Chat Damage Buttons.

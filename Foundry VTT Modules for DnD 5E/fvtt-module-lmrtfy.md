@@ -1,8 +1,8 @@
 ## Let Me Roll That For You! (LMRTFY)
 
 * **Author**: KaKaRoTo#4756 on Discord. His Patreon can be found here: [https://www.patreon.com/kakaroto](https://www.patreon.com/kakaroto)
-* **Version**: 0.4.1
-* **Foundry VTT Compatibility**: 0.4.0
+* **Version**: 0.6
+* **Foundry VTT Compatibility**: 0.4.4+, 0.5.0+
 * **System Compatibility (If applicable)**: D&D 5e
 * **Module Requirement(s)**: None
 * **Module Conflicts**: None
