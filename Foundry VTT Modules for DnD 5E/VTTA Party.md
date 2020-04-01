@@ -1,19 +1,21 @@
 ## VTTA Party
 
 * **Author**: solfolango77#0880 on Discord. His Patreon can be found here: [https://www.patreon.com/vttassets](https://www.patreon.com/vttassets) 
-* **Version**: v1.0.0
-* **Foundry VTT Compatibility**: 0.4.0+
+* **Version**: v2.1.3
+* **Foundry VTT Compatibility**: 0.4.4+
 * **System Compatibility (If applicable)**:
 * **Module Requirement(s)**: None
 * **Module Conflicts**:
 * **Translation Support**: EN (full)
 
 ### Link(s) to Module
-* [https://www.vttassets.com/asset/vtta-party](https://www.vttassets.com/asset/vtta-party)
+* [https://www.vttassets.com/assets/vtta-party](https://www.vttassets.com/assets/vtta-party)
 
 ### Description
-Successor to fvtt-party, which is discontinued as of now. Provides both an overview about the party in regards to AC, HP, and passive perception/investigation/insight and adds tooltips for the actors of the currently active scene.
-Configurable options for granting players access to both features, or to use it for GMs only.
+The overview window acts intelligently to not overload you with characters and NPCs:
+* only tokens that are owned by a player and
+* that are **placed on the currently active scene**
+are shown. If that is still to much you can toggle the eye button to quickly show or hide a specific actor
 
 ---
 

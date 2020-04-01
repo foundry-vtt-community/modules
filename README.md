@@ -69,6 +69,7 @@ git submodule update name-of-the-module
       * [Tiles Browser](#tiles-browser)
       * [Token Mold](#token-mold)
       * [Torch](#torch)
+      * [Trigger Happy](#trigger-happy)
       * [VTTA Iconizer](#vtta-iconizer)
       * [VTTA Tokenizer](#vtta-tokenizer)
       * [ZoomKey](#zoomkey)
@@ -275,6 +276,9 @@ What is a foundry without its molds? This module provides you with a customizabl
 ## [Torch](Foundry%20VTT%20Modules%20%28Universal%29/torch.md)
 Adds a HUD button to toggle light of a specific radius. For the dnd5e system, will also deduct torches from inventory when turned on if the Actor does not know the Light or Dancing Lights cantrips. For Dancing Lights, creates four Dancing Light tokens for the player as long as there is a GM connected.
 
+## [Trigger Happy](Foundry%20VTT%20Modules%20%28Universal%29/fvtt-module-trigger-happy.md)
+This module adds a trigger->effect system for creating triggers and automating things within a world.
+
 ## [VTTA Iconizer](Foundry%20VTT%20Modules%20%28Universal%29/VTTA%20Iconizer.md)
 Iconizer watches the creation of items in your world, and tries to find a suitable icon from a pre-populated name/icon dictionary. All you need to do, is
 
@@ -392,10 +396,10 @@ A module for Foundry VTT that lets you generate ablitiy scores for characters us
 Simple module that displays Speed, AC, and Passive Perception on Tokens for the GM.
 
 ## [VTTA D&D Beyond Integration](Foundry%20VTT%20Modules%20for%20DnD%205E/VTTA%20D%26D%20Beyond%20Integration.md)
-The integration module provides you with the possibility to import
+Foundry VTT Modules (Defunct) Foundry VTT Modules (Universal) Foundry VTT Modules for 13th Age Foundry VTT Modules for DnD 5E Foundry VTT Modules for GURPS Foundry VTT Modules for WFRP 4E README.md csplit-modules-00 csplit-modules-25 csplit-modules-35 csplit-sections-00 csplit-sections-01 csplit-sections-02 csplit-sections-03 csplit-sections-04 csplit-sections-05 csplit-sections-06 csplit-sections-07 header.md modules.md update_modules.sh By clicking an inserted button on any D&D Beyond monster's page, you can **import that monster** straight into the game, with **all stats, all actions, all attacks, reactions and legendary actions**, fully Foundry compatible and up to date to the latest changes
 
 ## [VTTA Party](Foundry%20VTT%20Modules%20for%20DnD%205E/VTTA%20Party.md)
-Successor to fvtt-party, which is discontinued as of now. Provides both an overview about the party in regards to AC, HP, and passive perception/investigation/insight and adds tooltips for the actors of the currently active scene.
+The overview window acts intelligently to not overload you with characters and NPCs:
 
 # Foundry VTT Modules for GURPS
 

@@ -1,15 +1,15 @@
 ## VTTA Tokenizer
 
 * **Author**: solfolango77#0880 on Discord. His Patreon can be found here: [https://www.patreon.com/vttassets](https://www.patreon.com/vttassets) 
-* **Version**: v1.0.12
-* **Foundry VTT Compatibility**: 0.4.3+
+* **Version**: v2.0.2
+* **Foundry VTT Compatibility**: 0.4.4+
 * **System Compatibility (If applicable)**: "dnd5e", "pf2e", "archmage" - shout out if I should anything, thanks!
 * **Module Requirement(s)**: Requires the player permission "Trusted Player"
 * **Module Conflicts**:
 * **Translation Support**: EN (full), DE (full)
 
 ### Link(s) to Module
-* [https://www.vttassets.com/asset/vtta-tokenizer](https://www.vttassets.com/asset/vtta-tokenizer)
+* [https://www.vttassets.com/assets/vtta-tokenizer](https://www.vttassets.com/assets/vtta-tokenizer)
 
 ### Description
 Tokenizer provides the user with:

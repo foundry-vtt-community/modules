@@ -1,15 +1,15 @@
 ## VTTA Iconizer
 
 * **Author**: solfolango77#0880 on Discord. His Patreon can be found here: [https://www.patreon.com/vttassets](https://www.patreon.com/vttassets) 
-* **Version**: v1.0.2
-* **Foundry VTT Compatibility**: 0.4.0+
+* **Version**: v2.1.2
+* **Foundry VTT Compatibility**: 0.4.4+
 * **System Compatibility (If applicable)**: "dnd5e" - shout out if I should anything, thanks!
 * **Module Requirement(s)**: 
 * **Module Conflicts**:
 * **Translation Support**: EN (full), DE (full)
 
 ### Link(s) to Module
-* [https://www.vttassets.com/asset/vtta-iconizer](https://www.vttassets.com/asset/vtta-iconizer)
+* [https://www.vttassets.com/assets/vtta-iconizer](https://www.vttassets.com/assets/vtta-iconizer)
 
 ### Description
 Iconizer watches the creation of items in your world, and tries to find a suitable icon from a pre-populated name/icon dictionary. All you need to do, is

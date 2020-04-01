@@ -233,3 +233,6 @@
 [submodule "Foundry VTT Modules (Universal)/foundry-vtt-bullseye"]
 	path = Foundry VTT Modules (Universal)/foundry-vtt-bullseye
 	url = https://gitlab.com/Ionshard/foundry-vtt-bullseye
+[submodule "Foundry VTT Modules (Universal)/fvtt-module-trigger-happy"]
+	path = Foundry VTT Modules (Universal)/fvtt-module-trigger-happy
+	url = https://github.com/kakaroto/fvtt-module-trigger-happy/

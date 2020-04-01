@@ -1,32 +1,21 @@
 ## VTTA D&D Beyond Integration
 
 * **Author**: solfolango77#0880 on Discord. His Patreon can be found here: [https://www.patreon.com/vttassets](https://www.patreon.com/vttassets) 
-* **Version**: v1.0.2
-* **Foundry VTT Compatibility**: 0.4.0+
+* **Version**: v2.0.3
+* **Foundry VTT Compatibility**: 0.4.4+
 * **System Compatibility (If applicable)**:
 * **Module Requirement(s)**: None
 * **Module Conflicts**:
 * **Translation Support**: EN (full), DE (full)
 
 ### Link(s) to Module
-* [https://www.vttassets.com/asset/vtta-dndbeyond](https://www.vttassets.com/asset/vtta-dndbeyond)
+* [https://www.vttassets.com/assets/vtta-dndbeyond](https://www.vttassets.com/assets/vtta-dndbeyond)
 
 ### Description
-The integration module provides you with the possibility to import
-
-* characters and their related
-* spells and
-* inventory items
-
-into the world and optionally into designated compendium packs (see [a suitable tiny module](https://www.vttassets.com/asset/shared) for a possible implementation). Is is supporting all features currently implemented into Foundry, including
-
-* Inventory: weapons, equipment, consumables (scrolls and potions), loot (everything else)
-* Character Features
-* Character Classes
-* Spells and
-* of course generic information like 
-    * Proficiencies: Adding everything on top of the generic,  support proficiency types
-    * Senses: Darkvision, including the token adjustments, so you don't need to do that manually
+* By clicking an inserted button on any D&D Beyond monster's page, you can **import that monster** straight into the game, with **all stats, all actions, all attacks, reactions and legendary actions**, fully Foundry compatible and up to date to the latest changes
+* The same works for **importing all spells** from any D&D Beyond spell page, empowering your NPCs in unimaginable ways
+* You can **import your D&D Beyond characters**, or better: Let your player's import their characters to have an great representation of their character right within Foundry.
+* Additionally, you can **roll monster checks, saves, spells and attacks** straight from the D&D Beyond monster's page without you opening NPC sheets within Foundry
 
 ---
 
