@@ -1,6 +1,6 @@
 ## Chat Damage Buttons - Beyond20 Edition
 
-* **Author**: GameGrue#7383 on Discord
+* **Author**: Ionshard#7383 on Discord
 * **Version**: 1.0.0
 * **Foundry VTT Compatibility**: 0.4.7
 * **System Compatibility (If applicable)**: Dungeons and Dragons 5th Edition

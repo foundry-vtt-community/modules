@@ -1,6 +1,6 @@
 ## Anvil Menu
 
-* **Author**: GameGrue#7383 on Discord
+* **Author**: Ionshard#7383 on Discord
 * **Version**: 0.1
 * **Foundry VTT Compatibility**: 0.3.7
 * **System Compatibility (If applicable)**: Universal

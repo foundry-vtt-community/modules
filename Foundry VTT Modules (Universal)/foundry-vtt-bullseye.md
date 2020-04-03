@@ -1,6 +1,6 @@
 ## Bullseye
 
-* **Author**: GameGrue#7383 on Discord
+* **Author**: Ionshard#7383 on Discord
 * **Version**: 0.1.1
 * **Foundry VTT Compatibility**: 0.5.0
 * **System Compatibility (If applicable)**: Universal
