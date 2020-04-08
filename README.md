@@ -30,6 +30,7 @@ git submodule update name-of-the-module
       * [Bullseye](#bullseye)
       * [Calendar/Weather](#calendarweather)
       * [Chat Autoloader](#chat-autoloader)
+      * [Chat Colors & More](#chat-colors--more)
       * [Combat Utility Belt (Beta)](#combat-utility-belt-beta)
       * [Cursor Hider](#cursor-hider)
       * [Deselection](#deselection)
@@ -164,6 +165,9 @@ A customizable module that accurately tracks and displays dates and time.
 
 ## [Chat Autoloader](Foundry%20VTT%20Modules%20%28Universal%29/chat-autoloader.md)
 This module improves loading times by only rendering the last few chat messages at page load. Older messages will automatically get rendered while scrolling to the top. (This behavior is similar to e.g. scrolling in Discords chat)
+
+## [Chat Colors & More](Foundry%20VTT%20Modules%20%28Universal%29/chat-colors-and-more.md)
+This module allows players to set custom colors for different types of chat messages (IC speech, emotes, rolls, and all other messages) in the Module Settings. Players can also specify a default chat prefix, which will be prefixed to all their chat messages that are not already commands.
 
 ## [Combat Utility Belt (Beta)](Foundry%20VTT%20Modules%20%28Universal%29/beta.md)
 You can read more about the module in the README @ (https://github.com/death-save/combat-utility-belt/tree/beta).

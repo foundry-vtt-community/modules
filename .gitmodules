@@ -236,3 +236,6 @@
 [submodule "Foundry VTT Modules (Universal)/fvtt-module-trigger-happy"]
 	path = Foundry VTT Modules (Universal)/fvtt-module-trigger-happy
 	url = https://github.com/kakaroto/fvtt-module-trigger-happy/
+[submodule "Foundry VTT Modules (Universal)/chat-colors-and-more"]
+	path = Foundry VTT Modules (Universal)/chat-colors-and-more
+	url = https://gitlab.com/lethekazhorai/chat-colors-and-more
