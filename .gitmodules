@@ -239,3 +239,6 @@
 [submodule "Foundry VTT Modules (Universal)/chat-colors-and-more"]
 	path = Foundry VTT Modules (Universal)/chat-colors-and-more
 	url = https://gitlab.com/lethekazhorai/chat-colors-and-more
+[submodule "Foundry VTT Modules (Defunct)/polymorpher"]
+	path = Foundry VTT Modules (Defunct)/polymorpher
+	url = https://github.com/syl3r86/polymorpher

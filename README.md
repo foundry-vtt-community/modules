@@ -24,6 +24,7 @@ git submodule update name-of-the-module
 <!--ts-->
    * [Foundry VTT Modules (Universal)](#foundry-vtt-modules-universal)
       * [About Time](#about-time)
+      * [Actually Private Rolls](#actually-private-rolls)
       * [Always Show Notes](#always-show-notes)
       * [Babele](#babele)
       * [BubbleRolls](#bubblerolls)
@@ -100,11 +101,9 @@ git submodule update name-of-the-module
       * [Max Crit Damage](#max-crit-damage)
       * [Minor QOL Improvements](#minor-qol-improvements)
       * [MyBeyond-Theme](#mybeyond-theme)
-      * [NPC Browser](#npc-browser)
       * [Obsidian Character Sheets](#obsidian-character-sheets)
       * [Pin Cushion](#pin-cushion)
       * [Polyglot](#polyglot)
-      * [Polymorpher](#polymorpher)
       * [Roll20 Converter](#roll20-converter)
       * [Request Roll](#request-roll)
       * [Sky's 5th Edition Dungeons &amp; Dragons Sheet](#skys-5th-edition-dungeons--dragons-sheet)
@@ -119,7 +118,6 @@ git submodule update name-of-the-module
       * [Rough Nights &amp; Hard Days](#rough-nights--hard-days)
       * [Gerwin Waffenhalter’s Magnificent Weapons Gallery](#gerwin-waffenhalters-magnificent-weapons-gallery)
    * [Foundry VTT Modules (Defunct)](#foundry-vtt-modules-defunct)
-      * [Actually Private Rolls](#actually-private-rolls)
       * [Anvil Menu](#anvil-menu)
       * [Arcane Viewing (module integrated into core)](#arcane-viewing-module-integrated-into-core)
       * [Chat Damage Buttons - Better Rolls Edition](#chat-damage-buttons---better-rolls-edition)
@@ -132,6 +130,7 @@ git submodule update name-of-the-module
       * [Infinite Folders](#infinite-folders)
       * [Journal Drag](#journal-drag)
       * [NPC Browser](#npc-browser-1)
+      * [Polymorpher](#polymorpher)
       * [Roll20 NPC Importer, for 5e](#roll20-npc-importer-for-5e)
       * [Spell Browser](#spell-browser)
       * [SRD Bestiary Module](#srd-bestiary-module)
@@ -147,6 +146,9 @@ Foundry modules that work across all or most systems are noted here. These may i
 
 ## [About Time](Foundry%20VTT%20Modules%20%28Universal%29/about-time.md)
 Supports a pseudo real time game clock withe events and arbitrary calendars.
+
+## [Actually Private Rolls](Foundry%20VTT%20Modules%20%28Universal%29/Actually-Private-Rolls.md)
+Hides Private GM Rolls completely rather then just obfuscating the result.
 
 ## [Always Show Notes](Foundry%20VTT%20Modules%20%28Universal%29/alwaysshownotes.md)
 Sets the Display Notes toggle to true by default
@@ -372,17 +374,11 @@ Link: https://gitlab.com/tposney/minor-qol
 ## [MyBeyond-Theme](Foundry%20VTT%20Modules%20for%20DnD%205E/MyBeyond-Theme.md)
 A simple css overwrite that brings the character sheet into a DnDBeyond like style without changing the function of the character sheet.
 
-## [NPC Browser](Foundry%20VTT%20Modules%20for%20DnD%205E/npc-browser.md)
-This module adds a search interface for actors. This enables more comfortable browsing and searching via predefined filters like challenge rating, type or ability score.
-
 ## [Pin Cushion](Foundry%20VTT%20Modules%20for%20DnD%205E/pin-cushion.md)
 Changes map pin icon selection to filepicker
 
 ## [Polyglot](Foundry%20VTT%20Modules%20for%20DnD%205E/fvtt-module-polyglot.md)
 Talk to others using a language your selected character can understand and scrambles in-character text you can't understand.
-
-## [Polymorpher](Foundry%20VTT%20Modules%20for%20DnD%205E/polymorpher.md)
-A module for Foundry VTT that lets you polymorph characters into any other character! Just drag any Actor (NPC or Character) on top of another Actor to change the later into the prior. Support dropping both from Compendium or the sidebar.
 
 ## [Roll20 Converter](Foundry%20VTT%20Modules%20for%20DnD%205E/Roll20%20Converter.md)
 This module is a PC application that imports most facets of a Roll 20 campaign, including scenes, walls, dynamic lighting, character sheets (D&D 5e), handouts, chat logs and more.
@@ -400,7 +396,7 @@ A module for Foundry VTT that lets you generate ablitiy scores for characters us
 Simple module that displays Speed, AC, and Passive Perception on Tokens for the GM.
 
 ## [VTTA D&D Beyond Integration](Foundry%20VTT%20Modules%20for%20DnD%205E/VTTA%20D%26D%20Beyond%20Integration.md)
-Foundry VTT Modules (Defunct) Foundry VTT Modules (Universal) Foundry VTT Modules for 13th Age Foundry VTT Modules for DnD 5E Foundry VTT Modules for GURPS Foundry VTT Modules for WFRP 4E README.md csplit-modules-00 csplit-modules-25 csplit-modules-35 csplit-sections-00 csplit-sections-01 csplit-sections-02 csplit-sections-03 csplit-sections-04 csplit-sections-05 csplit-sections-06 csplit-sections-07 header.md modules.md update_modules.sh By clicking an inserted button on any D&D Beyond monster's page, you can **import that monster** straight into the game, with **all stats, all actions, all attacks, reactions and legendary actions**, fully Foundry compatible and up to date to the latest changes
+Foundry VTT Modules (Defunct) Foundry VTT Modules (Universal) Foundry VTT Modules for 13th Age Foundry VTT Modules for DnD 5E Foundry VTT Modules for GURPS Foundry VTT Modules for WFRP 4E README.md csplit-modules-00 csplit-modules-24 csplit-modules-33 csplit-sections-00 csplit-sections-01 csplit-sections-02 csplit-sections-03 csplit-sections-04 csplit-sections-05 csplit-sections-06 csplit-sections-07 header.md modules.md update_modules.sh By clicking an inserted button on any D&D Beyond monster's page, you can **import that monster** straight into the game, with **all stats, all actions, all attacks, reactions and legendary actions**, fully Foundry compatible and up to date to the latest changes
 
 ## [VTTA Party](Foundry%20VTT%20Modules%20for%20DnD%205E/VTTA%20Party.md)
 The overview window acts intelligently to not overload you with characters and NPCs:
@@ -428,9 +424,6 @@ This module adds the 'Slashing' weapon quality as well as the expanded weapons f
 # Foundry VTT Modules (Defunct)
 
 Foundry VTT modules that no longer work are noted here. Modules included here have been defunct for at least one month. This exists to help document previous work on Foundry Virtual Tabletop by the community, as well as to exist as a record for anyone who chooses to remain on a previous version of Foundry VTT.  
-
-## [Actually Private Rolls](Foundry%20VTT%20Modules%20%28Defunct%29/Actually-Private-Rolls.md)
-Hides Private GM Rolls completely rather then just obfuscating the result.
 
 ## [Anvil Menu](Foundry%20VTT%20Modules%20%28Defunct%29/foundry-vtt-anvil-menu.md)
 
@@ -464,6 +457,9 @@ This Foundry VTT module allows you to create infinite depth of folders for Scene
 
 ## [NPC Browser](Foundry%20VTT%20Modules%20%28Defunct%29/npc-browser.md)
 This module adds a search interface for actors. This enables more comfortable browsing and searching via predefined filters like challenge rating, type or ability score.
+
+## [Polymorpher](Foundry%20VTT%20Modules%20%28Defunct%29/polymorpher.md)
+A module for Foundry VTT that lets you polymorph characters into any other character! Just drag any Actor (NPC or Character) on top of another Actor to change the later into the prior. Support dropping both from Compendium or the sidebar.
 
 ## [Roll20 NPC Importer, for 5e](Foundry%20VTT%20Modules%20%28Defunct%29/roll20npcimporter.md)
 This module allows for the importing of NPCs from Roll20, through use of JSONs exported via [VTT Enhancement Suite](https://ssstormy.github.io/roll20-enhancement-suite/). This import currently only supports NPCs created in the Roll20 OGL or Shaped version sheets. This module supports the Better NPC Sheet 5e, as well as the aDnD5e sheet in tagging actor items according to abilities, reactions, legendary actions, etc. To install, first download the module, unzip it into `/public/modules`, and then restart Foundry while it is running.
