@@ -33,6 +33,7 @@ git submodule update name-of-the-module
       * [Chat Autoloader](#chat-autoloader)
       * [Chat Colors &amp; More](#chat-colors--more)
       * [Combat Utility Belt (Beta)](#combat-utility-belt-beta)
+      * [Create Actors from Folder](#-create-actors-from-folder)
       * [Cursor Hider](#cursor-hider)
       * [Deselection](#deselection)
       * [Dice Calculator](#dice-calculator)
@@ -173,6 +174,9 @@ This module allows players to set custom colors for different types of chat mess
 
 ## [Combat Utility Belt (Beta)](Foundry%20VTT%20Modules%20%28Universal%29/beta.md)
 You can read more about the module in the README @ (https://github.com/death-save/combat-utility-belt/tree/beta).
+
+## [Create Actors from Folder](Foundry%20VTT%20Modules%20%28Universal%29/fvtt-create-actors-from-folder.md)
+Recursivly creates actors from images in specified folder
 
 ## [Cursor Hider](Foundry%20VTT%20Modules%20%28Universal%29/cursor-hider.md)
 

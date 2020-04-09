@@ -242,3 +242,6 @@
 [submodule "Foundry VTT Modules (Defunct)/polymorpher"]
 	path = Foundry VTT Modules (Defunct)/polymorpher
 	url = https://github.com/syl3r86/polymorpher
+[submodule "Foundry VTT Modules (Universal)/fvtt-create-actors-from-folder"]
+	path = Foundry VTT Modules (Universal)/fvtt-create-actors-from-folder
+	url = https://github.com/crobibero/fvtt-create-actors-from-folder
