@@ -57,6 +57,7 @@ git submodule update name-of-the-module
       * [Special Dice Roller](#special-dice-roller)
       * [Maestro](#maestro)
       * [Merge Walls](#merge-walls)
+      * [Modbox](#modbox)
       * [Mother, May I?](#mother-may-i)
       * [No Token Animations](#no-token-animations)
       * [Permission Viewer](#permission-viewer)
@@ -65,6 +66,7 @@ git submodule update name-of-the-module
       * [Popout!](#popout)
       * [Pointer](#pointer)
       * [Roll Table Buttons](#roll-table-buttons)
+      * [Route-Finder](#route-finder)
       * [Search Anywhere](#search-anywhere)
       * [Skycons](#skycons)
       * [SVG Loader](#svg-loader)
@@ -223,6 +225,9 @@ Allows GMs to set a GM-only background image.
 ## [Grid Scaler](Foundry%20VTT%20Modules%20%28Universal%29/scaleGrid.md)
 This mod allows you to resize a grid more easily within Foundry, allowing easier map setup when a grid is uneven or unclear within a background image.
 
+## [Image Drop](Foundry%20VTT%20Modules%20%28Universal%29/foundryvtt-image-drop.md)
+Allows dropping images from journal entries to the canvas as tiles.
+
 ## [Image Previewer](Foundry%20VTT%20Modules%20%28Universal%29/image-previewer.md)
 A little app to preview images on hover in the file picker menu.
 
@@ -240,6 +245,9 @@ Adds some sound-focused features to Foundry Virtual Tabletop!
 
 ## [Merge Walls](Foundry%20VTT%20Modules%20%28Universal%29/master.md)
 This module came about after looking at walls generated in DunGen and a discussion with Atropos about how to reduce the number or walls by merging neighbouring walls. For hand drawn maps there is only a small decrease but for DunGen and maps imported from Roll20 modules there can be 30% reduction in the number of walls. The results are not too far from hand crafted wall layouts.
+
+## [Modbox](Foundry%20VTT%20Modules%20%28Universal%29/foundryvtt-modbox.md)
+Adds an input box to the toolbar that applies a modifier to the next roll.
 
 ## [Mother, May I?](Foundry%20VTT%20Modules%20%28Universal%29/mother-may-i.md)
 Allows trusted players to drag items and actors they own to the canvas as long as a GM is logged in.
@@ -264,6 +272,9 @@ This module adds the ability for each user to show a cursor following his mouse 
 
 ## [Roll Table Buttons](Foundry%20VTT%20Modules%20%28Universal%29/rolltable-buttons.md)
 This module adds a button to the chat controls for easier access to rolltables. Came about as a way to add critical-hit decks for players.
+
+## [Route-Finder](Foundry%20VTT%20Modules%20%28Universal%29/foundry-vtt-pathfinding.md)
+A module to find the shortest route for a token to reach a chosen point.
 
 ## [Search Anywhere](Foundry%20VTT%20Modules%20%28Universal%29/foundryvtt-search-anywhere.md)
 A FoundryVTT Module that adds a way to quickly search for any entity by name via a handy auto-complete widget.

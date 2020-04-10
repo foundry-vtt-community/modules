@@ -245,3 +245,12 @@
 [submodule "Foundry VTT Modules (Universal)/fvtt-create-actors-from-folder"]
 	path = Foundry VTT Modules (Universal)/fvtt-create-actors-from-folder
 	url = https://github.com/crobibero/fvtt-create-actors-from-folder
+[submodule "Foundry VTT Modules (Universal)/foundryvtt-image-drop"]
+	path = Foundry VTT Modules (Universal)/foundryvtt-image-drop
+	url = https://gitlab.com/mesfoliesludiques/foundryvtt-image-drop
+[submodule "Foundry VTT Modules (Universal)/foundryvtt-modbox"]
+	path = Foundry VTT Modules (Universal)/foundryvtt-modbox
+	url = https://gitlab.com/mesfoliesludiques/foundryvtt-modbox
+[submodule "Foundry VTT Modules (Universal)/foundry-vtt-pathfinding"]
+	path = Foundry VTT Modules (Universal)/foundry-vtt-pathfinding
+	url = https://github.com/Exote/foundry-vtt-pathfinding
