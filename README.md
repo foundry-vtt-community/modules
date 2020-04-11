@@ -55,6 +55,7 @@ git submodule update name-of-the-module
       * [Image Previewer](#image-previewer)
       * [Layer Hotkeys](#layer-hotkeys)
       * [Less Fog](#less-fog)
+      * [Simple Dice Roller](#simple-dice-roller)
       * [Special Dice Roller](#special-dice-roller)
       * [Maestro](#maestro)
       * [Merge Walls](#merge-walls)
@@ -70,6 +71,7 @@ git submodule update name-of-the-module
       * [Route-Finder](#route-finder)
       * [Search Anywhere](#search-anywhere)
       * [Skycons](#skycons)
+      * [Squeaker](#squeaker)
       * [SVG Loader](#svg-loader)
       * [Theatre Inserts](#theatre-inserts)
       * [Tiles Browser](#tiles-browser)
@@ -226,6 +228,9 @@ Allows GMs to set a GM-only background image.
 ## [Grid Scaler](Foundry%20VTT%20Modules%20%28Universal%29/scaleGrid.md)
 This mod allows you to resize a grid more easily within Foundry, allowing easier map setup when a grid is uneven or unclear within a background image.
 
+## [Group Initiative](Foundry%20VTT%20Modules%20%28Universal%29/foundry-group-initiative.md)
+Allows rolling initiative once for each NPC group. Each NPC inside the group will use the same initiative result.
+
 ## [Image Drop](Foundry%20VTT%20Modules%20%28Universal%29/foundryvtt-image-drop.md)
 Allows dropping images from journal entries to the canvas as tiles.
 
@@ -237,6 +242,9 @@ This module adds hotkeys for switching layers and the active tool in canvas.
 
 ## [Less Fog](Foundry%20VTT%20Modules%20%28Universal%29/lessfog.md)
 Module to enhance visibility for the GM in Foundry VTT.
+
+## [Simple Dice Roller](Foundry%20VTT%20Modules%20%28Universal%29/fvtt---simple-dice-roller.md)
+
 
 ## [Special Dice Roller](Foundry%20VTT%20Modules%20%28Universal%29/foundryvtt-special-dice-roller.md)
 Supports rolling dice in your chat window for various non regular dice systems:
@@ -282,6 +290,9 @@ A FoundryVTT Module that adds a way to quickly search for any entity by name via
 
 ## [Skycons](Foundry%20VTT%20Modules%20%28Universal%29/skycons.md)
 Save/restore window position whem minimizing/maximizing.
+
+## [Squeaker](Foundry%20VTT%20Modules%20%28Universal%29/foundryvtt-squeaker.md)
+Adds settings to control sounds that trigger when a chat message is received. You can use custom sounds, disable roll sounds and enable chat sound notifications even when it's not whispered messages. Based on an original idea from @Gen Kitty (she/her). **Default settings don't change anything.**
 
 ## [SVG Loader](Foundry%20VTT%20Modules%20%28Universal%29/svg-loader.md)
 This module allows to load walls, lights and sources through .svg files, provided e.g. by DungeonFog.

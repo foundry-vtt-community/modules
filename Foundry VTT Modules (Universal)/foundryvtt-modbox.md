@@ -1,7 +1,7 @@
 ## Modbox
 
 * **U~man**: U~man#2374, contributions are welcome on core features, translations and new templates
-* **Version**: 0.0.1
+* **Version**: 0.0.3
 * **Foundry VTT Compatibility**: 0.5.0
 * **System Compatibility (If applicable)**: Universal
 * **Module Requirement(s)**: None

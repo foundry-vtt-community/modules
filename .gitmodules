@@ -254,3 +254,12 @@
 [submodule "Foundry VTT Modules (Universal)/foundry-vtt-pathfinding"]
 	path = Foundry VTT Modules (Universal)/foundry-vtt-pathfinding
 	url = https://github.com/Exote/foundry-vtt-pathfinding
+[submodule "Foundry VTT Modules (Universal)/foundry-group-initiative"]
+	path = Foundry VTT Modules (Universal)/foundry-group-initiative
+	url = https://github.com/tonifisler/foundry-group-initiative
+[submodule "Foundry VTT Modules (Universal)/fvtt---simple-dice-roller"]
+	path = Foundry VTT Modules (Universal)/fvtt---simple-dice-roller
+	url = https://gitlab.com/jopeek/fvtt---simple-dice-roller
+[submodule "Foundry VTT Modules (Universal)/foundryvtt-squeaker"]
+	path = Foundry VTT Modules (Universal)/foundryvtt-squeaker
+	url = https://gitlab.com/mesfoliesludiques/foundryvtt-squeaker
