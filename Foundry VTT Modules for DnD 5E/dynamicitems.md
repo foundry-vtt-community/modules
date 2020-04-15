@@ -1,12 +1,14 @@
 ## Dynamic Items
 
+**This module is obsolete and replaced with dynamic effects**  
+
 * **Author**: @tposney discord
 * **Version**: 0.0.45
 * **Foundry VTT Compatibility**: 0.4.4+ dnd 5e 0.80+. Requires 0.4.4+ and wont work with earlier versions.
 * **Module Requirement(s)**: None
 * **Module Conflicts**: None that I know of
 * **Translation Support**: English.
-* **Translation Support**: Japanese. Kingly provided by @BrotherSharp
+* **Translation Support**: Japanese. Kindly provided by @BrotherSharp
 
 ### Link(s) to Module
 * [https://gitlab.com/tposney/dynamicitems](https://gitlab.com/tposney/dynamicitems)

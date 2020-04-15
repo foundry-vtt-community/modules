@@ -263,3 +263,6 @@
 [submodule "Foundry VTT Modules (Universal)/foundryvtt-squeaker"]
 	path = Foundry VTT Modules (Universal)/foundryvtt-squeaker
 	url = https://gitlab.com/mesfoliesludiques/foundryvtt-squeaker
+[submodule "Foundry VTT Modules for DnD 5E/dynamiceffects"]
+	path = Foundry VTT Modules for DnD 5E/dynamiceffects
+	url = https://gitlab.com/tposney/dynamiceffects
