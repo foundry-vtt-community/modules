@@ -266,3 +266,6 @@
 [submodule "Foundry VTT Modules for DnD 5E/dynamiceffects"]
 	path = Foundry VTT Modules for DnD 5E/dynamiceffects
 	url = https://gitlab.com/tposney/dynamiceffects
+[submodule "Foundry VTT Modules (Universal)/FVTT-Teleport"]
+	path = Foundry VTT Modules (Universal)/FVTT-Teleport
+	url = https://github.com/knassher/FVTT-Teleport
