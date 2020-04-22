@@ -269,3 +269,6 @@
 [submodule "Foundry VTT Modules (Universal)/FVTT-Teleport"]
 	path = Foundry VTT Modules (Universal)/FVTT-Teleport
 	url = https://github.com/knassher/FVTT-Teleport
+[submodule "Foundry VTT Modules (Universal)/fvtt-better-filepicker"]
+	path = Foundry VTT Modules (Universal)/fvtt-better-filepicker
+	url = https://github.com/Adriannom/fvtt-better-filepicker

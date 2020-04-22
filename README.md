@@ -27,6 +27,7 @@ git submodule update name-of-the-module
       * [Actually Private Rolls](#actually-private-rolls)
       * [Always Show Notes](#always-show-notes)
       * [Babele](#babele)
+      * [Better FilePicker](#better-filepicker)
       * [BubbleRolls](#bubblerolls)
       * [Bullseye](#bullseye)
       * [Calendar/Weather](#calendarweather)
@@ -164,6 +165,9 @@ Sets the Display Notes toggle to true by default
 
 ## [Babele](Foundry%20VTT%20Modules%20%28Universal%29/foundryvtt-babele.md)
 Babele is a module for runtime translation of Compendium packs.
+
+## [Better FilePicker](Foundry%20VTT%20Modules%20%28Universal%29/fvtt-better-filepicker.md)
+Toggle image thumbnails in the file picker. Also improves file picker visibility on small screens.
 
 ## [BubbleRolls](Foundry%20VTT%20Modules%20%28Universal%29/foundryvtt-bubblerolls.md)
 This module displays Actor Rolls in Chat Bubbles located on just above the Token. This module makes it easy for contributors to add templates of their own. More information on the gitlab link.
