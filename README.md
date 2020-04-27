@@ -184,8 +184,8 @@ This module improves loading times by only rendering the last few chat messages 
 ## [Chat Colors & More](Foundry%20VTT%20Modules%20%28Universal%29/chat-colors-and-more.md)
 This module allows players to set custom colors for different types of chat messages (IC speech, emotes, rolls, and all other messages) in the Module Settings. Players can also specify a default chat prefix, which will be prefixed to all their chat messages that are not already commands.
 
-## [Combat Utility Belt (Beta)](Foundry%20VTT%20Modules%20%28Universal%29/beta.md)
-You can read more about the module in the README @ (https://github.com/death-save/combat-utility-belt/tree/beta).
+## [Combat Utility Belt](Foundry%20VTT%20Modules%20%28Universal%29/master.md)
+You can read more about the module in the README @ (https://github.com/death-save/combat-utility-belt/tree/master).
 
 ## [Create Actors from Folder](Foundry%20VTT%20Modules%20%28Universal%29/fvtt-create-actors-from-folder.md)
 Recursivly creates actors from images in specified folder
