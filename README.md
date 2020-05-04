@@ -71,6 +71,7 @@ git submodule update name-of-the-module
       * [Pointer](#pointer)
       * [Roll Table Buttons](#roll-table-buttons)
       * [Route-Finder](#route-finder)
+      * [Scaled Labels](#scaled-labels)
       * [Search Anywhere](#search-anywhere)
       * [Skycons](#skycons)
       * [Squeaker](#squeaker)
@@ -291,6 +292,9 @@ This module adds a button to the chat controls for easier access to rolltables. 
 
 ## [Route-Finder](Foundry%20VTT%20Modules%20%28Universal%29/foundry-vtt-pathfinding.md)
 A module to find the shortest route for a token to reach a chosen point.
+
+## [Scaled Labels](Foundry%20VTT%20Modules%20%28Universal%29/Scaled%20Labels.md)
+Scale labels of rulers and token nameplates when zoomed-out.
 
 ## [Search Anywhere](Foundry%20VTT%20Modules%20%28Universal%29/foundryvtt-search-anywhere.md)
 A FoundryVTT Module that adds a way to quickly search for any entity by name via a handy auto-complete widget.
