@@ -74,7 +74,7 @@ git submodule update name-of-the-module
       * [Scaled Labels](#scaled-labels)
       * [Search Anywhere](#search-anywhere)
       * [Skycons](#skycons)
-      * [Speaker Stats] (#speaker-stats)
+      * [Speaker Stats](#speaker-stats)
       * [Squeaker](#squeaker)
       * [SVG Loader](#svg-loader)
       * [Teleport](#teleport)
