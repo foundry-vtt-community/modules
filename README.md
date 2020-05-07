@@ -74,6 +74,7 @@ git submodule update name-of-the-module
       * [Scaled Labels](#scaled-labels)
       * [Search Anywhere](#search-anywhere)
       * [Skycons](#skycons)
+      * [Speaker Stats] (#speaker-stats)
       * [Squeaker](#squeaker)
       * [SVG Loader](#svg-loader)
       * [Teleport](#teleport)
@@ -301,6 +302,9 @@ A FoundryVTT Module that adds a way to quickly search for any entity by name via
 
 ## [Skycons](Foundry%20VTT%20Modules%20%28Universal%29/skycons.md)
 Save/restore window position whem minimizing/maximizing.
+
+## [Speaker Stats](Foundry%20VTT%20Modules%20%28Universal%29/foundryvtt-speakerstats.md)
+This FoundryVTT Module will add an button to the GM toolbar that allows to GM visualize the time spoken by each user as chat message.
 
 ## [Squeaker](Foundry%20VTT%20Modules%20%28Universal%29/foundryvtt-squeaker.md)
 Adds settings to control sounds that trigger when a chat message is received. You can use custom sounds, disable roll sounds and enable chat sound notifications even when it's not whispered messages. Based on an original idea from @Gen Kitty (she/her). **Default settings don't change anything.**
