@@ -275,3 +275,6 @@
 [submodule "Foundry VTT Modules (Universal)/foundryvtt-speakerstats"]
 	path = Foundry VTT Modules (Universal)/foundryvtt-speakerstats
 	url = https://gitlab.com/jvir/foundryvtt-speakerstats
+[submodule "Foundry VTT Modules for DnD 5E/ua_classfeaturevariants"]
+	path = Foundry VTT Modules for DnD 5E/ua_classfeaturevariants
+	url = https://github.com/Snake-Venom/ua_classfeaturevariants
