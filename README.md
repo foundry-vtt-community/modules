@@ -121,7 +121,6 @@ git submodule update name-of-the-module
       * [Sky's 5th Edition Dungeons &amp; Dragons Sheet](#skys-5th-edition-dungeons--dragons-sheet)
       * [Stat Drawer](#stat-drawer)
       * [Token Info Icons](#token-info-icons)
-      * [UA Class Feature Variants](#ua-class-feature-variants)
       * [VTTA D&amp;D Beyond Integration](#vtta-dd-beyond-integration)
       * [VTTA Party](#vtta-party)
    * [Foundry VTT Modules for GURPS](#foundry-vtt-modules-for-gurps)
@@ -444,11 +443,8 @@ A module for Foundry VTT that lets you generate ablitiy scores for characters us
 ## [Token Info Icons](Foundry%20VTT%20Modules%20for%20DnD%205E/fvtt---token-info-icons.md)
 Simple module that displays Speed, AC, and Passive Perception on Tokens for the GM.
 
-## [UA Class Feature Variants](Foundry%20VTT%20Modules%20for%20DnD%205E/ua_classfeaturevariants.md)
-This module adds all [UA Class Feature Variants](https://media.wizards.com/2019/dnd/downloads/UA-ClassFeatures.pdf) as a compendium for easier import into your D&D 5e games.
-
 ## [VTTA D&D Beyond Integration](Foundry%20VTT%20Modules%20for%20DnD%205E/VTTA%20D%26D%20Beyond%20Integration.md)
-Foundry VTT Modules (Defunct) Foundry VTT Modules (Universal) Foundry VTT Modules for 13th Age Foundry VTT Modules for DnD 5E Foundry VTT Modules for GURPS Foundry VTT Modules for WFRP 4E README.md csplit-modules-00 csplit-modules-25 csplit-modules-35 csplit-sections-00 csplit-sections-01 csplit-sections-02 csplit-sections-03 csplit-sections-04 csplit-sections-05 csplit-sections-06 csplit-sections-07 header.md modules.md update_modules.sh By clicking an inserted button on any D&D Beyond monster's page, you can **import that monster** straight into the game, with **all stats, all actions, all attacks, reactions and legendary actions**, fully Foundry compatible and up to date to the latest changes
+Foundry VTT Modules (Defunct) Foundry VTT Modules (Universal) Foundry VTT Modules for 13th Age Foundry VTT Modules for DnD 5E Foundry VTT Modules for GURPS Foundry VTT Modules for WFRP 4E README.md csplit-modules-00 csplit-modules-25 csplit-modules-34 csplit-sections-00 csplit-sections-01 csplit-sections-02 csplit-sections-03 csplit-sections-04 csplit-sections-05 csplit-sections-06 csplit-sections-07 header.md modules.md update_modules.sh By clicking an inserted button on any D&D Beyond monster's page, you can **import that monster** straight into the game, with **all stats, all actions, all attacks, reactions and legendary actions**, fully Foundry compatible and up to date to the latest changes
 
 ## [VTTA Party](Foundry%20VTT%20Modules%20for%20DnD%205E/VTTA%20Party.md)
 The overview window acts intelligently to not overload you with characters and NPCs:
