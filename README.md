@@ -27,6 +27,7 @@ git submodule update name-of-the-module
       * [Actually Private Rolls](#actually-private-rolls)
       * [Always Show Notes](#always-show-notes)
       * [Babele](#babele)
+      * [Background Volume](#background-volume)
       * [Better FilePicker](#better-filepicker)
       * [BubbleRolls](#bubblerolls)
       * [Bullseye](#bullseye)
@@ -167,6 +168,9 @@ Sets the Display Notes toggle to true by default
 
 ## [Babele](Foundry%20VTT%20Modules%20%28Universal%29/foundryvtt-babele.md)
 Babele is a module for runtime translation of Compendium packs.
+
+## [Background Volume](Foundry%20VTT%20Modules%20%28Universal%29/background-volume.md)
+Background Volume is a module for setting the volume of background videos.
 
 ## [Better FilePicker](Foundry%20VTT%20Modules%20%28Universal%29/fvtt-better-filepicker.md)
 Toggle image thumbnails in the file picker. Also improves file picker visibility on small screens.

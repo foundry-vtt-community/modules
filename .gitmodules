@@ -278,3 +278,6 @@
 [submodule "Foundry VTT Modules for DnD 5E/ua_classfeaturevariants"]
 	path = Foundry VTT Modules for DnD 5E/ua_classfeaturevariants
 	url = https://github.com/Snake-Venom/ua_classfeaturevariants
+[submodule "Foundry VTT Modules (Universal)/background-volume"]
+	path = Foundry VTT Modules (Universal)/background-volume
+	url = https://github.com/mtvjr/background-volume
