@@ -121,6 +121,7 @@ git submodule update name-of-the-module
       * [Request Roll](#request-roll)
       * [Sky's 5th Edition Dungeons &amp; Dragons Sheet](#skys-5th-edition-dungeons--dragons-sheet)
       * [Stat Drawer](#stat-drawer)
+      * [Summoner](#summoner)
       * [Token Info Icons](#token-info-icons)
       * [VTTA D&amp;D Beyond Integration](#vtta-dd-beyond-integration)
       * [VTTA Party](#vtta-party)
@@ -444,11 +445,14 @@ This module provides a variant layout of the Core 5e Character Sheet in Foundry 
 ## [Stat Drawer](Foundry%20VTT%20Modules%20for%20DnD%205E/statdrawer.md)
 A module for Foundry VTT that lets you generate ablitiy scores for characters using the "Holy Grail" method as described [here](https://www.reddit.com/r/DnD/comments/c67dft/oc_another_character_stat_generation_method_i/)!
 
+## [Summoner](Foundry%20VTT%20Modules%20for%20DnD%205E/summoner.md)
+This FoundryVTT Module adds a simple compendium pack to help with DnD5e spells that summon creatures. It is nothing fancy. My players were casting find familiar and I tried to use the npc creatures that are in the DnD5e system and it wasn't working. So all I did was create actor/player types for each creature they could summon.
+
 ## [Token Info Icons](Foundry%20VTT%20Modules%20for%20DnD%205E/fvtt---token-info-icons.md)
 Simple module that displays Speed, AC, and Passive Perception on Tokens for the GM.
 
 ## [VTTA D&D Beyond Integration](Foundry%20VTT%20Modules%20for%20DnD%205E/VTTA%20D%26D%20Beyond%20Integration.md)
-Foundry VTT Modules (Defunct) Foundry VTT Modules (Universal) Foundry VTT Modules for 13th Age Foundry VTT Modules for DnD 5E Foundry VTT Modules for GURPS Foundry VTT Modules for WFRP 4E README.md csplit-modules-00 csplit-modules-25 csplit-modules-34 csplit-sections-00 csplit-sections-01 csplit-sections-02 csplit-sections-03 csplit-sections-04 csplit-sections-05 csplit-sections-06 csplit-sections-07 header.md modules.md update_modules.sh By clicking an inserted button on any D&D Beyond monster's page, you can **import that monster** straight into the game, with **all stats, all actions, all attacks, reactions and legendary actions**, fully Foundry compatible and up to date to the latest changes
+Foundry VTT Modules (Defunct) Foundry VTT Modules (Universal) Foundry VTT Modules for 13th Age Foundry VTT Modules for DnD 5E Foundry VTT Modules for GURPS Foundry VTT Modules for WFRP 4E README.md csplit-modules-00 csplit-modules-25 csplit-modules-35 csplit-sections-00 csplit-sections-01 csplit-sections-02 csplit-sections-03 csplit-sections-04 csplit-sections-05 csplit-sections-06 csplit-sections-07 header.md modules.md update_modules.sh By clicking an inserted button on any D&D Beyond monster's page, you can **import that monster** straight into the game, with **all stats, all actions, all attacks, reactions and legendary actions**, fully Foundry compatible and up to date to the latest changes
 
 ## [VTTA Party](Foundry%20VTT%20Modules%20for%20DnD%205E/VTTA%20Party.md)
 The overview window acts intelligently to not overload you with characters and NPCs:

@@ -16,4 +16,3 @@
 A module for Foundry VTT that lets you generate ablitiy scores for characters using the "Holy Grail" method as described [here](https://www.reddit.com/r/DnD/comments/c67dft/oc_another_character_stat_generation_method_i/)!
 
 ---
-
