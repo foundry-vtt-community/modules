@@ -25,4 +25,4 @@ jobs:
         if [[ "$(git diff --cached)" != "" ]] ; then
             git commit -m "Update README.md Modules listing (Automatic)"
         fi
-        git push https://$GITHUB_API_KEY@github.com/foundry-vtt-community/modules.git HEAD:master
+        git push https://$ACCESS_TOKEN@github.com/foundry-vtt-community/modules.git HEAD:master
