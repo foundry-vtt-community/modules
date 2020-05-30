@@ -20,6 +20,10 @@ git submodule update name-of-the-module
 ```
 
 
+Get Modules for Foundry VTT on the official site: [https://foundryvtt.com/packages/](https://foundryvtt.com/packages/)
+
+The list below is an unofficial list of game modules.
+
 <!--tl=2-->
 <!--ts-->
    * [Foundry VTT Modules (Universal)](#foundry-vtt-modules-universal)
@@ -150,8 +154,7 @@ git submodule update name-of-the-module
       * [SRD Bestiary Module](#srd-bestiary-module)
       * [Z Order (functionality integrated into core)](#z-order-functionality-integrated-into-core)
    * [Appendix](#appendix)
-      * [Appendix A: Adding a Module](#appendix-a-adding-a-module)
-      * [Appendix B: Best Editing Practices](#appendix-b-best-editing-practices)
+      * [Appendix A: Best Editing Practices](#appendix-a-best-editing-practices)
 <!--te-->
 
 # Foundry VTT Modules (Universal)
