@@ -455,10 +455,18 @@ This FoundryVTT Module adds a simple compendium pack to help with DnD5e spells t
 Simple module that displays Speed, AC, and Passive Perception on Tokens for the GM.
 
 ## [VTTA D&D Beyond Integration](Foundry%20VTT%20Modules%20for%20DnD%205E/VTTA%20D%26D%20Beyond%20Integration.md)
-Foundry VTT Modules (Defunct) Foundry VTT Modules (Universal) Foundry VTT Modules for 13th Age Foundry VTT Modules for DnD 5E Foundry VTT Modules for GURPS Foundry VTT Modules for WFRP 4E README.md csplit-modules-00 csplit-modules-25 csplit-modules-35 csplit-sections-00 csplit-sections-01 csplit-sections-02 csplit-sections-03 csplit-sections-04 csplit-sections-05 csplit-sections-06 csplit-sections-07 header.md modules.md update_modules.sh By clicking an inserted button on any D&D Beyond monster's page, you can **import that monster** straight into the game, with **all stats, all actions, all attacks, reactions and legendary actions**, fully Foundry compatible and up to date to the latest changes
+Foundry VTT Modules (Defunct) Foundry VTT Modules (Universal) Foundry VTT Modules for 13th Age Foundry VTT Modules for DnD 5E Foundry VTT Modules for GURPS Foundry VTT Modules for WFRP 4E README.md csplit-modules-00 csplit-modules-25 csplit-modules-35 csplit-sections-00 csplit-sections-01 csplit-sections-02 csplit-sections-03 csplit-sections-04 csplit-sections-05 csplit-sections-06 csplit-sections-07 csplit-sections-08 header.md modules.md update_modules.sh By clicking an inserted button on any D&D Beyond monster's page, you can **import that monster** straight into the game, with **all stats, all actions, all attacks, reactions and legendary actions**, fully Foundry compatible and up to date to the latest changes
 
 ## [VTTA Party](Foundry%20VTT%20Modules%20for%20DnD%205E/VTTA%20Party.md)
 The overview window acts intelligently to not overload you with characters and NPCs:
+
+# Foundry VTT Modules for DUNGEON WORLD
+
+Foundry modules that work within Dungeon World are noted here. These may include NPC compendiums that may be legally shared, world saves, character sheet mods, changes to roll tables, translation modules etc.
+
+
+## [Dungeon World Babele German](Foundry%20VTT%20Modules%20for%20DUNGEON%20WORLD/foundryvtt-babele%29.md)
+This mod translates the compendium entries of Dungeon World to German. All further information please see the READ.ME in Gitlab.
 
 # Foundry VTT Modules for GURPS
 
