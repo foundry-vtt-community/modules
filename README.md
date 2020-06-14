@@ -60,6 +60,7 @@ The list below is an unofficial list of game modules.
       * [Group Initiative](#group-initiative)
       * [Image Drop](#image-drop)
       * [Image Previewer](#image-previewer)
+      * [Lancer Condition Icons](#lancer-condition-icons)
       * [Layer Hotkeys](#layer-hotkeys)
       * [Less Fog](#less-fog)
       * [Simple Dice Roller](#simple-dice-roller)
@@ -255,6 +256,9 @@ Allows dropping images from journal entries to the canvas as tiles.
 
 ## [Image Previewer](Foundry%20VTT%20Modules%20%28Universal%29/image-previewer.md)
 A little app to preview images on hover in the file picker menu.
+
+## [Lancer Condition Icons](Foundry%20VTT%20Modules%20%28Universal%29/lancer-conditions.md)
+Adds a variety of condition/status icons for tokens, which are the wonderful work of Cancermantis and Hayley on the Lancer Discord (Pilot.NET). Aimed at Lancer, but not restricted to that system. Includes per-world settings to either keep or replace the stock Foundry status icons, and to select which sub-set(s) of icons from this module to enable.
 
 ## [Layer Hotkeys](Foundry%20VTT%20Modules%20%28Universal%29/layer-hotkeys.md)
 This module adds hotkeys for switching layers and the active tool in canvas.

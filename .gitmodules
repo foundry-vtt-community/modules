@@ -281,3 +281,6 @@
 [submodule "Foundry VTT Modules (Universal)/background-volume"]
 	path = Foundry VTT Modules (Universal)/background-volume
 	url = https://github.com/mtvjr/background-volume
+[submodule "Foundry VTT Modules (Universal)/lancer-conditions"]
+	path = Foundry VTT Modules (Universal)/lancer-conditions
+	url = https://github.com/Eranziel/lancer-conditions
