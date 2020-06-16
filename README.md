@@ -70,6 +70,7 @@ The list below is an unofficial list of game modules.
       * [Modbox](#modbox)
       * [Mother, May I?](#mother-may-i)
       * [No Token Animations](#no-token-animations)
+      * [Multilevel Tokens](#multilevel-tokens)
       * [Permission Viewer](#permission-viewer)
       * [Pings](#pings)
       * [Playlist Import](#playlist-import)
@@ -283,6 +284,9 @@ Adds an input box to the toolbar that applies a modifier to the next roll.
 
 ## [Mother, May I?](Foundry%20VTT%20Modules%20%28Universal%29/mother-may-i.md)
 Allows trusted players to drag items and actors they own to the canvas as long as a GM is logged in.
+
+## [Multilevel Tokens](Foundry%20VTT%20Modules%20%28Universal%29/foundryvtt-multilevel-tokens.md)
+
 
 ## [No Token Animations](Foundry%20VTT%20Modules%20%28Universal%29/No%20Token%20Animations.md)
 Adds an option to the settings dialog to disable token movement animations. Tokens will drop immediately instead of sliding when dragged and dropped around the map with this setting enabled.

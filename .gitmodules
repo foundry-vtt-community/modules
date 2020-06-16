@@ -284,3 +284,6 @@
 [submodule "Foundry VTT Modules (Universal)/lancer-conditions"]
 	path = Foundry VTT Modules (Universal)/lancer-conditions
 	url = https://github.com/Eranziel/lancer-conditions
+[submodule "Foundry VTT Modules (Universal)/foundryvtt-multilevel-tokens"]
+	path = Foundry VTT Modules (Universal)/foundryvtt-multilevel-tokens
+	url = https://github.com/grandseiken/foundryvtt-multilevel-tokens
