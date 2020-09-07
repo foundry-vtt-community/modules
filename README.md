@@ -201,6 +201,9 @@ This module allows players to set custom colors for different types of chat mess
 ## [Combat Utility Belt](Foundry%20VTT%20Modules%20%28Universal%29/master.md)
 You can read more about the module in the README @ (https://github.com/death-save/combat-utility-belt/tree/master).
 
+## [Compendium Folders](Foundry%20VTT%20Modules%20%28Universal%29/vtt-compendium-folders.md)
+Adds a nested folder structure to the compendiums tab, allowing you to organize (and hide) compendiums.
+
 ## [Create Actors from Folder](Foundry%20VTT%20Modules%20%28Universal%29/fvtt-create-actors-from-folder.md)
 Recursivly creates actors from images in specified folder
 
