@@ -1,6 +1,6 @@
 ## MiniMap
 
-* **Author**: grape_juice#2539 on discord
+* **Author**: grape_juice#2539 on discord, support on [Patreon](https://www.patreon.com/foundry_grape_juice) 
 * **Version**: 0.0.7
 * **Foundry VTT Compatibility**: 0.6+
 * **System Compatibility (If applicable)**: Universal
@@ -10,7 +10,7 @@
 
 ### Link(s) to Module
 * [https://gitlab.com/jesusafier/minimap](https://gitlab.com/jesusafier/minimap)
-* [https://gitlab.com/jesusafier/minimap/-/raw/master/module.json](https://gitlab.com/jesusafier/minimap/-/raw/master/module.json)
+* [https://gitlab.com/jesusafier/minimap/-/jobs/artifacts/master/raw/module.json?job=build-module](https://gitlab.com/jesusafier/minimap/-/jobs/artifacts/master/raw/module.json?job=build-module)
 
 ### Description
 Currently has the following features:
@@ -19,5 +19,6 @@ Currently has the following features:
 - Players view shows only explored areas.
 - All player token are shown live on the minimap.
 
+![](https://i.imgur.com/4feonG4.gif)
 ---
 

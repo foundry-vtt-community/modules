@@ -1,6 +1,6 @@
 ## Grape-Hud
 
-* **Author**: grape_juice#2539 on Discord.
+* **Author**: grape_juice#2539 on Discord, support on [Patreon](https://www.patreon.com/foundry_grape_juice).
 * **Version**: 0.0.10
 * **Foundry VTT Compatibility**: 0.6.0+
 * **System Compatibility (If applicable)**: Universal
@@ -10,7 +10,13 @@
 
 ### Link(s) to Module
 * [https://gitlab.com/jesusafier/grape-hud](https://gitlab.com/jesusafier/grape-hud) 
-* [https://gitlab.com/jesusafier/grape-hud/-/raw/master/module.json](https://gitlab.com/jesusafier/grape-hud/-/raw/master/module.json) 
+* [https://gitlab.com/jesusafier/grape-hud/-/jobs/artifacts/master/raw/module.json?job=build-module
+](
+https://gitlab.com/jesusafier/grape-hud/-/jobs/artifacts/master/raw/module.json?job=build-module
+) 
+
+![](https://i.imgur.com/g3K34hm.gif)
+![](https://i.imgur.com/RhLdrKl.gif)
 
 ### Description
 

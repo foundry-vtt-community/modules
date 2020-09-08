@@ -1,6 +1,6 @@
 ## Haste
 
-* **Author**: grape_juice#2539 on Discord.
+* **Author**: grape_juice#2539 on Discord, support on [Patreon](https://www.patreon.com/foundry_grape_juice).
 * **Version**: 0.4.9
 * **Foundry VTT Compatibility**: 0.6.0+
 * **Module Requirement(s)**: None
@@ -9,7 +9,8 @@
 
 ### Link(s) to Module
 * [https://gitlab.com/jesusafier/haste](https://gitlab.com/jesusafier/haste) 
-* [https://gitlab.com/jesusafier/haste/-/raw/master/module.json](https://gitlab.com/jesusafier/haste/-/raw/master/module.json)
+* [https://gitlab.com/jesusafier/haste/-/jobs/artifacts/master/raw/module.json?job=build-module](https://gitlab.com/jesusafier/haste/-/jobs/artifacts/master/raw/module.json?job=build-module)
+
 
 ### Description
 An experimental performance enhancement tweak modules for FoundryVTT it has 2 features:
