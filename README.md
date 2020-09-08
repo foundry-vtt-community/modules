@@ -39,6 +39,7 @@ The list below is an unofficial list of game modules.
       * [Chat Autoloader](#chat-autoloader)
       * [Chat Colors &amp; More](#chat-colors--more)
       * [Combat Utility Belt](#combat-utility-belt)
+      * [Compendium Folders](#compendium-folders)
       * [Create Actors from Folder](#create-actors-from-folder)
       * [Cursor Hider](#cursor-hider)
       * [Deselection](#deselection)
@@ -57,7 +58,10 @@ The list below is an unofficial list of game modules.
       * [GM Notes](#gm-notes)
       * [GM Scene Background](#gm-scene-background)
       * [Grid Scaler](#grid-scaler)
+      * [Grape-Hud](#grape-hud)
+      * [Grape_Juice - Manual Roll](#grape_juice---manual-roll)
       * [Group Initiative](#group-initiative)
+      * [Haste](#haste)
       * [Image Drop](#image-drop)
       * [Image Previewer](#image-previewer)
       * [Lancer Condition Icons](#lancer-condition-icons)
@@ -67,6 +71,7 @@ The list below is an unofficial list of game modules.
       * [Special Dice Roller](#special-dice-roller)
       * [Maestro](#maestro)
       * [Merge Walls](#merge-walls)
+      * [MiniMap](#minimap)
       * [Modbox](#modbox)
       * [Mother, May I?](#mother-may-i)
       * [Multilevel Tokens](#multilevel-tokens)
@@ -252,8 +257,17 @@ Allows GMs to set a GM-only background image.
 ## [Grid Scaler](Foundry%20VTT%20Modules%20%28Universal%29/scaleGrid.md)
 This mod allows you to resize a grid more easily within Foundry, allowing easier map setup when a grid is uneven or unclear within a background image.
 
+## [Grape-Hud](Foundry%20VTT%20Modules%20%28Universal%29/grape-hud.md)
+
+
+## [Grape_Juice - Manual Roll](Foundry%20VTT%20Modules%20%28Universal%29/grape_juice-manual-roll.md)
+Just a proof-of-concept for hooking into the roll system on pre 0.7.x
+
 ## [Group Initiative](Foundry%20VTT%20Modules%20%28Universal%29/foundry-group-initiative.md)
 Allows rolling initiative once for each NPC group. Each NPC inside the group will use the same initiative result.
+
+## [Haste](Foundry%20VTT%20Modules%20%28Universal%29/haste.md)
+An experimental performance enhancement tweak modules for FoundryVTT it has 2 features:
 
 ## [Image Drop](Foundry%20VTT%20Modules%20%28Universal%29/foundryvtt-image-drop.md)
 Allows dropping images from journal entries to the canvas as tiles.
@@ -281,6 +295,9 @@ Adds some sound-focused features to Foundry Virtual Tabletop!
 
 ## [Merge Walls](Foundry%20VTT%20Modules%20%28Universal%29/master.md)
 This module came about after looking at walls generated in DunGen and a discussion with Atropos about how to reduce the number or walls by merging neighbouring walls. For hand drawn maps there is only a small decrease but for DunGen and maps imported from Roll20 modules there can be 30% reduction in the number of walls. The results are not too far from hand crafted wall layouts.
+
+## [MiniMap](Foundry%20VTT%20Modules%20%28Universal%29/minimap.md)
+Currently has the following features:
 
 ## [Modbox](Foundry%20VTT%20Modules%20%28Universal%29/foundryvtt-modbox.md)
 Adds an input box to the toolbar that applies a modifier to the next roll.

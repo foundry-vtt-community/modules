@@ -290,3 +290,15 @@
 [submodule "Foundry VTT Modules (Universal)/vtt-compendium-folders"]
 	path = Foundry VTT Modules (Universal)/vtt-compendium-folders
 	url = https://github.com/earlSt1/vtt-compendium-folders
+[submodule "Foundry VTT Modules (Universal)/grape-hud"]
+	path = Foundry VTT Modules (Universal)/grape-hud
+	url = https://gitlab.com/jesusafier/grape-hud
+[submodule "Foundry VTT Modules (Universal)/grape_juice-manual-roll"]
+	path = Foundry VTT Modules (Universal)/grape_juice-manual-roll
+	url = https://gitlab.com/jesusafier/grape_juice-manual-roll
+[submodule "Foundry VTT Modules (Universal)/haste"]
+	path = Foundry VTT Modules (Universal)/haste
+	url = https://gitlab.com/jesusafier/haste
+[submodule "Foundry VTT Modules (Universal)/minimap"]
+	path = Foundry VTT Modules (Universal)/minimap
+	url = https://gitlab.com/jesusafier/minimap
