@@ -69,12 +69,14 @@ The list below is an unofficial list of game modules.
       * [Less Fog](#less-fog)
       * [Simple Dice Roller](#simple-dice-roller)
       * [Special Dice Roller](#special-dice-roller)
+      * [Macro Folders](#macro-folders)
       * [Maestro](#maestro)
       * [Merge Walls](#merge-walls)
       * [MiniMap](#minimap)
       * [Modbox](#modbox)
       * [Mother, May I?](#mother-may-i)
       * [Multilevel Tokens](#multilevel-tokens)
+      * [Navigation Presets](#navigation-presets)
       * [No Token Animations](#no-token-animations)
       * [Permission Viewer](#permission-viewer)
       * [Pings](#pings)
@@ -290,6 +292,9 @@ Module to enhance visibility for the GM in Foundry VTT.
 ## [Special Dice Roller](Foundry%20VTT%20Modules%20%28Universal%29/foundryvtt-special-dice-roller.md)
 Supports rolling dice in your chat window for various non regular dice systems:
 
+## [Macro Folders](Foundry%20VTT%20Modules%20%28Universal%29/vtt-macro-folders.md)
+Adds a nested folder structure to the macros directory, allowing you to organize macros, and define "player folders", where macros created by that player will be placed.
+
 ## [Maestro](Foundry%20VTT%20Modules%20%28Universal%29/maestro.md)
 Adds some sound-focused features to Foundry Virtual Tabletop!
 
@@ -306,6 +311,9 @@ Adds an input box to the toolbar that applies a modifier to the next roll.
 Allows trusted players to drag items and actors they own to the canvas as long as a GM is logged in.
 
 ## [Multilevel Tokens](Foundry%20VTT%20Modules%20%28Universal%29/foundryvtt-multilevel-tokens.md)
+
+
+## [Navigation Presets](Foundry%20VTT%20Modules%20%28Universal%29/vtt-navigation-presets.md)
 
 
 ## [No Token Animations](Foundry%20VTT%20Modules%20%28Universal%29/No%20Token%20Animations.md)
